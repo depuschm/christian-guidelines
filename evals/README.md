@@ -24,6 +24,6 @@ In CI, the **Skill evals** workflow runs the suite when started by hand from the
 
 ## Maintenance
 
-- `ask-guidelines-enemies/graders/no-invented-ids.md` encodes the valid rule IDs (`LOVE-1` to `LOVE-9`). Update it when rules or files are added.
+- `ask-guidelines-enemies/graders/no-invented-ids.md` encodes the valid rule IDs (`LOVE-1` to `LOVE-9`, `SCRIP-1` to `SCRIP-6`). Update it when rules or files are added.
 - When a case fails, run it alone with `--case <name> --runs 1 --ablation none --keep-temp` and read the kept trace.
 - Add a case for each new skill, and a fixture project (`fixture.sh`, run with `--scaffold`) for skills that work on files.
