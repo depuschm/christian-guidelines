@@ -13,7 +13,12 @@ Each page sets out a tradition's teaching, cites its own catechisms, confessions
 - [The Reformed and Presbyterian churches](reformed.md): Scripture as the only rule of faith and life, the Reformed confessions and catechisms, God's sovereignty and grace, government by elders, and the church's public witness.
 - [The Anglican churches](anglican.md): the Church of England and the Anglican Communion, Scripture, the creeds, the sacraments and the historic episcopate, the Book of Common Prayer and the Thirty-Nine Articles.
 
-Pages are planned next for the Methodist, Baptist, Pentecostal and charismatic, and Anabaptist churches. Many other churches, including the many independent and evangelical churches, will need pages too.
+- [The Methodist churches](methodist.md): the Wesleys' movement, Scripture with tradition, reason and experience, grace for all, holiness and Christian perfection, the General Rules and social holiness.
+- [The Baptist churches](baptist.md): Scripture as final authority, believers' baptism, the gathered local church and its freedom, the priesthood of all believers, and religious liberty.
+- [The Pentecostal and charismatic churches](pentecostal.md): the experience of the Holy Spirit, baptism in the Spirit and its gifts, divine healing, holiness and mission, and the charismatic renewal in older churches.
+- [The Anabaptist churches](anabaptist.md): the Mennonite, Amish, Hutterite and Brethren churches, believers' baptism, following Jesus, peace and nonresistance, truth without oaths, and mutual aid.
+
+Many other churches still need pages, including the many independent and evangelical churches, the Seventh-day Adventists, the Quakers and the Churches of Christ.
 
 ## Adding a church tradition
 

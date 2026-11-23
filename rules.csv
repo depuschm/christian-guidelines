@@ -1,4 +1,16 @@
 id,status,title
+CHURCH-1,active,"Belong to a local church: worship, learn and live your faith with other Christians."
+CHURCH-2,active,"Work for unity, in your own church and between the churches."
+CHURCH-3,active,"Share in the church's life: serve, give and care for one another."
+CHURCH-4,active,"Respect and pray for those who lead the church, and hold them to account."
+CHURCH-5,active,"Settle disagreements in the church directly and gently, not through gossip or division."
+CHURCH-6,active,"Protect children and vulnerable adults in the church, and report abuse to the church and to the authorities."
+DISC-1,active,"Follow Jesus: put him first, and learn from his life and teaching."
+DISC-2,active,"Grow in the fruit of the Spirit, such as love, joy, peace, patience and kindness."
+DISC-3,active,"Practise the disciplines of the Christian life, such as Scripture, prayer, fasting, worship and service, as ways to grow in grace, not as achievements."
+DISC-4,active,Use the gifts God has given you to serve others.
+DISC-5,active,"Find friends and mentors in the faith who help you grow, and help others to grow."
+DISC-6,active,Keep following Jesus when it is costly.
 FORG-1,active,"Forgive those who wrong you, as God has forgiven you."
 FORG-2,active,"Repent: admit your sins, turn away from them and turn back to God."
 FORG-3,active,"Confess your sins to God, trusting his forgiveness."
@@ -27,6 +39,12 @@ SCRIP-3,active,"Read Scripture as a whole: let clearer passages shed light on ha
 SCRIP-4,active,"Read Scripture with other Christians: hear it in worship, study it together and learn from those who teach it."
 SCRIP-5,active,"Pray with Scripture: read slowly, meditate on it and answer God in prayer."
 SCRIP-6,active,Put what you read into practice.
+SPEECH-1,active,Tell the truth; don't lie or deceive.
+SPEECH-2,active,Don't gossip about or slander others; defend their good name.
+SPEECH-3,active,"Speak to build others up, not to wound them."
+SPEECH-4,active,Control your tongue and your anger.
+SPEECH-5,active,"Keep your word: let your ""yes"" mean yes and your ""no"" mean no."
+SPEECH-6,active,"Keep what you are told in confidence, unless keeping it would leave someone in danger."
 WOR-1,active,Worship God together with the church on the Lord's Day.
 WOR-2,active,"Be baptised in the name of the Father, the Son and the Holy Spirit, as Christ commanded."
 WOR-3,active,"Share in the Lord's Supper, as Christ commanded: ""Do this in memory of me""."
