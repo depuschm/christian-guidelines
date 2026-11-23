@@ -1,0 +1,30 @@
+name: Request a new page
+description: Ask for an area of life, a church tradition or a Bible book page that isn't written yet.
+labels: [content]
+body:
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What to add
+      options:
+        - An area of life (a role, a stage of life or a field of work)
+        - A church tradition
+        - A Bible book page
+    validations:
+      required: true
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      placeholder: Parents and children, the Coptic Orthodox Church, Romans, …
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Texts and sources you know of
+      description: For an area, the guidance the churches have published for it. For a church, its catechisms, confessions and official websites. For a book, good introductions and commentaries.
+  - type: textarea
+    id: needs
+    attributes:
+      label: What you need guidance on

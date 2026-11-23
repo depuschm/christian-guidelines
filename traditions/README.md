@@ -1,0 +1,13 @@
+# Church traditions
+
+What each church, or family of churches, teaches and how it lives, each in its own terms. The [general guidelines](../general/README.md) state what the churches teach together, and that agreement is their evidence ([ADR-0006](../docs/decisions/0006-write-rules-only-where-the-churches-agree.md)). These pages show the rest: how each church reads Scripture, what it holds about the sacraments and ministry, and how it answers the questions on which the churches differ.
+
+Each page sets out a tradition's teaching, cites its own catechisms, confessions and teaching documents and scholarly reference works, shows where churches within it differ, and maps each teaching to the general rules it matches. The pages describe; they don't judge any church's teaching, rank the churches against each other, or adopt one as the standard for the others ([ADR-0007](../docs/decisions/0007-describe-churches-on-their-own-terms.md)). A short page can't do justice to a living church, so each page links to fuller treatments.
+
+## Church traditions
+
+No church page has been written yet. The first set is planned to cover the Catholic Church, the Eastern Orthodox churches, the Oriental Orthodox churches, and the Anglican, Lutheran, Reformed, Methodist, Baptist, Pentecostal and charismatic, and Anabaptist churches. Many other churches, including the many independent and evangelical churches, will need pages too.
+
+## Adding a church tradition
+
+Copy [`_template.md`](_template.md) and follow [CONTRIBUTING.md](../CONTRIBUTING.md#5-adding-an-area-of-life-a-church-tradition-or-a-bible-book-page).

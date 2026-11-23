@@ -1,0 +1,14 @@
+{
+  "name": "christian-guidelines",
+  "description": "Christian guidelines and the skills that apply them.",
+  "owner": {
+    "name": "depuschm"
+  },
+  "plugins": [
+    {
+      "name": "christian-guidelines",
+      "source": ".",
+      "description": "Source-linked, ecumenical guidelines for Christian faith and life, a guide to every book of the Bible, and what each church tradition teaches."
+    }
+  ]
+}

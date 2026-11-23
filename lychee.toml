@@ -1,0 +1,55 @@
+# Link checker configuration for lychee: https://lychee.cli.rs/
+# Run locally: lychee --config lychee.toml './**/*.md'
+
+max_concurrency = 8
+max_retries = 3
+retry_wait_time = 5
+timeout = 30
+
+# Cache successful results for two days (CI restores .lycheecache between runs), so each
+# run only re-checks links that are new, due, or failed last time. Failures aren't cached.
+cache = true
+max_cache_age = "2d"
+cache_exclude_status = "400.."
+
+user_agent = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"
+
+# Some sites only complete a redirect with cookies.
+cookie_jar = ".lychee-cookies.json"
+
+# 429 = rate limited (e.g. YouTube, GitHub); the page exists.
+accept = ["200..=299", "429"]
+
+exclude = [
+  # Sites that answer automated requests with 403 even though the pages exist.
+  # Check these by hand before adding or changing them (see CONTRIBUTING.md).
+  # This repository's own website. It's deployed after this check runs, and the strict
+  # site build (.github/workflows/site.yml) already checks its links.
+  '^https://depuschm\.github\.io/christian-guidelines/',
+  # Temporarily unavailable: pages that disappeared but may come back. They stay cited, and
+  # the source re-check (.claude/skills/reverify-sources) looks at them again each time and
+  # removes them from this list once they're back. Give each the date and the reason.
+  # Template placeholders.
+  '^https://example\.com/',
+]
+
+exclude_path = [
+  '(^|/)specific/_template/',
+  '(^|/)traditions/_template\.md',
+  '(^|/)bible/_template\.md',
+  # The generated website (scripts/build_site.py), when built locally.
+  '(^|/)build/',
+]
+
+# Host settings go last: in TOML, every key after a [table] header belongs to that table.
+
+# github.com answers bursts of requests with HTTP 503, so go slowly there.
+[hosts."github.com"]
+concurrency = 2
+request_interval = "500ms"
+
+# Every Bible reference links a chapter page on ebible.org (scripts/bible_refs.py), so there are many
+# of them: be gentle with the site.
+[hosts."ebible.org"]
+concurrency = 2
+request_interval = "200ms"
