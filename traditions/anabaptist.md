@@ -47,6 +47,6 @@ In the order of the Confession of Faith in a Mennonite Perspective, with the con
 
 ## Tutorials and further reading
 
-- `8` [Anabaptist Theology, 3.4: Discipleship](https://www.saet.ac.uk/Christianity/AnabaptistTheology#section3.4) (St Andrews Encyclopaedia of Theology): discipleship as following Christ (*Nachfolge*) and yielding to him (*Gelassenheit*) in the Anabaptist tradition, from the 16th century to John Howard Yoder.
+- `7` [Anabaptist Theology, 3.4: Discipleship](https://www.saet.ac.uk/Christianity/AnabaptistTheology#section3.4) (St Andrews Encyclopaedia of Theology): discipleship as following Christ (*Nachfolge*) and yielding to him (*Gelassenheit*) in the Anabaptist tradition, from the 16th century to John Howard Yoder.
 - `7` [Anabaptists](https://groups.etown.edu/amishstudies/religion/anabaptists/) (Young Center for Anabaptist and Pietist Studies): a short introduction to the Anabaptist movement, its persecution and the groups that descend from it.
 - `6` [Mennonite Central Committee, About MCC](https://mcc.org/about): the relief, development and peacebuilding work of Mennonite Central Committee, formed in 1920.
