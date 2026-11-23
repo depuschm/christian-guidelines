@@ -14,10 +14,15 @@ If you only read three sources beyond the Bible, read these:
 
 ## Topics
 
+### The shared faith
+
+- [What the churches confess together](beliefs.md): the faith of the Nicene and Apostles' Creeds, article by article, with Scripture and each church's teaching, and where the churches differ.
+
 ### The heart of the Christian life
 
 - [Love of God and neighbour](love.md): the two great commandments, the Golden Rule, who counts as a neighbour, love of enemies, love among Christians and love shown in deeds.
+- [Reading Scripture](scripture.md): reading the Bible regularly, in context and as a whole, with other Christians and in prayer, and putting it into practice.
 
 ### Planned
 
-More topics will follow, each with its own rule prefix: what the churches confess together in the creeds, Scripture and how to read it, prayer, worship and the sacraments, growing as a disciple, belonging to a church, repentance and forgiveness, honest and kind speech, family, money and generosity, work and rest, justice and the poor, care for creation, suffering and hope, sharing the faith, public life, and discernment. A reading list will gather books, courses and complete guides.
+More topics will follow, each with its own rule prefix: prayer, worship and the sacraments, growing as a disciple, belonging to a church, repentance and forgiveness, honest and kind speech, family, money and generosity, work and rest, justice and the poor, care for creation, suffering and hope, sharing the faith, public life, and discernment. A reading list will gather books, courses and complete guides.

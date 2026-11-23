@@ -6,7 +6,11 @@ Each page sets out a tradition's teaching, cites its own catechisms, confessions
 
 ## Church traditions
 
-No church page has been written yet. The first set is planned to cover the Catholic Church, the Eastern Orthodox churches, the Oriental Orthodox churches, and the Anglican, Lutheran, Reformed, Methodist, Baptist, Pentecostal and charismatic, and Anabaptist churches. Many other churches, including the many independent and evangelical churches, will need pages too.
+- [The Catholic Church](catholic.md): Scripture and Tradition with the teaching office, the seven sacraments, Mary and the saints, grace and justification, and Catholic social teaching.
+- [The Eastern Orthodox churches](eastern-orthodox.md): Holy Tradition, the seven ecumenical councils, deification (theosis), the Divine Liturgy and the holy mysteries, icons, prayer and fasting.
+- [The Lutheran churches](lutheran.md): Scripture as rule and norm, justification by grace through faith, Word and sacraments, the Book of Concord and Luther's catechisms.
+
+Pages are planned next for the Oriental Orthodox churches, and the Anglican, Reformed, Methodist, Baptist, Pentecostal and charismatic, and Anabaptist churches. Many other churches, including the many independent and evangelical churches, will need pages too.
 
 ## Adding a church tradition
 

@@ -17,4 +17,5 @@ When a page introduces an abbreviation that readers may not know, add a row here
 | SBL | Society of Biblical Literature, the largest scholarly society for the study of the Bible | [The Bible](bible/README.md) |
 | SBLGNT | SBL Greek New Testament, a free critical edition of the New Testament in Greek | [The Bible](bible/README.md) |
 | USCCB | United States Conference of Catholic Bishops, publisher of the NABRE and its introductions to each book | [James](bible/new-testament/james.md) |
+| WCC | World Council of Churches, a fellowship of churches whose Faith and Order Commission works towards agreement between them | [What the churches confess together](general/beliefs.md) |
 | WEBBE | World English Bible British Edition with Deuterocanon, the public domain translation that every Bible reference in these guidelines links to | [The Bible](bible/README.md) |

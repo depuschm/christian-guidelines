@@ -1,6 +1,6 @@
 ---
 name: ask-guidelines
-description: Answer questions about what the Christian Guidelines say, such as what the Bible teaches about a topic, what a book of the Bible is about, which rule applies to a situation in Christian life, what the churches teach together, or what one church tradition holds. Covers the general rules for Christian life (starting with the love of God and neighbour), a guide to the books of the Bible including the deuterocanon, and the teaching of the church traditions, all written ecumenically. Use for questions about Christian faith and life, the Bible or the churches that don't need a full review or study.
+description: Answer questions about what the Christian Guidelines say, such as what the Bible teaches about a topic, what a book of the Bible is about, which rule applies to a situation in Christian life, what the churches teach together, or what one church tradition holds. Covers what the churches confess together in the creeds, the general rules for Christian life (so far the love of God and neighbour, and reading Scripture), a guide to the books of the Bible including the deuterocanon, and the teaching of the church traditions (so far the Catholic Church, the Eastern Orthodox churches and the Lutheran churches), all written ecumenically. Use for questions about Christian faith and life, the Bible or the churches that don't need a full review or study.
 argument-hint: "[question]"
 ---
 
