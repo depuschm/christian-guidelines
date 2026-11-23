@@ -27,12 +27,12 @@ These guidelines draw on Scripture and the churches' teaching. They don't replac
 ## Structure
 
 ```
-general/            Christian life for everyone: the love of God and neighbour, and (planned) prayer, Scripture, forgiveness, …
+general/            Christian life for everyone: the creeds, love of God and neighbour, reading Scripture, and (planned) prayer, forgiveness, …
 bible/              One page per book of the Bible: Old Testament, deuterocanon, New Testament
 bible/_template.md  Starting point for a book page
 specific/<area>     One folder per role, stage of life or field of work (planned)
 specific/_template  Starting point for a new area folder
-traditions/         What each church tradition teaches, in its own terms (planned)
+traditions/         What each church tradition teaches, in its own terms
 skills/             AI skills (Agent Skills format) that apply these guidelines
 checklists/         One checklist per area, for reflection, studies and reviews (generated)
 docs/decisions/     Decision records for this repository
@@ -51,9 +51,11 @@ zensical.toml       Website configuration, built by scripts/build_site.py
 
 | Topic | What it covers |
 | --- | --- |
+| [What the churches confess together](general/beliefs.md) | The faith of the Nicene and Apostles' Creeds, article by article, and where the churches differ |
 | [Love of God and neighbour](general/love.md) | The two great commandments, the Golden Rule, who my neighbour is, love of enemies, love in deeds |
+| [Reading Scripture](general/scripture.md) | Reading the Bible regularly, in context and as a whole, with others and in prayer, and doing what it says |
 
-More topics are planned: what the churches confess together in the creeds, Scripture and how to read it, prayer, worship and the sacraments, growing as a disciple, belonging to a church, repentance and forgiveness, family, money, work and rest, justice and the poor, care for creation, suffering and hope, sharing the faith, public life, and discernment.
+More topics are planned: prayer, worship and the sacraments, growing as a disciple, belonging to a church, repentance and forgiveness, family, money, work and rest, justice and the poor, care for creation, suffering and hope, sharing the faith, public life, and discernment.
 
 ## The Bible
 
@@ -69,7 +71,11 @@ Planned, with their own guidance and rules: church leadership and safeguarding, 
 
 ## Church traditions
 
-Planned: the Catholic Church, the Eastern and Oriental Orthodox churches, and the Anglican, Lutheran, Reformed, Methodist, Baptist, Pentecostal and Anabaptist churches, each described in its own terms ([ADR-0007](docs/decisions/0007-describe-churches-on-their-own-terms.md)). See [traditions/README.md](traditions/README.md).
+Each church tradition is described in its own terms, from its own teaching documents ([ADR-0007](docs/decisions/0007-describe-churches-on-their-own-terms.md)):
+
+[The Catholic Church](traditions/catholic.md) · [The Eastern Orthodox churches](traditions/eastern-orthodox.md) · [The Lutheran churches](traditions/lutheran.md)
+
+Planned next: the Oriental Orthodox churches, and the Anglican, Reformed, Methodist, Baptist, Pentecostal and Anabaptist churches. See [traditions/README.md](traditions/README.md).
 
 ## Checklists
 
@@ -111,7 +117,7 @@ Tools that read [`AGENTS.md`](AGENTS.md) or support Agent Skills can use the `sk
 ## Roadmap
 
 1. **Foundations** (done): the repository's decisions, scoring criteria, templates, checks and website, the Bible reference tooling, and one page of each kind to prove the format: [Love of God and neighbour](general/love.md) and [James](bible/new-testament/james.md).
-2. **General topics and church pages**: the planned topics above, starting with what the churches confess together and Scripture, and the first church pages.
+2. **General topics and church pages** (in progress): done so far are what the churches confess together, Reading Scripture, and the Catholic, Eastern Orthodox and Lutheran pages. Next: prayer, worship and the sacraments, forgiveness and the other planned topics, and the remaining church pages.
 3. **Bible book pages**: the New Testament, then the Old Testament, then the deuterocanon.
 4. **Areas of life, more skills and evals.**
 
