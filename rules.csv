@@ -5,18 +5,36 @@ CHURCH-3,active,"Share in the church's life: serve, give and care for one anothe
 CHURCH-4,active,"Respect and pray for those who lead the church, and hold them to account."
 CHURCH-5,active,"Settle disagreements in the church directly and gently, not through gossip or division."
 CHURCH-6,active,"Protect children and vulnerable adults in the church, and report abuse to the church and to the authorities."
+CREAT-1,active,"Care for the earth as God's creation, entrusted to people to tend and keep."
+CREAT-2,active,"Live simply, and avoid waste."
+CREAT-3,active,"Act against pollution and the destruction of the natural world, which harm the poor most."
+CREAT-4,active,"Treat animals kindly, and don't make them suffer needlessly."
+CREAT-5,active,Thank and praise God for creation.
+CREAT-6,active,"Share the earth's goods fairly, with people now and with generations to come."
 DISC-1,active,"Follow Jesus: put him first, and learn from his life and teaching."
 DISC-2,active,"Grow in the fruit of the Spirit, such as love, joy, peace, patience and kindness."
 DISC-3,active,"Practise the disciplines of the Christian life, such as Scripture, prayer, fasting, worship and service, as ways to grow in grace, not as achievements."
 DISC-4,active,Use the gifts God has given you to serve others.
 DISC-5,active,"Find friends and mentors in the faith who help you grow, and help others to grow."
 DISC-6,active,Keep following Jesus when it is costly.
+FAM-1,active,"Honour your father and mother, and care for them when they are old."
+FAM-2,active,Be faithful to your husband or wife.
+FAM-3,active,"Love and care for your children, bring them up in the faith, and don't provoke them."
+FAM-4,active,"Love and honour your husband or wife with self-giving love, as Christ loved the church."
+FAM-5,active,"Honour singleness, as well as marriage, as a way to love and serve God."
+FAM-6,active,"Never abuse or neglect anyone in your family; protect those at risk, and help them find safety."
 FORG-1,active,"Forgive those who wrong you, as God has forgiven you."
 FORG-2,active,"Repent: admit your sins, turn away from them and turn back to God."
 FORG-3,active,"Confess your sins to God, trusting his forgiveness."
 FORG-4,active,"Seek to be reconciled with those you have wronged, and put right what you can."
 FORG-5,active,Don't take revenge: leave judgement to God and to just authorities.
 FORG-6,active,"Help those who fall to find their way back, gently."
+JUST-1,active,"Defend the poor, the widow, the orphan and the stranger."
+JUST-2,active,"Treat every person with equal dignity, as made in God's image: reject racism and every kind of unjust discrimination."
+JUST-3,active,"Act justly: don't take bribes, and don't twist justice for anyone."
+JUST-4,active,"Welcome strangers, refugees and migrants."
+JUST-5,active,"Work for just laws and structures, not only for charity."
+JUST-6,active,"Visit and care for prisoners, and treat offenders with dignity."
 LOVE-1,active,"Love God with all your heart, soul, mind and strength."
 LOVE-2,active,Love your neighbour as yourself.
 LOVE-3,active,Treat others as you would want them to treat you.
@@ -26,6 +44,12 @@ LOVE-6,active,Love one another as Christ loved you.
 LOVE-7,active,"Show love in deeds, not only in words: meet people's real needs."
 LOVE-8,active,"Practise the marks of love: be patient and kind, humble and gentle, keep no record of wrongs and rejoice in the truth."
 LOVE-9,active,"Don't show favouritism: love rich and poor, insiders and outsiders alike."
+MONEY-1,active,Don't steal or cheat: be honest in all your dealings.
+MONEY-2,active,Give generously to people in need and to the work of the church.
+MONEY-3,active,Don't let money rule you: guard against greed and the love of money.
+MONEY-4,active,Be content with what you have.
+MONEY-5,active,"Repay what you owe, and don't take on debts you can't repay."
+MONEY-6,active,Use what you have as a steward who will give account to God.
 PRAY-1,active,Pray every day: make prayer a regular part of your life.
 PRAY-2,active,"Pray the Lord's Prayer, and let it shape all your prayer."
 PRAY-3,active,"Pray for others: for those in need, for those in authority and for those who wrong you."
@@ -51,3 +75,9 @@ WOR-3,active,"Share in the Lord's Supper, as Christ commanded: ""Do this in memo
 WOR-4,active,"Prepare to receive the Lord's Supper: examine yourself, and be reconciled with others first."
 WOR-5,active,"Keep a day of rest and worship, free from unnecessary work."
 WOR-6,active,"Worship God with your whole life, not only in church."
+WORK-1,active,"Work honestly and well, as serving God."
+WORK-2,active,"Pay workers fairly and on time, and treat them justly."
+WORK-3,active,Respect the dignity of every worker and every kind of honest work.
+WORK-4,active,Don't overwork yourself or others: give those who work for you their rest.
+WORK-5,active,See your work as a calling in which you serve God and your neighbour.
+WORK-6,active,"Provide for yourself and your family by your work where you can, and help those who can't."

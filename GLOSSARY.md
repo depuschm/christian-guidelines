@@ -9,6 +9,7 @@ When a page introduces an abbreviation that readers may not know, add a row here
 | ADR | Architecture decision record: a short document that records one decision about this repository, with its reasons | [Decisions](docs/decisions/README.md) |
 | CHARIS | Catholic Charismatic Renewal International Service, the body the Holy See established to serve the charismatic renewal in the Catholic Church | [The Pentecostal and charismatic churches](traditions/pentecostal.md) |
 | CI | Continuous integration: the checks that run automatically on every change to this repository | [Contributing](CONTRIBUTING.md) |
+| ELCA | Evangelical Lutheran Church in America, a Lutheran church in the United States | [Justice and the poor](general/justice.md) |
 | ESV | English Standard Version (2001), a widely used evangelical translation of the Bible | [Decision 0009](docs/decisions/0009-quote-and-link-one-public-domain-translation.md) |
 | GAFCON | Global Anglican Future Conference, a movement of Anglicans formed in 2008 around the Jerusalem Statement | [The Anglican churches](traditions/anglican.md) |
 | MADR | Markdown Architectural Decision Records, the template the decision records follow | [Decisions](docs/decisions/README.md) |

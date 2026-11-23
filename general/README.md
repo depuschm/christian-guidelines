@@ -29,6 +29,14 @@ If you only read three sources beyond the Bible, read these:
 - [Belonging to a church](church.md): belonging to a local church, working for unity, sharing in the church's life, respecting and holding leaders to account, settling disagreements, and protecting children and vulnerable adults.
 - [Honest and kind speech](speech.md): truthfulness, no gossip or slander, words that build up, controlling the tongue and anger, keeping your word, and confidentiality.
 
+### Life in the world
+
+- [Marriage, family and singleness](family.md): honouring parents, faithfulness in marriage, raising children, self-giving love, singleness as a calling, and never abusing anyone at home.
+- [Money, possessions and generosity](money.md): honesty, generosity, guarding against greed, contentment, debts, and stewardship.
+- [Work and rest](work.md): working well, fair wages, the dignity of work, rest for workers, work as a calling, and providing for others.
+- [Justice and the poor](justice.md): defending the poor and the stranger, equal dignity, honest justice, welcoming migrants, just structures, and care for prisoners.
+- [Care for creation](creation.md): caring for the earth, simple living, pollution and the natural world, animals, praise for creation, and fair shares for future generations.
+
 ### Planned
 
-More topics will follow, each with its own rule prefix: family, money and generosity, work and rest, justice and the poor, care for creation, suffering and hope, sharing the faith, public life, and discernment. A reading list will gather books, courses and complete guides.
+More topics will follow, each with its own rule prefix: suffering and hope, sharing the faith, public life, and discernment. A reading list will gather books, courses and complete guides.
