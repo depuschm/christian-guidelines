@@ -53,3 +53,13 @@ request_interval = "500ms"
 [hosts."ebible.org"]
 concurrency = 2
 request_interval = "200ms"
+
+# The US Catholic bishops' sites answer bursts of scripted requests with HTTP 403 and recover
+# after a few seconds (checked 2026-11-23), so go slowly there.
+[hosts."bible.usccb.org"]
+concurrency = 1
+request_interval = "3s"
+
+[hosts."www.usccb.org"]
+concurrency = 1
+request_interval = "3s"

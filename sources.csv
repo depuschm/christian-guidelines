@@ -3,6 +3,7 @@ score,title,url,verified
 9,"Bible Gateway, New Revised Standard Version Updated Edition (NRSVUE)",https://www.biblegateway.com/versions/New-Revised-Standard-Version-Updated-Edition-NRSVUE-Bible/,2026-11-23
 9,"BookOfConcord.org, The Book of Concord",https://bookofconcord.org/,2026-11-23
 9,"Christian Reformed Church in North America, Heidelberg Catechism",https://www.crcna.org/welcome/beliefs/confessions/heidelberg-catechism,2026-11-23
+9,"Church of England, The Book of Common Prayer",https://www.churchofengland.org/liturgy/book-of-common-prayer,2026-11-23
 9,"English Language Liturgical Consultation, The Apostles' Creed",https://www.englishtexts.org/the-apostles-creed,2026-11-23
 9,"English Language Liturgical Consultation, The Nicene Creed",https://www.englishtexts.org/the-nicene-creed,2026-11-23
 9,"Orthodox Presbyterian Church, Westminster Confession of Faith",https://www.opc.org/wcf.html,2026-11-23
@@ -10,35 +11,54 @@ score,title,url,verified
 9,"Vatican, Catechism of the Catholic Church",https://www.vatican.va/archive/ENG0015/_INDEX.HTM,2026-11-23
 9,"Vatican, Second Vatican Council, Dei Verbum: Dogmatic Constitution on Divine Revelation",https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html,2026-11-23
 9,"Vatican, Second Vatican Council, Lumen gentium: Dogmatic Constitution on the Church",https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html,2026-11-23
+9,"World Council of Churches, Baptism, Eucharist and Ministry (Faith and Order Paper No. 111, the Lima Text)",https://www.oikoumene.org/resources/documents/baptism-eucharist-and-ministry-faith-and-order-paper-no-111-the-lima-text,2026-11-23
+9,"World Council of Churches, Baptism, Eucharist and Ministry, full text (PDF)",https://www.oikoumene.org/sites/default/files/Document/FO1982_111_en.pdf,2026-11-23
 8,"BookOfConcord.org, Formula of Concord: Epitome",https://bookofconcord.org/epitome/,2026-11-23
 8,"BookOfConcord.org, Luther's Small Catechism",https://bookofconcord.org/small-catechism/,2026-11-23
 8,"BookOfConcord.org, The Augsburg Confession",https://bookofconcord.org/augsburg-confession/,2026-11-23
+8,"Christian Reformed Church in North America, Belgic Confession",https://www.crcna.org/welcome/beliefs/confessions/belgic-confession,2026-11-23
+8,"Christian Reformed Church in North America, The Canons of Dort",https://www.crcna.org/welcome/beliefs/confessions/canons-dort,2026-11-23
 8,"Church of England, Articles of Religion",https://www.churchofengland.org/liturgy/book-of-common-prayer/articles-religion,2026-11-23
+8,"English Language Liturgical Consultation, The Lord's Prayer",https://www.englishtexts.org/the-lords-prayer,2026-11-23
+8,"Ethiopian Orthodox Tewahedo Church, The Faith of the Church",https://www.ethiopianorthodox.org/english/dogma/faith.html,2026-11-23
+8,"Evangelical Church in Germany, The Barmen Declaration (text)",https://www.ekd.de/en/The-Barmen-Declaration-303.htm,2026-11-23
 8,"Holy and Great Council of the Orthodox Church, Encyclical",https://www.holycouncil.org/encyclical-holy-council,2026-11-23
 8,"Holy and Great Council of the Orthodox Church, Official Documents",https://www.holycouncil.org/official-documents,2026-11-23
 8,"Lausanne Movement, The Lausanne Covenant",https://lausanne.org/statement/lausanne-covenant,2026-11-23
 8,"Orthodox Church in America, Thomas Hopko, The Orthodox Faith",https://www.oca.org/orthodoxy/the-orthodox-faith,2026-11-23
 8,"Porvoo Communion, The Porvoo Common Statement",https://porvoocommunion.org/what-is-the-porvoo-communion/statement/the-statement-in-english/,2026-11-23
+8,"Reformed Church in America, The Belhar Confession",https://www.rca.org/about/theology/creeds-and-confessions/the-belhar-confession/,2026-11-23
+8,"Southern Baptist Convention, The Baptist Faith and Message 2000",https://bfm.sbc.net/bfm2000/,2026-11-23
 8,"St Andrews Encyclopaedia of Theology, Aidan Hart, The Theology of the Icon",https://www.saet.ac.uk/Christianity/TheologyoftheIcon,2026-11-23
+8,"St Andrews Encyclopaedia of Theology, Anglican Theology (Stephen Spencer and Joseph Galgalo)",https://www.saet.ac.uk/Christianity/AnglicanTheology,2026-11-23
 8,"St Andrews Encyclopaedia of Theology, Biblical Hermeneutics (Richard S. Briggs)",https://www.saet.ac.uk/Christianity/BiblicalHermeneutics,2026-11-23
 8,"St Andrews Encyclopaedia of Theology, Christian Ethics",https://www.saet.ac.uk/Christianity/ChristianEthics,2026-11-23
 8,"St Andrews Encyclopaedia of Theology, Conciliar Christology (Timothy Pawl)",https://www.saet.ac.uk/Christianity/ConciliarChristology,2026-11-23
 8,"St Andrews Encyclopaedia of Theology, Cyril Hovorun, Orthodox Political Theology",https://www.saet.ac.uk/Christianity/OrthodoxPoliticalTheology,2026-11-23
+8,"St Andrews Encyclopaedia of Theology, Dagmar Heller, Baptism",https://www.saet.ac.uk/Christianity/Baptism,2026-11-23
 8,"St Andrews Encyclopaedia of Theology, Damaskinos Olkinuora, Liturgy of the Byzantine Rite",https://www.saet.ac.uk/Christianity/LiturgyoftheByzantineRite,2026-11-23
 8,"St Andrews Encyclopaedia of Theology, Dries Bosschaert, History of the Second Vatican Council",https://www.saet.ac.uk/Christianity/VaticanII,2026-11-23
+8,"St Andrews Encyclopaedia of Theology, John Stephenson, Sacrifice and the Eucharist",https://www.saet.ac.uk/Christianity/SacrificeandtheEucharist,2026-11-23
 8,"St Andrews Encyclopaedia of Theology, Justification (Matthew J. Thomas)",https://www.saet.ac.uk/Christianity/Justification,2026-11-23
 8,"St Andrews Encyclopaedia of Theology, Love in Christian Ethics",https://www.saet.ac.uk/Christianity/LoveinChristianEthics,2026-11-23
 8,"St Andrews Encyclopaedia of Theology, Lutheran Confessionalism (Werner Klän)",https://www.saet.ac.uk/Christianity/LutheranConfessionalism,2026-11-23
+8,"St Andrews Encyclopaedia of Theology, Philip Alexander, Sabbath in the Christian Tradition",https://www.saet.ac.uk/Christianity/Sabbath,2026-11-23
+8,"St Andrews Encyclopaedia of Theology, Prayer (Marcel Sarot)",https://www.saet.ac.uk/Christianity/Prayer,2026-11-23
 8,"St Andrews Encyclopaedia of Theology, Razvan Porumb, Orthodox Pastoral Theology",https://www.saet.ac.uk/Christianity/OrthodoxPastoralTheology,2026-11-23
+8,"St Andrews Encyclopaedia of Theology, Reconciliation (Risto Saarinen)",https://www.saet.ac.uk/Christianity/Reconciliation,2026-11-23
 8,"St Andrews Encyclopaedia of Theology, The Theology of the Council of Nicaea (Rebecca Lyman)",https://www.saet.ac.uk/Christianity/TheTheologyoftheCouncilofNicaea,2026-11-23
 8,"St Andrews Encyclopaedia of Theology, Theo Andreou, Mary, the Mother of God, in the Eastern Orthodox Tradition",https://www.saet.ac.uk/Christianity/MaryintheEasternOrthodoxTradition,2026-11-23
+8,"Syriac Orthodox Patriarchate, Department of Syriac Studies, Second Agreed Statement of the Joint Commission of the Theological Dialogue between the Orthodox Church and the Oriental Orthodox Churches (Chambésy, 1990)",https://dss-syriacpatriarchate.org/second-agreed-statement-1990/?lang=en,2026-11-23
 8,"United States Conference of Catholic Bishops, New American Bible, Revised Edition (NABRE)",https://bible.usccb.org/bible,2026-11-23
 8,"Vatican, Benedict XVI, Deus caritas est",https://www.vatican.va/content/benedict-xvi/en/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html,2026-11-23
 8,"Vatican, Benedict XVI, Verbum Domini",https://www.vatican.va/content/benedict-xvi/en/apost_exhortations/documents/hf_ben-xvi_exh_20100930_verbum-domini.html,2026-11-23
+8,"Vatican, Common Declaration of Pope John Paul II and Patriarch Ignatius Zakka I Iwas (1984)",https://www.vatican.va/content/john-paul-ii/en/speeches/1984/june/documents/hf_jp-ii_spe_19840623_jp-ii-zakka-i.html,2026-11-23
 8,"Vatican, Compendium of the Catechism of the Catholic Church",https://www.vatican.va/archive/compendium_ccc/documents/archive_2005_compendium-ccc_en.html,2026-11-23
+8,"Vatican, Joint Declaration of Pope Paul VI and Pope Shenouda III (1973)",https://www.vatican.va/content/paul-vi/en/speeches/1973/may/documents/hf_p-vi_spe_19730510_dichiarazione-comune.html,2026-11-23
 8,"Vatican, Pontifical Council for Justice and Peace, Compendium of the Social Doctrine of the Church",https://www.vatican.va/roman_curia/pontifical_councils/justpeace/documents/rc_pc_justpeace_doc_20060526_compendio-dott-soc_en.html,2026-11-23
 8,"Vatican, Second Vatican Council, Gaudium et spes: Pastoral Constitution on the Church in the Modern World",https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_en.html,2026-11-23
 8,"Vatican, Second Vatican Council, Orientalium Ecclesiarum: Decree on the Catholic Churches of the Eastern Rite",https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_orientalium-ecclesiarum_en.html,2026-11-23
+8,"Vatican, Second Vatican Council, Sacrosanctum Concilium",https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_en.html,2026-11-23
 8,"Vatican, Second Vatican Council, Unitatis redintegratio: Decree on Ecumenism",https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_en.html,2026-11-23
 8,"World Council of Churches, A Treasure in Earthen Vessels: An Instrument for an Ecumenical Reflection on Hermeneutics (Faith and Order Paper No. 182)",https://www.oikoumene.org/resources/documents/a-treasure-in-earthen-vessels-an-instrument-for-an-ecumenical-reflection-on-hermeneutics,2026-11-23
 8,"World Council of Churches, Confessing the One Faith (Faith and Order Paper 153)",https://archive.org/details/wccfops2.160,2026-11-23
@@ -61,9 +81,11 @@ score,title,url,verified
 7,"BookOfConcord.org, Augsburg Confession, Article XVI: Of Civil Affairs",https://bookofconcord.org/augsburg-confession/of-civil-affairs/,2026-11-23
 7,"BookOfConcord.org, Augsburg Confession, Article XVII: Of Christ's Return to Judgment",https://bookofconcord.org/augsburg-confession/of-christs-return-to-judgment/,2026-11-23
 7,"BookOfConcord.org, Augsburg Confession, Article XX: Of Good Works",https://bookofconcord.org/augsburg-confession/of-good-works/,2026-11-23
+7,"BookOfConcord.org, Augsburg Confession, Article XXI: Of the Worship of the Saints",https://bookofconcord.org/augsburg-confession/of-worship-of-saints/,2026-11-23
 7,"BookOfConcord.org, Formula of Concord, Epitome: Rule and Norm",https://bookofconcord.org/epitome/rule-and-norm/,2026-11-23
 7,"BookOfConcord.org, Luther's Large Catechism: The Lord's Prayer",https://bookofconcord.org/large-catechism/lords-prayer/,2026-11-23
 7,"BookOfConcord.org, Luther's Large Catechism: The Ten Commandments",https://bookofconcord.org/large-catechism/ten-commandments/,2026-11-23
+7,"BookOfConcord.org, Luther's Small Catechism: Daily Prayers",https://bookofconcord.org/small-catechism/daily-prayers/,2026-11-23
 7,"BookOfConcord.org, Luther's Small Catechism: How Christians Should Be Taught to Confess",https://bookofconcord.org/small-catechism/how-christians-confess/,2026-11-23
 7,"BookOfConcord.org, Luther's Small Catechism: Table of Duties",https://bookofconcord.org/small-catechism/table-of-duties/,2026-11-23
 7,"BookOfConcord.org, Luther's Small Catechism: The Creed",https://bookofconcord.org/small-catechism/the-creed/,2026-11-23
@@ -80,14 +102,40 @@ score,title,url,verified
 7,"Christian Classics Ethereal Library, The Longer Catechism of the Orthodox, Catholic, Eastern Church, Part Three (Schaff, Creeds of Christendom)",https://www.ccel.org/ccel/schaff/creeds2.vi.iii.iv.html,2026-11-23
 7,"Christian Classics Ethereal Library, The Longer Catechism of the Orthodox, Catholic, Eastern Church, Part Two (Schaff, Creeds of Christendom)",https://www.ccel.org/ccel/schaff/creeds2.vi.iii.iii.html,2026-11-23
 7,"Christian Classics Ethereal Library, The Symbol of Chalcedon (Schaff, Creeds of Christendom)",https://www.ccel.org/ccel/schaff/creeds2.iv.i.iii.html,2026-11-23
+7,"Church of England, Articles of Religion, VI: Of the Sufficiency of the holy Scriptures for salvation",https://www.churchofengland.org/liturgy/book-of-common-prayer/articles-religion#VI,2026-11-23
+7,"Church of England, Articles of Religion, VIII: Of the Three Creeds",https://www.churchofengland.org/liturgy/book-of-common-prayer/articles-religion#VIII,2026-11-23
+7,"Church of England, Articles of Religion, XI: Of the Justification of Man",https://www.churchofengland.org/liturgy/book-of-common-prayer/articles-religion#XI,2026-11-23
+7,"Church of England, Articles of Religion, XII: Of Good Works",https://www.churchofengland.org/liturgy/book-of-common-prayer/articles-religion#XII,2026-11-23
+7,"Church of England, Articles of Religion, XIX: Of the Church",https://www.churchofengland.org/liturgy/book-of-common-prayer/articles-religion#XIX,2026-11-23
+7,"Church of England, Articles of Religion, XX: Of the Authority of the Church",https://www.churchofengland.org/liturgy/book-of-common-prayer/articles-religion#XX,2026-11-23
+7,"Church of England, Articles of Religion, XXII: Of Purgatory",https://www.churchofengland.org/liturgy/book-of-common-prayer/articles-religion#XXII,2026-11-23
+7,"Church of England, Articles of Religion, XXIV: Of speaking in the Congregation in such a tongue as the people understandeth",https://www.churchofengland.org/liturgy/book-of-common-prayer/articles-religion#XXIV,2026-11-23
 7,"Church of England, Articles of Religion, XXV: Of the Sacraments",https://www.churchofengland.org/liturgy/book-of-common-prayer/articles-religion#XXV,2026-11-23
+7,"Church of England, Articles of Religion, XXVII: Of Baptism",https://www.churchofengland.org/liturgy/book-of-common-prayer/articles-religion#XXVII,2026-11-23
+7,"Church of England, Articles of Religion, XXVIII: Of the Lord's Supper",https://www.churchofengland.org/liturgy/book-of-common-prayer/articles-religion#XXVIII,2026-11-23
+7,"Church of England, Book of Common Prayer, A Catechism",https://www.churchofengland.org/liturgy/book-of-common-prayer/catechism,2026-11-23
+7,"Church of England, Book of Common Prayer, Concerning the Service of the Church",https://www.churchofengland.org/liturgy/book-of-common-prayer/concerning-service-church,2026-11-23
+7,"Church of England, Book of Common Prayer, The Form and Manner of Making, Ordaining and Consecrating of Bishops, Priests and Deacons",https://www.churchofengland.org/liturgy/book-of-common-prayer/form-and-manner-making,2026-11-23
+7,"Church of England, Book of Common Prayer, The Lord's Supper or Holy Communion",https://www.churchofengland.org/liturgy/book-of-common-prayer/lords-supper-or-holy-communion,2026-11-23
+7,"Church of England, Book of Common Prayer: The Order for Morning Prayer",https://www.churchofengland.org/liturgy/book-of-common-prayer/order-morning-prayer,2026-11-23
+7,"Church of England, Book of Common Prayer: The Order how the Psalter is appointed to be read",https://www.churchofengland.org/liturgy/book-of-common-prayer/order-how-psalter-appointed-be-read,2026-11-23
+7,"Church of England, Canons of the Church of England, Section A",https://www.churchofengland.org/resources/legal/canons-church-england/section-a,2026-11-23
+7,"Church of England, Common Worship",https://www.churchofengland.org/liturgy/common-worship,2026-11-23
 7,"Church of England, Common Worship: Wholeness and Healing",https://www.churchofengland.org/liturgy/common-worship/book/pastoral-services/wholeness-and-healing,2026-11-23
+7,"Church of England, Relationships, sexuality and marriage",https://www.churchofengland.org/about/our-views/relationships-sexuality-and-marriage,2026-11-23
+7,"Church of England, Safeguarding Gateway: Domestic abuse",https://www.churchofengland.org/resources/safeguarding-gateway/supporting-victims-and-survivors/domestic-abuse,2026-11-23
 7,"Communion of Protestant Churches in Europe, History",https://www.leuenberg.eu/about-us/history/,2026-11-23
 7,"Deutsche Bibelgesellschaft, Martin Rösel, Luther und die Apokryphen",https://www.die-bibel.de/luther-und-die-apokryphen,2026-11-23
 7,"Diacronia, Ştefan Munteanu, Canoniques, non-canoniques ou bons à lire ? La réception des livres « deutérocanoniques » de la Septante dans l'Église orthodoxe",https://www.diacronia.ro/ro/indexing/details/A25808/pdf,2026-11-23
 7,"Ecumenical Patriarchate, Patriarchal and Synodal Tomos for the Bestowal of the Ecclesiastical Status of Autocephaly to the Orthodox Church in Ukraine",https://ec-patr.org/en/14/01/00/00/patriarchal-and-synodal-tomos-for-the-bestowal-of/,2026-11-23
+7,"Eritrean Orthodox Tewahdo Church, The Eritrean Orthodox Tewahdo Church (EriOTC)",https://lisantewahdo.org/index.php/english/church-history/item/311-the-eritrean-orthodox-tewahdo-church-eriotc,2026-11-23
+7,"Ethiopian Orthodox Tewahedo Church, Introduction to Church Sacraments",https://www.ethiopianorthodox.org/english/dogma/sacramentintro.html,2026-11-23
 7,"Ethiopian Orthodox Tewahedo Church, The Canonical Books",https://www.ethiopianorthodox.org/english/canonical/books.html,2026-11-23
+7,"Ethiopian Orthodox Tewahedo Church, The Hierarchy",https://www.ethiopianorthodox.org/english/ethiopian/hierarchy.html,2026-11-23
+7,"Ethiopian Orthodox Tewahedo Church, The Issue between Monophysitism and Dyophysitism",https://www.ethiopianorthodox.org/english/dogma/monodyo.html,2026-11-23
+7,"Evangelical Church in Germany, The Barmen Declaration (history)",https://www.ekd.de/en/The-Barmen-Declaration-133.htm,2026-11-23
 7,"Evangelical Lutheran Church in America, Theology: Scriptures, Creeds and Confessions",https://www.elca.org/about-the-elca/who-we-are/beliefs/theology,2026-11-23
+7,"GAFCON, The Jerusalem Statement",https://gafcon.org/about/the-jerusalem-statement/,2026-11-23
 7,"Hanover Historical Texts Project, Council of Trent, Session IV: Decree concerning the Canonical Scriptures",https://history.hanover.edu/texts/trent/ct04.html,2026-11-23
 7,"Holy and Great Council of the Orthodox Church, Relations of the Orthodox Church with the Rest of the Christian World",https://www.holycouncil.org/rest-of-christian-world,2026-11-23
 7,"Holy and Great Council of the Orthodox Church, The Importance of Fasting and Its Observance Today",https://www.holycouncil.org/fasting,2026-11-23
@@ -97,50 +145,97 @@ score,title,url,verified
 7,"Lutheran World Federation, Joint Declaration on the Doctrine of Justification",https://lutheranworld.org/resources/publication-joint-declaration-doctrine-justification,2026-11-23
 7,"Lutheran World Federation, Our Lutheran Identity",https://lutheranworld.org/who-we-are/our-lutheran-identity,2026-11-23
 7,"Lutheran World Federation, Who We Are",https://lutheranworld.org/who-we-are,2026-11-23
+7,"Mennonite Church USA, Confession of Faith in a Mennonite Perspective, Article 11: Baptism",https://www.mennoniteusa.org/who-are-mennonites/what-we-believe/confession-of-faith/baptism/,2026-11-23
 7,"Mennonite Church USA, Confession of Faith, Article 22: Peace, Justice, and Nonresistance",https://www.mennoniteusa.org/who-are-mennonites/what-we-believe/confession-of-faith/peace-justice-and-nonresistance/,2026-11-23
 7,"Methodist Church in Britain, Healing and Reconciliation Services from the Methodist Worship Book",https://media.methodist.org.uk/media/documents/mwb-healing-and-wholeness-20220227.pdf,2026-11-23
+7,"Mother See of Holy Etchmiadzin, Armenian Apostolic Holy Church: Overview",https://www.armenianchurch.org/en/Overview,2026-11-23
+7,"Mother See of Holy Etchmiadzin, Divine Liturgy",https://www.armenianchurch.org/en/holy-liturgy/,2026-11-23
 7,"New Advent, Eusebius, Church History, Book II",https://www.newadvent.org/fathers/250102.htm,2026-11-23
 7,"New Advent, Eusebius, Church History, Book III",https://www.newadvent.org/fathers/250103.htm,2026-11-23
 7,"Orthodox Church in America, The Creed: The Symbol of Faith",https://www.oca.org/orthodoxy/prayers/symbol-of-faith,2026-11-23
+7,"Orthodox Church in America, The Orthodox Faith: Baptism",https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-sacraments/baptism,2026-11-23
 7,"Orthodox Church in America, The Orthodox Faith: Church",https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/the-symbol-of-faith/church,2026-11-23
 7,"Orthodox Church in America, The Orthodox Faith: Church Art",https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/sources-of-christian-doctrine/church-art,2026-11-23
+7,"Orthodox Church in America, The Orthodox Faith: Church Year",https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-church-year/church-year,2026-11-23
 7,"Orthodox Church in America, The Orthodox Faith: Fasting",https://www.oca.org/orthodoxy/the-orthodox-faith/spirituality/prayer-fasting-and-almsgiving/fasting,2026-11-23
+7,"Orthodox Church in America, The Orthodox Faith: Holy Eucharist",https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-sacraments/holy-eucharist,2026-11-23
 7,"Orthodox Church in America, The Orthodox Faith: Holy Spirit",https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/the-symbol-of-faith/holy-spirit,2026-11-23
 7,"Orthodox Church in America, The Orthodox Faith: Holy Unction",https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-sacraments/holy-unction,2026-11-23
+7,"Orthodox Church in America, The Orthodox Faith: Intercessory Prayer",https://www.oca.org/orthodoxy/the-orthodox-faith/spirituality/prayer-fasting-and-almsgiving/intercessory-prayer,2026-11-23
+7,"Orthodox Church in America, The Orthodox Faith: Liturgical Prayer",https://www.oca.org/orthodoxy/the-orthodox-faith/spirituality/prayer-fasting-and-almsgiving/liturgical-prayer,2026-11-23
 7,"Orthodox Church in America, The Orthodox Faith: Love of Neighbor",https://www.oca.org/orthodoxy/the-orthodox-faith/spirituality/the-greatest-virtue-is-love/love-of-neighbor,2026-11-23
 7,"Orthodox Church in America, The Orthodox Faith: Old Testament, History",https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/old-testament/history,2026-11-23
+7,"Orthodox Church in America, The Orthodox Faith: Penance",https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-sacraments/penance,2026-11-23
+7,"Orthodox Church in America, The Orthodox Faith: Prayer",https://www.oca.org/orthodoxy/the-orthodox-faith/spirituality/prayer-fasting-and-almsgiving/prayer1,2026-11-23
 7,"Orthodox Church in America, The Orthodox Faith: Sources of Christian Doctrine, The Bible",https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/sources-of-christian-doctrine/bible1,2026-11-23
 7,"Orthodox Church in America, The Orthodox Faith: Sources of Christian Doctrine, Tradition",https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/sources-of-christian-doctrine/tradition,2026-11-23
 7,"Orthodox Church in America, The Orthodox Faith: The Bible, Interpretation",https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/the-bible/interpretation,2026-11-23
 7,"Orthodox Church in America, The Orthodox Faith: The Councils",https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/sources-of-christian-doctrine/the-councils,2026-11-23
 7,"Orthodox Church in America, The Orthodox Faith: The Divine Liturgy",https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-divine-liturgy/the-divine-liturgy,2026-11-23
 7,"Orthodox Church in America, The Orthodox Faith: The Jesus Prayer",https://www.oca.org/orthodoxy/the-orthodox-faith/spirituality/prayer-fasting-and-almsgiving/the-jesus-prayer,2026-11-23
+7,"Orthodox Church in America, The Orthodox Faith: The Lord's Prayer",https://www.oca.org/orthodoxy/the-orthodox-faith/spirituality/prayer-fasting-and-almsgiving/the-lords-prayer,2026-11-23
 7,"Orthodox Church in America, The Orthodox Faith: The Sacraments",https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-sacraments/the-sacraments,2026-11-23
+7,"Orthodox Church in America, The Orthodox Faith: Unceasing Prayer",https://www.oca.org/orthodoxy/the-orthodox-faith/spirituality/prayer-fasting-and-almsgiving/unceasing-prayer,2026-11-23
 7,"Papal Encyclicals Online, Council of Trent, Session VI: Decree on Justification",https://www.papalencyclicals.net/councils/trent/sixth-session.htm,2026-11-23
 7,"Pew Research Center, Orthodox Christianity in the 21st Century",https://www.pewresearch.org/religion/2017/11/08/orthodox-christianity-in-the-21st-century/,2026-11-23
 7,"Porvoo Communion, What is the Porvoo Communion?",https://porvoocommunion.org/what-is-the-porvoo-communion/,2026-11-23
+7,"Presbyterian Church (U.S.A.), Confessions",https://pcusa.org/confessions,2026-11-23
+7,"Presbyterian Church in America, Book of Church Order, Part 1: The Form of Government",https://www.pcaac.org/book-of-church-order/part-1-the-form-of-government/,2026-11-23
+7,"Presbyterian Church in America, Book of Church Order, Preface",https://www.pcaac.org/book-of-church-order/preface/,2026-11-23
+7,"Presbyterian Mission Agency, Presbyterian 101: Women in the church",https://pma.pcusa.org/ministries/101/women/,2026-11-23
 7,"Sefaria, Tanakh",https://www.sefaria.org/texts/Tanakh,2026-11-23
+7,"Seventh Day Baptist General Conference, Statement of Belief",https://www.seventhdaybaptist.org/statement-of-belief/,2026-11-23
 7,"Southern Baptist Convention, Baptist Faith and Message 2000, Preamble",https://bfm.sbc.net/preamble/,2026-11-23
+7,"St Andrews Encyclopaedia of Theology, Anglican Theology, 4: Varieties of Anglican theology",https://www.saet.ac.uk/Christianity/AnglicanTheology#section4,2026-11-23
+7,"St Andrews Encyclopaedia of Theology, Anglican Theology, 5.1: A global communion",https://www.saet.ac.uk/Christianity/AnglicanTheology#section5.1,2026-11-23
+7,"St Andrews Encyclopaedia of Theology, Anglican Theology, 5.2: Consultation rather than regulation",https://www.saet.ac.uk/Christianity/AnglicanTheology#section5.2,2026-11-23
+7,"St Andrews Encyclopaedia of Theology, Anglican Theology, 5.3: A common core",https://www.saet.ac.uk/Christianity/AnglicanTheology#section5.3,2026-11-23
+7,"St Andrews Encyclopaedia of Theology, Anglican Theology, 5.4: An ecumenical calling",https://www.saet.ac.uk/Christianity/AnglicanTheology#section5.4,2026-11-23
+7,"St Andrews Encyclopaedia of Theology, Anglican Theology, 6.1: Instruments of communion",https://www.saet.ac.uk/Christianity/AnglicanTheology#section6.1,2026-11-23
+7,"St Andrews Encyclopaedia of Theology, Anglican Theology, 6.2: Innovation and division",https://www.saet.ac.uk/Christianity/AnglicanTheology#section6.2,2026-11-23
+7,"St Andrews Encyclopaedia of Theology, Anglican Theology, 6.3: A common definition of mission",https://www.saet.ac.uk/Christianity/AnglicanTheology#section6.3,2026-11-23
+7,"St Andrews Encyclopaedia of Theology, Arabic Christian Theology",https://www.saet.ac.uk/Christianity/ArabicChristianTheology,2026-11-23
 7,"St Andrews Encyclopaedia of Theology, Christian Ethics, 4.1: A Roman Catholic perspective",https://www.saet.ac.uk/Christianity/ChristianEthics#section4.1,2026-11-23
 7,"St Andrews Encyclopaedia of Theology, Christian Ethics, 4.3: An ethic of grace: Lutheran perspectives",https://www.saet.ac.uk/Christianity/ChristianEthics#section4.3,2026-11-23
 7,"St Andrews Encyclopaedia of Theology, Christian Ethics: Eastern Orthodox perspectives",https://www.saet.ac.uk/Christianity/ChristianEthics#section4.2,2026-11-23
 7,"St Andrews Encyclopaedia of Theology, Christian Ethics: Just war reasoning?",https://www.saet.ac.uk/Christianity/ChristianEthics#section7.2,2026-11-23
+7,"St Andrews Encyclopaedia of Theology, Dagmar Heller, Baptism, 4.2: Infant baptism versus adult baptism",https://www.saet.ac.uk/Christianity/Baptism#section4.2,2026-11-23
+7,"St Andrews Encyclopaedia of Theology, Dagmar Heller, Baptism, 5.1: Sacrament or ordinance",https://www.saet.ac.uk/Christianity/Baptism#section5.1,2026-11-23
 7,"St Andrews Encyclopaedia of Theology, Dries Bosschaert, History of the Second Vatican Council, 6: Receptions of Vatican II",https://www.saet.ac.uk/Christianity/VaticanII#section6,2026-11-23
+7,"St Andrews Encyclopaedia of Theology, Judith Wolfe, Christian Theology, 5.1.4: Reformed churches",https://www.saet.ac.uk/Christianity/ChristianTheology#section5.1.4,2026-11-23
 7,"St Andrews Encyclopaedia of Theology, Justification, 3.4: Justification in canonical context",https://www.saet.ac.uk/Christianity/Justification#section3.4,2026-11-23
 7,"St Andrews Encyclopaedia of Theology, Lutheran Confessionalism, 10.3: Ecumenical endeavours",https://www.saet.ac.uk/Christianity/LutheranConfessionalism#section10.3,2026-11-23
 7,"St Andrews Encyclopaedia of Theology, Lutheran Confessionalism, 1: Lutheran Confessionalism – Confessional Lutheranism",https://www.saet.ac.uk/Christianity/LutheranConfessionalism#section1,2026-11-23
 7,"St Andrews Encyclopaedia of Theology, Lutheran Confessionalism, 3: The Lutheran confessions from the sixteenth century",https://www.saet.ac.uk/Christianity/LutheranConfessionalism#section3,2026-11-23
 7,"St Andrews Encyclopaedia of Theology, Lutheran Confessionalism, 9: New profiles in the twenty-first century",https://www.saet.ac.uk/Christianity/LutheranConfessionalism#section9,2026-11-23
+7,"St Andrews Encyclopaedia of Theology, Philip Alexander, Sabbath in the Christian Tradition, 4.1: Are Christians obliged to observe Sabbath?",https://www.saet.ac.uk/Christianity/Sabbath#section4.1,2026-11-23
+7,"St Andrews Encyclopaedia of Theology, Prayer, 4.4: Lamentation and thanksgiving",https://www.saet.ac.uk/Christianity/Prayer#section4.4,2026-11-23
+7,"St Andrews Encyclopaedia of Theology, Prayer, 8.1: Prayer within ecumenical relationships",https://www.saet.ac.uk/Christianity/Prayer#section8.1,2026-11-23
+7,"St-Takla.org, Pope Shenouda III, The Nature of Christ: The Orthodox Concept regarding the Nature of Christ",https://st-takla.org/books/en/pope-shenouda-iii/nature-of-christ/orthodox-concept.html,2026-11-23
+7,"Syriac Orthodox Patriarchate of Antioch, History",https://syriacpatriarchate.org/history/,2026-11-23
+7,"The Episcopal Church, LGBTQ+ in the Church",https://www.episcopalchurch.org/who-we-are/ministries/gender-justice/lgbtq-in-the-church/,2026-11-23
+7,"The Lambeth Conference, What is the Anglican Communion?",https://www.lambethconference.org/about/what-is-the-anglican-communion/,2026-11-23
 7,"The United Methodist Church, The General Rules of the Methodist Church",https://www.umc.org/en/content/the-general-rules-of-the-methodist-church,2026-11-23
+7,"United States Conference of Catholic Bishops, When I Call for Help: A Pastoral Response to Domestic Violence Against Women",https://www.usccb.org/topics/marriage-and-family-life-ministries/when-i-call-help-pastoral-response-domestic-violence,2026-11-23
 7,"USCCB, Introduction to the Letter of James (New American Bible, Revised Edition)",https://bible.usccb.org/bible/james/0,2026-11-23
 7,"Vatican News, Catholics increase worldwide as number of priests edges upward (Fides Catholic Church Statistics 2026)",https://www.vaticannews.va/en/church/news/2026-10/fides-agency-2026-annual-church-statistics.html,2026-11-23
 7,"Vatican News, Dicastery for the Eastern Churches",https://www.vaticannews.va/en/church/news/2025-08/dicastery-for-the-eastern-churches.html,2026-11-23
+7,"Vatican, Catechism of the Catholic Church, 1030–1032: The Final Purification, or Purgatory",https://www.vatican.va/archive/ENG0015/__P2N.HTM,2026-11-23
 7,"Vatican, Catechism of the Catholic Church, 1042–1050",https://www.vatican.va/archive/ENG0015/__P2Q.HTM,2026-11-23
 7,"Vatican, Catechism of the Catholic Church, 109–119",https://www.vatican.va/archive/ENG0015/__PQ.HTM,2026-11-23
 7,"Vatican, Catechism of the Catholic Church, 1113: The Paschal mystery in the Church's sacraments",https://www.vatican.va/archive/ENG0015/__P2Z.HTM,2026-11-23
+7,"Vatican, Catechism of the Catholic Church, 1163–1178: When is the liturgy celebrated?",https://www.vatican.va/archive/ENG0015/__P39.HTM,2026-11-23
 7,"Vatican, Catechism of the Catholic Church, 120–130: The Canon of Scripture and the unity of the Testaments",https://www.vatican.va/archive/ENG0015/__PR.HTM,2026-11-23
+7,"Vatican, Catechism of the Catholic Church, 1217–1228: Baptism in the economy of salvation",https://www.vatican.va/archive/ENG0015/__P3I.HTM,2026-11-23
+7,"Vatican, Catechism of the Catholic Church, 1246–1255: Who can receive Baptism?",https://www.vatican.va/archive/ENG0015/__P3K.HTM,2026-11-23
 7,"Vatican, Catechism of the Catholic Church, 131–133",https://www.vatican.va/archive/ENG0015/__PS.HTM,2026-11-23
 7,"Vatican, Catechism of the Catholic Church, 1324–1327: The Eucharist, source and summit of ecclesial life",https://www.vatican.va/archive/ENG0015/__P3X.HTM,2026-11-23
+7,"Vatican, Catechism of the Catholic Church, 1333–1344: The Eucharist in the economy of salvation",https://www.vatican.va/archive/ENG0015/__P3Z.HTM,2026-11-23
+7,"Vatican, Catechism of the Catholic Church, 1382–1401: The Paschal banquet",https://www.vatican.va/archive/ENG0015/__P42.HTM,2026-11-23
+7,"Vatican, Catechism of the Catholic Church, 1430–1433",https://www.vatican.va/archive/ENG0015/__P4A.HTM,2026-11-23
+7,"Vatican, Catechism of the Catholic Church, 1450–1460",https://www.vatican.va/archive/ENG0015/__P4D.HTM,2026-11-23
+7,"Vatican, Catechism of the Catholic Church, 1471–1479",https://www.vatican.va/archive/ENG0015/__P4G.HTM,2026-11-23
+7,"Vatican, Catechism of the Catholic Church, 1480–1484",https://www.vatican.va/archive/ENG0015/__P4H.HTM,2026-11-23
 7,"Vatican, Catechism of the Catholic Church, 1510–1513",https://www.vatican.va/archive/ENG0015/__P4K.HTM,2026-11-23
 7,"Vatican, Catechism of the Catholic Church, 1701–1709: Man, the image of God",https://www.vatican.va/archive/ENG0015/__P5G.HTM,2026-11-23
 7,"Vatican, Catechism of the Catholic Church, 1786–1789",https://www.vatican.va/archive/ENG0015/__P61.HTM,2026-11-23
@@ -153,17 +248,28 @@ score,title,url,verified
 7,"Vatican, Catechism of the Catholic Church, 1987–1995: Justification",https://www.vatican.va/archive/ENG0015/__P6Y.HTM,2026-11-23
 7,"Vatican, Catechism of the Catholic Church, 1996–2005: Grace",https://www.vatican.va/archive/ENG0015/__P6Z.HTM,2026-11-23
 7,"Vatican, Catechism of the Catholic Church, 199–231",https://www.vatican.va/archive/ENG0015/__P16.HTM,2026-11-23
+7,"Vatican, Catechism of the Catholic Church, 2030–2031: The Church, mother and teacher",https://www.vatican.va/archive/ENG0015/__P73.HTM,2026-11-23
 7,"Vatican, Catechism of the Catholic Church, 2052–2074",https://www.vatican.va/archive/ENG0015/__P78.HTM,2026-11-23
 7,"Vatican, Catechism of the Catholic Church, 2083",https://www.vatican.va/archive/ENG0015/__P7A.HTM,2026-11-23
+7,"Vatican, Catechism of the Catholic Church, 2174–2188: The Lord's Day",https://www.vatican.va/archive/ENG0015/__P7O.HTM,2026-11-23
 7,"Vatican, Catechism of the Catholic Church, 2196",https://www.vatican.va/archive/ENG0015/__P7Q.HTM,2026-11-23
+7,"Vatican, Catechism of the Catholic Church, 2259–2283",https://www.vatican.va/archive/ENG0015/__P7Z.HTM,2026-11-23
 7,"Vatican, Catechism of the Catholic Church, 2302–2317",https://www.vatican.va/archive/ENG0015/__P81.HTM,2026-11-23
 7,"Vatican, Catechism of the Catholic Church, 232–267",https://www.vatican.va/archive/ENG0015/__P17.HTM,2026-11-23
 7,"Vatican, Catechism of the Catholic Church, 2443–2449",https://www.vatican.va/archive/ENG0015/__P8F.HTM,2026-11-23
 7,"Vatican, Catechism of the Catholic Church, 2558–2565: Prayer in the Christian life",https://www.vatican.va/archive/ENG0015/__P8Z.HTM,2026-11-23
+7,"Vatican, Catechism of the Catholic Church, 2568–2589: Prayer in the Old Testament",https://www.vatican.va/archive/ENG0015/__P91.HTM,2026-11-23
+7,"Vatican, Catechism of the Catholic Church, 2629–2633",https://www.vatican.va/archive/ENG0015/__P97.HTM,2026-11-23
+7,"Vatican, Catechism of the Catholic Church, 2634–2636: Prayer of Intercession",https://www.vatican.va/archive/ENG0015/__P98.HTM,2026-11-23
+7,"Vatican, Catechism of the Catholic Church, 2637–2638: Prayer of Thanksgiving",https://www.vatican.va/archive/ENG0015/__P99.HTM,2026-11-23
 7,"Vatican, Catechism of the Catholic Church, 2652–2660",https://www.vatican.va/archive/ENG0015/__P9D.HTM,2026-11-23
+7,"Vatican, Catechism of the Catholic Church, 2683–2691: Guides for Prayer",https://www.vatican.va/archive/ENG0015/__P9H.HTM,2026-11-23
+7,"Vatican, Catechism of the Catholic Church, 2697–2699: The Life of Prayer",https://www.vatican.va/archive/ENG0015/__P9J.HTM,2026-11-23
 7,"Vatican, Catechism of the Catholic Church, 2705–2708",https://www.vatican.va/archive/ENG0015/__P9L.HTM,2026-11-23
 7,"Vatican, Catechism of the Catholic Church, 2761: The summary of the whole gospel",https://www.vatican.va/archive/ENG0015/__P9W.HTM,2026-11-23
+7,"Vatican, Catechism of the Catholic Church, 2762–2764: At the Center of the Scriptures",https://www.vatican.va/archive/ENG0015/__P9X.HTM,2026-11-23
 7,"Vatican, Catechism of the Catholic Church, 279–324",https://www.vatican.va/archive/ENG0015/__P19.HTM,2026-11-23
+7,"Vatican, Catechism of the Catholic Church, 2838–2845",https://www.vatican.va/archive/ENG0015/__PAB.HTM,2026-11-23
 7,"Vatican, Catechism of the Catholic Church, 441–445",https://www.vatican.va/archive/ENG0015/__P1G.HTM,2026-11-23
 7,"Vatican, Catechism of the Catholic Church, 456–483",https://www.vatican.va/archive/ENG0015/__P1J.HTM,2026-11-23
 7,"Vatican, Catechism of the Catholic Church, 484–511",https://www.vatican.va/archive/ENG0015/__P1K.HTM,2026-11-23
@@ -185,27 +291,54 @@ score,title,url,verified
 7,"Vatican, Catechism of the Catholic Church, The sacramental sacrifice: thanksgiving, memorial, presence (to 1381)",https://www.vatican.va/archive/ENG0015/__P41.HTM,2026-11-23
 7,"Vatican, Common Christological Declaration between the Catholic Church and the Assyrian Church of the East (1994)",https://www.vatican.va/content/john-paul-ii/en/speeches/1994/november/documents/hf_jp-ii_spe_19941111_dichiarazione-cristologica.html,2026-11-23
 7,"Word & World, Timothy J. Wengert, Building on the One Foundation with Straw: Martin Luther and the Epistle of James",https://wordandworld.luthersem.edu/wp-content/uploads/pdfs/35-3_James/Building%20on%20the%20One%20Foundation%20with%20Straw%3B%20Martin%20Luther%20and%20the%20Epistle%20of%20James.pdf,2026-11-23
+7,"World Council of Churches, Armenian Apostolic Church (Holy See of Cilicia)",https://www.oikoumene.org/member-churches/armenian-apostolic-church-holy-see-of-cilicia,2026-11-23
+7,"World Council of Churches, Armenian Apostolic Church (Mother See of Holy Etchmiadzin)",https://www.oikoumene.org/member-churches/armenian-apostolic-church-mother-see-of-holy-etchmiadzin,2026-11-23
+7,"World Council of Churches, Coptic Orthodox Church",https://www.oikoumene.org/member-churches/coptic-orthodox-church,2026-11-23
+7,"World Council of Churches, Eritrean Orthodox Tewahedo Church",https://www.oikoumene.org/member-churches/eritrean-orthodox-tewahedo-church,2026-11-23
+7,"World Council of Churches, Ethiopian Orthodox Tewahedo Church",https://www.oikoumene.org/member-churches/ethiopian-orthodox-tewahedo-church,2026-11-23
+7,"World Council of Churches, Malankara Orthodox Syrian Church",https://www.oikoumene.org/member-churches/malankara-orthodox-syrian-church,2026-11-23
 7,"World Council of Churches, Orthodox churches (Oriental)",https://www.oikoumene.org/church-families/orthodox-churches-oriental,2026-11-23
+7,"World Council of Churches, Syrian Orthodox Patriarchate of Antioch and All the East",https://www.oikoumene.org/member-churches/syrian-orthodox-patriarchate-of-antioch-and-all-the-east,2026-11-23
 7,"World Council of Churches, Towards a Common Date for Easter",https://www.oikoumene.org/resources/documents/towards-a-common-date-for-easter,2026-11-23
+7,"World Council of Churches, Week of Prayer for Christian Unity",https://www.oikoumene.org/resources/week-of-prayer-for-christian-unity,2026-11-23
 7,"World Council of Churches, What is the World Council of Churches?",https://www.oikoumene.org/about-the-wcc,2026-11-23
+7,"World Council of Churches, World Communion of Reformed Churches",https://www.oikoumene.org/organization/world-communion-of-reformed-churches,2026-11-23
+6,"Bar and Bench, Church dispute: Supreme Court asks Jacobites to obey 2017 verdict, hand over churches to Orthodox faction (3 December 2024)",https://www.barandbench.com/news/church-dispute-supreme-court-jacobites-2017-verdict-hand-over-churches-orthodox,2026-11-23
 6,"Bible Odyssey, Lee Martin McDonald, The New Testament Canon",https://www.bibleodyssey.org/articles/the-new-testament-canon/,2026-11-23
 6,"BibleProject, Agape / Love",https://bibleproject.com/videos/agape-love/,2026-11-23
 6,"BibleProject, Ahavah / Love",https://bibleproject.com/videos/ahavah-love/,2026-11-23
 6,"BibleProject, How to Read the Bible (video series)",https://bibleproject.com/videos/collections/how-to-read-the-bible/,2026-11-23
 6,"BibleProject, James (overview video)",https://bibleproject.com/videos/james/,2026-11-23
+6,"BibleProject, Sabbath",https://bibleproject.com/videos/sabbath-video/,2026-11-23
 6,"BibleProject, The Deuterocanon / Apocrypha",https://bibleproject.com/videos/deuterocanon-apocrypha-overview/,2026-11-23
 6,"BibleProject, The Holy Spirit",https://bibleproject.com/videos/holy-spirit/,2026-11-23
+6,"BibleProject, The Lord's Prayer",https://bibleproject.com/videos/lords-prayer/,2026-11-23
 6,"BibleProject, Who is God?",https://bibleproject.com/videos/god-video/,2026-11-23
 6,"BookOfConcord.org, About the Translation",https://bookofconcord.org/about-the-translation/,2026-11-23
 6,"BookOfConcord.org, The Lutheran Confessions: What Are They?",https://bookofconcord.org/other-resources/what-are-the-confessions/,2026-11-23
+6,"Christian Classics Ethereal Library, John Calvin, Commentary on Psalms, Volume 1: The Author's Preface",https://www.ccel.org/ccel/calvin/calcom08.vi.html,2026-11-23
+6,"Christian Reformed Church in North America, Confessions",https://www.crcna.org/welcome/beliefs/confessions,2026-11-23
+6,"Christian Reformed Church in North America, Introduction to the Reformed Confessions Translation (2011)",https://www.crcna.org/welcome/beliefs/introduction-reformed-confessions-translation-2011,2026-11-23
+6,"Church of England, Legislation on women bishops becomes law at General Synod (2014)",https://www.churchofengland.org/news/legislation-women-bishops-becomes-law-general-synod,2026-11-23
+6,"Church of England, What we believe",https://www.churchofengland.org/faith/what-we-believe,2026-11-23
+6,"Coptic Orthodox Diocese of the Midlands, UK, Love Your Enemies",https://ukmidcopts.org/resources/spiritual-articles/love-your-enemies/,2026-11-23
+6,"Ethiopian Orthodox Tewahedo Church, Fundamental Dogmas in the Nicaean Creed",https://www.ethiopianorthodox.org/english/dogma/niceancreed.html,2026-11-23
+6,"Ethiopian Orthodox Tewahedo Church, Religious Holidays and Calendar",https://www.ethiopianorthodox.org/english/calendar.html,2026-11-23
 6,"Holy and Great Council of the Orthodox Church, Churches",https://www.holycouncil.org/churches,2026-11-23
 6,"IgnatianSpirituality.com, The Daily Examen",https://www.ignatianspirituality.com/ignatian-prayer/the-examen/,2026-11-23
 6,"International Lutheran Council, Members",https://ilcouncil.org/members/,2026-11-23
+6,"Jacobite Syriac Orthodox Church, Home",https://jacobitesyrianchurch.org/,2026-11-23
 6,"Lutheran World Federation, Facts and Figures",https://lutheranworld.org/who-we-are/history-lwf/facts-and-figures,2026-11-23
 6,"Lutheran World Federation, History of the LWF",https://lutheranworld.org/who-we-are/history-lwf,2026-11-23
 6,"Lutheran World Federation, Women and Gender studies",https://lutheranworld.org/what-we-do/theology/women-and-gender-studies,2026-11-23
 6,"Orthodox Church in America, The Orthodox Faith: Old Testament, Wisdom",https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/old-testament/wisdom,2026-11-23
+6,"Orthodox Presbyterian Church, Confession and Catechisms",https://www.opc.org/confessions.html,2026-11-23
+6,"Reformed Church in America, Creeds and Confessions",https://www.rca.org/about/theology/creeds-and-confessions/,2026-11-23
+6,"The United Methodist Church, Joe Iovino, An open table: How United Methodists understand communion",https://www.umc.org/en/content/an-open-table-how-united-methodists-understand-communion,2026-11-23
+6,"United Reformed Church, What is the URC?",https://urc.org.uk/who-we-are/what-is-the-urc/,2026-11-23
 6,"University of Fribourg, Institute for Ecumenical Studies, For the Life of the World: Toward a Social Ethos of the Orthodox Church",https://www.unifr.ch/iso/en/news/news/24780/next,2026-11-23
 6,"Vanderbilt Divinity Library, Revised Common Lectionary: FAQ",https://lectionary.library.vanderbilt.edu/faq/,2026-11-23
 6,"Vatican News, Russian Orthodox Church breaks Eucharistic communion with Patriarchate of Constantinople",https://www.vaticannews.va/en/world/news/2018-10/russian-orthodox-break-communion-with-ecumenical-patriarch.html,2026-11-23
+6,"World Council of Churches, WCC extends congratulations to H.E. Abune Basliyos upon enthronement as 6th Patriarch of the Eritrean Orthodox Tewahedo Church (2025)",https://www.oikoumene.org/news/wcc-extends-congratulations-to-he-abune-basliyos-upon-enthronement-as-6th-patriarch-of-the-eritrean-orthodox-tewahedo-church,2026-11-23
+6,"World Reformed Fellowship, About",https://wrfnet.org/about,2026-11-23
 5,"Utrecht University, A Brief History of the Reformed Orthodox Calendar",https://webspace.science.uu.nl/~gent0113/easter/easter_text5d.htm,2026-11-23
