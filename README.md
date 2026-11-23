@@ -60,8 +60,13 @@ zensical.toml       Website configuration, built by scripts/build_site.py
 | [Growing as a disciple](general/discipleship.md) | Following Jesus, the fruit of the Spirit, spiritual disciplines, using your gifts, mentors, perseverance |
 | [Belonging to a church](general/church.md) | The local church, unity, serving and giving, leaders and accountability, disagreements, safeguarding |
 | [Honest and kind speech](general/speech.md) | Truthfulness, no gossip or slander, words that build up, the tongue and anger, keeping your word, confidences |
+| [Marriage, family and singleness](general/family.md) | Parents, faithfulness, children, self-giving love, singleness, no abuse at home |
+| [Money, possessions and generosity](general/money.md) | Honesty, generosity, greed, contentment, debts, stewardship |
+| [Work and rest](general/work.md) | Working well, fair wages, dignity of work, rest for workers, vocation |
+| [Justice and the poor](general/justice.md) | The poor and the stranger, equal dignity, honest justice, migrants, just structures, prisoners |
+| [Care for creation](general/creation.md) | Caring for the earth, simple living, pollution, animals, praise, future generations |
 
-More topics are planned: family, money, work and rest, justice and the poor, care for creation, suffering and hope, sharing the faith, public life, and discernment.
+More topics are planned: suffering and hope, sharing the faith, public life, and discernment.
 
 ## The Bible
 
@@ -123,7 +128,7 @@ Tools that read [`AGENTS.md`](AGENTS.md) or support Agent Skills can use the `sk
 ## Roadmap
 
 1. **Foundations** (done): the repository's decisions, scoring criteria, templates, checks and website, the Bible reference tooling, and one page of each kind to prove the format: [Love of God and neighbour](general/love.md) and [James](bible/new-testament/james.md).
-2. **General topics and church pages** (in progress): done so far are nine topics (the creeds, love, Scripture, prayer, worship, forgiveness, discipleship, church, speech) and ten church pages (Catholic, Eastern Orthodox, Oriental Orthodox, Lutheran, Reformed, Anglican, Methodist, Baptist, Pentecostal, Anabaptist). Next: family, money, work and rest, justice and the poor, care for creation, suffering and hope, sharing the faith, public life and discernment.
+2. **General topics and church pages** (in progress): done so far are fourteen topics (the creeds, love, Scripture, prayer, worship, forgiveness, discipleship, church, speech, family, money, work, justice, creation) and ten church pages (Catholic, Eastern Orthodox, Oriental Orthodox, Lutheran, Reformed, Anglican, Methodist, Baptist, Pentecostal, Anabaptist). Next: suffering and hope, sharing the faith, public life, discernment and a reading list.
 3. **Bible book pages**: the New Testament, then the Old Testament, then the deuterocanon.
 4. **Areas of life, more skills and evals.**
 
