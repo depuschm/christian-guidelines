@@ -7,10 +7,12 @@ When a page introduces an abbreviation that readers may not know, add a row here
 | Abbreviation | Meaning | See |
 | --- | --- | --- |
 | ADR | Architecture decision record: a short document that records one decision about this repository, with its reasons | [Decisions](docs/decisions/README.md) |
+| CHARIS | Catholic Charismatic Renewal International Service, the body the Holy See established to serve the charismatic renewal in the Catholic Church | [The Pentecostal and charismatic churches](traditions/pentecostal.md) |
 | CI | Continuous integration: the checks that run automatically on every change to this repository | [Contributing](CONTRIBUTING.md) |
 | ESV | English Standard Version (2001), a widely used evangelical translation of the Bible | [Decision 0009](docs/decisions/0009-quote-and-link-one-public-domain-translation.md) |
 | GAFCON | Global Anglican Future Conference, a movement of Anglicans formed in 2008 around the Jerusalem Statement | [The Anglican churches](traditions/anglican.md) |
 | MADR | Markdown Architectural Decision Records, the template the decision records follow | [Decisions](docs/decisions/README.md) |
+| MCC | Mennonite Central Committee, formed in 1920, which works for relief, development and peacebuilding around the world | [The Anabaptist churches](traditions/anabaptist.md) |
 | NABRE | New American Bible, Revised Edition (2011), the Catholic translation published by the United States Conference of Catholic Bishops | [The Bible](bible/README.md) |
 | NETS | A New English Translation of the Septuagint, a scholarly translation of the Greek Old Testament | [The Bible](bible/README.md) |
 | NIV | New International Version, the most widely used evangelical translation of the Bible | [The Bible](bible/README.md) |

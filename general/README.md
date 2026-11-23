@@ -25,7 +25,10 @@ If you only read three sources beyond the Bible, read these:
 - [Prayer](prayer.md): praying every day, the Lord's Prayer, praying for others, thanksgiving, lament, praying together, and praying humbly.
 - [Worship and the sacraments](worship.md): worship on the Lord's Day, baptism, the Lord's Supper and preparing for it, a day of rest, and worship with your whole life.
 - [Repentance and forgiveness](repentance.md): repenting and confessing sin, forgiving others, being reconciled, not taking revenge, and helping those who fall.
+- [Growing as a disciple](discipleship.md): following Jesus, the fruit of the Spirit, the disciplines of the Christian life, using your gifts, friends and mentors in the faith, and keeping going when it costs.
+- [Belonging to a church](church.md): belonging to a local church, working for unity, sharing in the church's life, respecting and holding leaders to account, settling disagreements, and protecting children and vulnerable adults.
+- [Honest and kind speech](speech.md): truthfulness, no gossip or slander, words that build up, controlling the tongue and anger, keeping your word, and confidentiality.
 
 ### Planned
 
-More topics will follow, each with its own rule prefix: growing as a disciple, belonging to a church, honest and kind speech, family, money and generosity, work and rest, justice and the poor, care for creation, suffering and hope, sharing the faith, public life, and discernment. A reading list will gather books, courses and complete guides.
+More topics will follow, each with its own rule prefix: family, money and generosity, work and rest, justice and the poor, care for creation, suffering and hope, sharing the faith, public life, and discernment. A reading list will gather books, courses and complete guides.

@@ -57,8 +57,11 @@ zensical.toml       Website configuration, built by scripts/build_site.py
 | [Prayer](general/prayer.md) | Praying every day, the Lord's Prayer, praying for others, thanksgiving, lament, praying together and humbly |
 | [Worship and the sacraments](general/worship.md) | The Lord's Day, baptism, the Lord's Supper and preparing for it, a day of rest, worship with your whole life |
 | [Repentance and forgiveness](general/repentance.md) | Repenting and confessing sin, forgiving others, reconciliation, no revenge, helping those who fall |
+| [Growing as a disciple](general/discipleship.md) | Following Jesus, the fruit of the Spirit, spiritual disciplines, using your gifts, mentors, perseverance |
+| [Belonging to a church](general/church.md) | The local church, unity, serving and giving, leaders and accountability, disagreements, safeguarding |
+| [Honest and kind speech](general/speech.md) | Truthfulness, no gossip or slander, words that build up, the tongue and anger, keeping your word, confidences |
 
-More topics are planned: growing as a disciple, belonging to a church, family, money, work and rest, justice and the poor, care for creation, suffering and hope, sharing the faith, public life, and discernment.
+More topics are planned: family, money, work and rest, justice and the poor, care for creation, suffering and hope, sharing the faith, public life, and discernment.
 
 ## The Bible
 
@@ -76,9 +79,9 @@ Planned, with their own guidance and rules: church leadership and safeguarding, 
 
 Each church tradition is described in its own terms, from its own teaching documents ([ADR-0007](docs/decisions/0007-describe-churches-on-their-own-terms.md)):
 
-[The Catholic Church](traditions/catholic.md) · [The Eastern Orthodox churches](traditions/eastern-orthodox.md) · [The Oriental Orthodox churches](traditions/oriental-orthodox.md) · [The Lutheran churches](traditions/lutheran.md) · [The Reformed and Presbyterian churches](traditions/reformed.md) · [The Anglican churches](traditions/anglican.md)
+[The Catholic Church](traditions/catholic.md) · [The Eastern Orthodox churches](traditions/eastern-orthodox.md) · [The Oriental Orthodox churches](traditions/oriental-orthodox.md) · [The Lutheran churches](traditions/lutheran.md) · [The Reformed and Presbyterian churches](traditions/reformed.md) · [The Anglican churches](traditions/anglican.md) · [The Methodist churches](traditions/methodist.md) · [The Baptist churches](traditions/baptist.md) · [The Pentecostal and charismatic churches](traditions/pentecostal.md) · [The Anabaptist churches](traditions/anabaptist.md)
 
-Planned next: the Methodist, Baptist, Pentecostal and Anabaptist churches. See [traditions/README.md](traditions/README.md).
+Many other churches still need pages. See [traditions/README.md](traditions/README.md).
 
 ## Checklists
 
@@ -120,7 +123,7 @@ Tools that read [`AGENTS.md`](AGENTS.md) or support Agent Skills can use the `sk
 ## Roadmap
 
 1. **Foundations** (done): the repository's decisions, scoring criteria, templates, checks and website, the Bible reference tooling, and one page of each kind to prove the format: [Love of God and neighbour](general/love.md) and [James](bible/new-testament/james.md).
-2. **General topics and church pages** (in progress): done so far are what the churches confess together, Reading Scripture, Prayer, Worship and the sacraments, Repentance and forgiveness, and the Catholic, Eastern Orthodox, Oriental Orthodox, Lutheran, Reformed and Anglican pages. Next: the other planned topics, and the Methodist, Baptist, Pentecostal and Anabaptist pages.
+2. **General topics and church pages** (in progress): done so far are nine topics (the creeds, love, Scripture, prayer, worship, forgiveness, discipleship, church, speech) and ten church pages (Catholic, Eastern Orthodox, Oriental Orthodox, Lutheran, Reformed, Anglican, Methodist, Baptist, Pentecostal, Anabaptist). Next: family, money, work and rest, justice and the poor, care for creation, suffering and hope, sharing the faith, public life and discernment.
 3. **Bible book pages**: the New Testament, then the Old Testament, then the deuterocanon.
 4. **Areas of life, more skills and evals.**
 
