@@ -1,4 +1,10 @@
 id,status,title
+FORG-1,active,"Forgive those who wrong you, as God has forgiven you."
+FORG-2,active,"Repent: admit your sins, turn away from them and turn back to God."
+FORG-3,active,"Confess your sins to God, trusting his forgiveness."
+FORG-4,active,"Seek to be reconciled with those you have wronged, and put right what you can."
+FORG-5,active,Don't take revenge: leave judgement to God and to just authorities.
+FORG-6,active,"Help those who fall to find their way back, gently."
 LOVE-1,active,"Love God with all your heart, soul, mind and strength."
 LOVE-2,active,Love your neighbour as yourself.
 LOVE-3,active,Treat others as you would want them to treat you.
@@ -8,9 +14,22 @@ LOVE-6,active,Love one another as Christ loved you.
 LOVE-7,active,"Show love in deeds, not only in words: meet people's real needs."
 LOVE-8,active,"Practise the marks of love: be patient and kind, humble and gentle, keep no record of wrongs and rejoice in the truth."
 LOVE-9,active,"Don't show favouritism: love rich and poor, insiders and outsiders alike."
+PRAY-1,active,Pray every day: make prayer a regular part of your life.
+PRAY-2,active,"Pray the Lord's Prayer, and let it shape all your prayer."
+PRAY-3,active,"Pray for others: for those in need, for those in authority and for those who wrong you."
+PRAY-4,active,Give thanks to God in every circumstance.
+PRAY-5,active,"Bring your sorrow, anger and questions to God honestly: lament is prayer too."
+PRAY-6,active,Pray together with other Christians.
+PRAY-7,active,"Pray humbly and with trust, not to be seen by others."
 SCRIP-1,active,"Read the Bible regularly, and let it shape your faith and life."
 SCRIP-2,active,"Read each passage in its context: the book it belongs to, its kind of writing and its setting."
 SCRIP-3,active,"Read Scripture as a whole: let clearer passages shed light on harder ones, and read the Old and New Testaments in the light of each other and of Christ."
 SCRIP-4,active,"Read Scripture with other Christians: hear it in worship, study it together and learn from those who teach it."
 SCRIP-5,active,"Pray with Scripture: read slowly, meditate on it and answer God in prayer."
 SCRIP-6,active,Put what you read into practice.
+WOR-1,active,Worship God together with the church on the Lord's Day.
+WOR-2,active,"Be baptised in the name of the Father, the Son and the Holy Spirit, as Christ commanded."
+WOR-3,active,"Share in the Lord's Supper, as Christ commanded: ""Do this in memory of me""."
+WOR-4,active,"Prepare to receive the Lord's Supper: examine yourself, and be reconciled with others first."
+WOR-5,active,"Keep a day of rest and worship, free from unnecessary work."
+WOR-6,active,"Worship God with your whole life, not only in church."

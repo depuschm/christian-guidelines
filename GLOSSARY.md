@@ -9,6 +9,7 @@ When a page introduces an abbreviation that readers may not know, add a row here
 | ADR | Architecture decision record: a short document that records one decision about this repository, with its reasons | [Decisions](docs/decisions/README.md) |
 | CI | Continuous integration: the checks that run automatically on every change to this repository | [Contributing](CONTRIBUTING.md) |
 | ESV | English Standard Version (2001), a widely used evangelical translation of the Bible | [Decision 0009](docs/decisions/0009-quote-and-link-one-public-domain-translation.md) |
+| GAFCON | Global Anglican Future Conference, a movement of Anglicans formed in 2008 around the Jerusalem Statement | [The Anglican churches](traditions/anglican.md) |
 | MADR | Markdown Architectural Decision Records, the template the decision records follow | [Decisions](docs/decisions/README.md) |
 | NABRE | New American Bible, Revised Edition (2011), the Catholic translation published by the United States Conference of Catholic Bishops | [The Bible](bible/README.md) |
 | NETS | A New English Translation of the Septuagint, a scholarly translation of the Greek Old Testament | [The Bible](bible/README.md) |
@@ -16,6 +17,7 @@ When a page introduces an abbreviation that readers may not know, add a row here
 | NRSVUE | New Revised Standard Version Updated Edition (2021), an ecumenical scholarly translation of the Bible that includes the deuterocanon | [The Bible](bible/README.md) |
 | SBL | Society of Biblical Literature, the largest scholarly society for the study of the Bible | [The Bible](bible/README.md) |
 | SBLGNT | SBL Greek New Testament, a free critical edition of the New Testament in Greek | [The Bible](bible/README.md) |
+| URC | United Reformed Church, a church in the United Kingdom formed in 1972 from Presbyterian and Congregational churches | [The Reformed and Presbyterian churches](traditions/reformed.md) |
 | USCCB | United States Conference of Catholic Bishops, publisher of the NABRE and its introductions to each book | [James](bible/new-testament/james.md) |
 | WCC | World Council of Churches, a fellowship of churches whose Faith and Order Commission works towards agreement between them | [What the churches confess together](general/beliefs.md) |
 | WEBBE | World English Bible British Edition with Deuterocanon, the public domain translation that every Bible reference in these guidelines links to | [The Bible](bible/README.md) |

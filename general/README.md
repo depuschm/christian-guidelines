@@ -22,7 +22,10 @@ If you only read three sources beyond the Bible, read these:
 
 - [Love of God and neighbour](love.md): the two great commandments, the Golden Rule, who counts as a neighbour, love of enemies, love among Christians and love shown in deeds.
 - [Reading Scripture](scripture.md): reading the Bible regularly, in context and as a whole, with other Christians and in prayer, and putting it into practice.
+- [Prayer](prayer.md): praying every day, the Lord's Prayer, praying for others, thanksgiving, lament, praying together, and praying humbly.
+- [Worship and the sacraments](worship.md): worship on the Lord's Day, baptism, the Lord's Supper and preparing for it, a day of rest, and worship with your whole life.
+- [Repentance and forgiveness](repentance.md): repenting and confessing sin, forgiving others, being reconciled, not taking revenge, and helping those who fall.
 
 ### Planned
 
-More topics will follow, each with its own rule prefix: prayer, worship and the sacraments, growing as a disciple, belonging to a church, repentance and forgiveness, honest and kind speech, family, money and generosity, work and rest, justice and the poor, care for creation, suffering and hope, sharing the faith, public life, and discernment. A reading list will gather books, courses and complete guides.
+More topics will follow, each with its own rule prefix: growing as a disciple, belonging to a church, honest and kind speech, family, money and generosity, work and rest, justice and the poor, care for creation, suffering and hope, sharing the faith, public life, and discernment. A reading list will gather books, courses and complete guides.

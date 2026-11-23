@@ -23,6 +23,9 @@ accept = ["200..=299", "429"]
 exclude = [
   # Sites that answer automated requests with 403 even though the pages exist.
   # Check these by hand before adding or changing them (see CONTRIBUTING.md).
+  # Times out for GitHub-hosted runners, though it loads in under a second from elsewhere
+  # (checked 2026-11-23). The source re-check (.claude/skills/reverify-sources) covers it.
+  '^https://jacobitesyrianchurch\.org/',
   # This repository's own website. It's deployed after this check runs, and the strict
   # site build (.github/workflows/site.yml) already checks its links.
   '^https://depuschm\.github\.io/christian-guidelines/',
@@ -53,3 +56,13 @@ request_interval = "500ms"
 [hosts."ebible.org"]
 concurrency = 2
 request_interval = "200ms"
+
+# The US Catholic bishops' sites answer bursts of scripted requests with HTTP 403 and recover
+# after a few seconds (checked 2026-11-23), so go slowly there.
+[hosts."bible.usccb.org"]
+concurrency = 1
+request_interval = "3s"
+
+[hosts."www.usccb.org"]
+concurrency = 1
+request_interval = "3s"
