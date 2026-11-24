@@ -48,7 +48,7 @@ Every book, in the order of the canon, with the number of its chapters in the WE
 
 ### Old Testament
 
-39 books, 5 with a guide page so far.
+39 books, 10 with a guide page so far.
 
 #### Law (Pentateuch)
 
@@ -64,11 +64,11 @@ Every book, in the order of the canon, with the number of its chapters in the WE
 
 | Book | Chapters | Guide | Text |
 | --- | --- | --- | --- |
-| Joshua | 24 | Not written yet | [Joshua](https://ebible.org/eng-webbe/JOS.htm) |
-| Judges | 21 | Not written yet | [Judges](https://ebible.org/eng-webbe/JDG.htm) |
-| Ruth | 4 | Not written yet | [Ruth](https://ebible.org/eng-webbe/RUT.htm) |
-| 1 Samuel | 31 | Not written yet | [1 Samuel](https://ebible.org/eng-webbe/1SA.htm) |
-| 2 Samuel | 24 | Not written yet | [2 Samuel](https://ebible.org/eng-webbe/2SA.htm) |
+| Joshua | 24 | [Joshua](old-testament/joshua.md) | [Joshua](https://ebible.org/eng-webbe/JOS.htm) |
+| Judges | 21 | [Judges](old-testament/judges.md) | [Judges](https://ebible.org/eng-webbe/JDG.htm) |
+| Ruth | 4 | [Ruth](old-testament/ruth.md) | [Ruth](https://ebible.org/eng-webbe/RUT.htm) |
+| 1 Samuel | 31 | [1 Samuel](old-testament/1-samuel.md) | [1 Samuel](https://ebible.org/eng-webbe/1SA.htm) |
+| 2 Samuel | 24 | [2 Samuel](old-testament/2-samuel.md) | [2 Samuel](https://ebible.org/eng-webbe/2SA.htm) |
 | 1 Kings | 22 | Not written yet | [1 Kings](https://ebible.org/eng-webbe/1KI.htm) |
 | 2 Kings | 25 | Not written yet | [2 Kings](https://ebible.org/eng-webbe/2KI.htm) |
 | 1 Chronicles | 29 | Not written yet | [1 Chronicles](https://ebible.org/eng-webbe/1CH.htm) |
