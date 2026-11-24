@@ -111,6 +111,7 @@ score,title,url,verified
 8,"Vatican, Pope Francis, Evangelii gaudium (2013)",https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html,2026-11-23
 8,"Vatican, Pope Francis, Fratelli tutti",https://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html,2026-11-23
 8,"Vatican, Pope Francis, Laudato si'",https://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html,2026-11-23
+8,"Vatican, Pope Francis, Misericordiae Vultus (2015)",https://www.vatican.va/content/francesco/en/bulls/documents/papa-francesco_bolla_20150411_misericordiae-vultus.html,2026-11-24
 8,"Vatican, Pope Francis, Spes non confundit: Bull of Indiction of the Ordinary Jubilee of the Year 2025 (2024)",https://www.vatican.va/content/francesco/en/bulls/documents/20240509_spes-non-confundit_bolla-giubileo2025.html,2026-11-24
 8,"Vatican, Pope Francis, Vos estis lux mundi (updated 2023)",https://www.vatican.va/content/francesco/en/motu_proprio/documents/20230325-motu-proprio-vos-estis-lux-mundi-aggiornato.html,2026-11-23
 8,"Vatican, Second Vatican Council, Ad gentes: Decree on the Mission Activity of the Church",https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_ad-gentes_en.html,2026-11-23
@@ -149,6 +150,7 @@ score,title,url,verified
 7,"Bible Gateway, 2 Timothy 1–4 (NRSVUE)",https://www.biblegateway.com/passage/?search=2%20Timothy%201-4&version=NRSVUE,2026-11-24
 7,"Bible Gateway, 3 John 1 (NRSVUE)",https://www.biblegateway.com/passage/?search=3%20John%201&version=NRSVUE,2026-11-24
 7,"Bible Gateway, Acts 1–28 (NRSVUE)",https://www.biblegateway.com/passage/?search=Acts%201-28&version=NRSVUE,2026-11-24
+7,"Bible Gateway, Amos 1–9 (NRSVUE)",https://www.biblegateway.com/passage/?search=Amos%201-9&version=NRSVUE,2026-11-24
 7,"Bible Gateway, Colossians 1–4 (NRSVUE)",https://www.biblegateway.com/passage/?search=Colossians%201-4&version=NRSVUE,2026-11-24
 7,"Bible Gateway, Daniel 1 (NRSVUE)",https://www.biblegateway.com/passage/?search=Daniel%201&version=NRSVUE,2026-11-24
 7,"Bible Gateway, Deuteronomy 1 (NRSVUE)",https://www.biblegateway.com/passage/?search=Deuteronomy%201&version=NRSVUE,2026-11-24
@@ -161,12 +163,15 @@ score,title,url,verified
 7,"Bible Gateway, Galatians 1–6 (NRSVUE)",https://www.biblegateway.com/passage/?search=Galatians%201-6&version=NRSVUE,2026-11-24
 7,"Bible Gateway, Genesis 1 (NRSVUE)",https://www.biblegateway.com/passage/?search=Genesis%201&version=NRSVUE,2026-11-24
 7,"Bible Gateway, Hebrews 1–13 (NRSVUE)",https://www.biblegateway.com/passage/?search=Hebrews%201-13&version=NRSVUE,2026-11-24
+7,"Bible Gateway, Hosea 1–14 (NRSVUE)",https://www.biblegateway.com/passage/?search=Hosea%201-14&version=NRSVUE,2026-11-24
 7,"Bible Gateway, Isaiah 1 (NRSVUE)",https://www.biblegateway.com/passage/?search=Isaiah%201&version=NRSVUE,2026-11-24
 7,"Bible Gateway, James 1–5 (NRSVUE)",https://www.biblegateway.com/passage/?search=James%201-5&version=NRSVUE,2026-11-23
 7,"Bible Gateway, Jeremiah 1 (NRSVUE)",https://www.biblegateway.com/passage/?search=Jeremiah%201&version=NRSVUE,2026-11-24
 7,"Bible Gateway, Job 1 (NRSVUE)",https://www.biblegateway.com/passage/?search=Job%201&version=NRSVUE,2026-11-24
 7,"Bible Gateway, Job 42 (NRSVUE)",https://www.biblegateway.com/passage/?search=Job%2042&version=NRSVUE,2026-11-24
+7,"Bible Gateway, Joel 1–3 (NRSVUE)",https://www.biblegateway.com/passage/?search=Joel%201-3&version=NRSVUE,2026-11-24
 7,"Bible Gateway, John 1–21 (NRSVUE)",https://www.biblegateway.com/passage/?search=John%201-21&version=NRSVUE,2026-11-24
+7,"Bible Gateway, Jonah 1–4 (NRSVUE)",https://www.biblegateway.com/passage/?search=Jonah%201-4&version=NRSVUE,2026-11-24
 7,"Bible Gateway, Joshua 1 (NRSVUE)",https://www.biblegateway.com/passage/?search=Joshua%201&version=NRSVUE,2026-11-24
 7,"Bible Gateway, Jude (NRSVUE)",https://www.biblegateway.com/passage/?search=Jude%201&version=NRSVUE,2026-11-24
 7,"Bible Gateway, Judges 1 (NRSVUE)",https://www.biblegateway.com/passage/?search=Judges%201&version=NRSVUE,2026-11-24
@@ -176,9 +181,11 @@ score,title,url,verified
 7,"Bible Gateway, Mark 1 (NRSVUE)",https://www.biblegateway.com/passage/?search=Mark%201&version=NRSVUE,2026-11-24
 7,"Bible Gateway, Mark 16, with notes (NRSVUE)",https://www.biblegateway.com/passage/?search=Mark%2016&version=NRSVUE,2026-11-24
 7,"Bible Gateway, Matthew 1 (NRSVUE)",https://www.biblegateway.com/passage/?search=Matthew%201&version=NRSVUE,2026-11-24
+7,"Bible Gateway, Micah 1–7 (NRSVUE)",https://www.biblegateway.com/passage/?search=Micah%201-7&version=NRSVUE,2026-11-24
 7,"Bible Gateway, Nehemiah 1 (NRSVUE)",https://www.biblegateway.com/passage/?search=Nehemiah%201&version=NRSVUE,2026-11-24
 7,"Bible Gateway, New International Version (NIV)",https://www.biblegateway.com/versions/New-International-Version-NIV-Bible/,2026-11-23
 7,"Bible Gateway, Numbers 1 (NRSVUE)",https://www.biblegateway.com/passage/?search=Numbers%201&version=NRSVUE,2026-11-24
+7,"Bible Gateway, Obadiah 1 (NRSVUE)",https://www.biblegateway.com/passage/?search=Obadiah%201&version=NRSVUE,2026-11-24
 7,"Bible Gateway, Philemon (NRSVUE)",https://www.biblegateway.com/passage/?search=Philemon%201&version=NRSVUE,2026-11-24
 7,"Bible Gateway, Philippians 1–4 (NRSVUE)",https://www.biblegateway.com/passage/?search=Philippians%201-4&version=NRSVUE,2026-11-24
 7,"Bible Gateway, Proverbs 1 (NRSVUE)",https://www.biblegateway.com/passage/?search=Proverbs%201&version=NRSVUE,2026-11-24
@@ -197,6 +204,7 @@ score,title,url,verified
 7,"Bible Odyssey, Benjamin E. Reynolds, The Son of Man",https://www.bibleodyssey.org/articles/the-son-of-man/,2026-11-24
 7,"Bible Odyssey, Benjamin Sommer, Sinai",https://www.bibleodyssey.org/articles/sinai/,2026-11-24
 7,"Bible Odyssey, Beth Glazier-McDonald, Elijah",https://www.bibleodyssey.org/articles/elijah/,2026-11-24
+7,"Bible Odyssey, Brad Anderson, Edom",https://www.bibleodyssey.org/articles/edom/,2026-11-24
 7,"Bible Odyssey, Brian M. Britt, The Exodus Tradition in the Bible",https://www.bibleodyssey.org/articles/the-exodus-tradition-in-the-bible/,2026-11-24
 7,"Bible Odyssey, Brian Rainey, The Prophet Jeremiah",https://www.bibleodyssey.org/articles/the-prophet-jeremiah/,2026-11-24
 7,"Bible Odyssey, C. A. Strine, Descriptions of the Temple in First Kings and Ezekiel",https://www.bibleodyssey.org/articles/descriptions-of-the-temple-in-first-kings-and-ezekiel/,2026-11-24
@@ -210,6 +218,7 @@ score,title,url,verified
 7,"Bible Odyssey, David A. deSilva, The Sign of the Beast",https://www.bibleodyssey.org/articles/the-sign-of-the-beast/,2026-11-24
 7,"Bible Odyssey, David Carr and Marc Zvi Brettler, The Book of Genesis",https://www.bibleodyssey.org/articles/the-book-of-genesis/,2026-11-24
 7,"Bible Odyssey, Demetrius K. Williams, Onesimus",https://www.bibleodyssey.org/articles/onesimus/,2026-11-24
+7,"Bible Odyssey, Dennis R. Edwards, The Bible in the Civil Rights Movement",https://www.bibleodyssey.org/articles/the-bible-in-the-civil-rights-movement/,2026-11-24
 7,"Bible Odyssey, Did the Authors of the Canonical Gospels Know Each Other?",https://www.bibleodyssey.org/articles/did-the-authors-of-the-canonical-gospels-know-each-other/,2026-11-24
 7,"Bible Odyssey, Elizabeth E. Shively, The Suffering Servant and the New Testament",https://www.bibleodyssey.org/articles/the-suffering-servant-and-the-new-testament/,2026-11-24
 7,"Bible Odyssey, Elsie R. Stern, Where Is God in Esther?",https://www.bibleodyssey.org/articles/where-is-god-in-esther/,2026-11-24
@@ -230,12 +239,14 @@ score,title,url,verified
 7,"Bible Odyssey, Lisa M. Wolfe, Vanity of Vanities",https://www.bibleodyssey.org/articles/vanity-of-vanities/,2026-11-24
 7,"Bible Odyssey, Lorenzo Nigro, Jericho",https://www.bibleodyssey.org/articles/jericho/,2026-11-24
 7,"Bible Odyssey, Lynn R. Huber, Millennium",https://www.bibleodyssey.org/articles/millennium/,2026-11-24
+7,"Bible Odyssey, Marc Zvi Brettler, The Prophets and the Temple",https://www.bibleodyssey.org/articles/the-prophets-and-the-temple/,2026-11-24
 7,"Bible Odyssey, Martien A. Halvorson-Taylor, Esther",https://www.bibleodyssey.org/articles/esther/,2026-11-24
 7,"Bible Odyssey, Martien A. Halvorson-Taylor, Is the Song of Songs Sacred or Secular?",https://www.bibleodyssey.org/articles/is-the-song-of-songs-sacred-or-secular-2/,2026-11-24
 7,"Bible Odyssey, Meredith J. C. Warren, Eating Jesus's Flesh (John 6)",https://www.bibleodyssey.org/articles/eating-jesuss-flesh-john-6/,2026-11-24
 7,"Bible Odyssey, Olivia Stewart Lester, Thessalonica",https://www.bibleodyssey.org/articles/thessalonica/,2026-11-24
 7,"Bible Odyssey, Philip Yoo, Red Sea",https://www.bibleodyssey.org/articles/red-sea/,2026-11-24
 7,"Bible Odyssey, Rhiannon Graybill, The Levite's Concubine",https://www.bibleodyssey.org/articles/the-levites-concubine/,2026-11-24
+7,"Bible Odyssey, Samuel Thomas, Let Justice Roll Down Like Waters",https://www.bibleodyssey.org/articles/let-justice-roll-down-like-waters/,2026-11-24
 7,"Bible Odyssey, Sara Koenig, Bathsheba",https://www.bibleodyssey.org/articles/bathsheba/,2026-11-24
 7,"Bible Odyssey, Sara Wells, Ezekiel",https://www.bibleodyssey.org/articles/ezekiel/,2026-11-24
 7,"Bible Odyssey, Sarah Malena, Solomon",https://www.bibleodyssey.org/articles/solomon/,2026-11-24
@@ -340,6 +351,7 @@ score,title,url,verified
 7,"Church of England, Book of Common Prayer, The Form and Manner of Making, Ordaining and Consecrating of Bishops, Priests and Deacons",https://www.churchofengland.org/liturgy/book-of-common-prayer/form-and-manner-making,2026-11-23
 7,"Church of England, Book of Common Prayer, The Lord's Supper or Holy Communion",https://www.churchofengland.org/liturgy/book-of-common-prayer/lords-supper-or-holy-communion,2026-11-23
 7,"Church of England, Book of Common Prayer: A Commination",https://www.churchofengland.org/liturgy/book-of-common-prayer/commination,2026-11-24
+7,"Church of England, Book of Common Prayer: The First Day of Lent, commonly called Ash Wednesday",https://www.churchofengland.org/liturgy/book-of-common-prayer/collects-epistles-and-gospels/ash-wednesday,2026-11-24
 7,"Church of England, Book of Common Prayer: The Form of Solemnization of Matrimony",https://www.churchofengland.org/liturgy/book-of-common-prayer/form-solemnization-matrimony,2026-11-23
 7,"Church of England, Book of Common Prayer: The Order for Evening Prayer",https://www.churchofengland.org/liturgy/book-of-common-prayer/order-evening-prayer,2026-11-24
 7,"Church of England, Book of Common Prayer: The Order for Morning Prayer",https://www.churchofengland.org/liturgy/book-of-common-prayer/order-morning-prayer,2026-11-23
@@ -357,6 +369,7 @@ score,title,url,verified
 7,"Church of England, Common Worship: Passiontide and Holy Week, Seasonal Material",https://www.churchofengland.org/liturgy/common-worship/seasonal-material/passiontide/passiontide-and-holy,2026-11-24
 7,"Church of England, Common Worship: Prayers at the Preparation of the Table",https://www.churchofengland.org/liturgy/common-worship/holy-communion-order-one/prayers-preparation-table,2026-11-24
 7,"Church of England, Common Worship: Readings and Psalms for Marriage",https://www.churchofengland.org/liturgy/common-worship/marriage/readings-and-psalms-marriage,2026-11-24
+7,"Church of England, Common Worship: The Liturgy of Good Friday",https://www.churchofengland.org/liturgy/common-worship/seasonal-material/passiontide/liturgy-good-friday,2026-11-24
 7,"Church of England, Common Worship: The Liturgy of Maundy Thursday",https://www.churchofengland.org/liturgy/common-worship/seasonal-material/passiontide/liturgy-maundy-thursday,2026-11-24
 7,"Church of England, Common Worship: Wholeness and Healing",https://www.churchofengland.org/liturgy/common-worship/book/pastoral-services/wholeness-and-healing,2026-11-23
 7,"Church of England, Digital Charter",https://www.churchofengland.org/national-bodies/central-services/communications-team/digital-charter,2026-11-23
@@ -394,6 +407,7 @@ score,title,url,verified
 7,"International Lutheran Council, About Us",https://ilcouncil.org/about-us/,2026-11-23
 7,"International Organization for Septuagint and Cognate Studies, A New English Translation of the Septuagint (NETS), electronic edition",https://ccat.sas.upenn.edu/nets/edition/,2026-11-23
 7,"International Organization for Septuagint and Cognate Studies, NETS, Lamentations (translated by Peter J. Gentry)",https://ccat.sas.upenn.edu/nets/edition/36-lam-nets.pdf,2026-11-24
+7,"International Organization for Septuagint and Cognate Studies, NETS, The Twelve Prophets (translated by George E. Howard)",https://ccat.sas.upenn.edu/nets/edition/32-twelve-nets.pdf,2026-11-24
 7,"Israel Museum, The Digital Dead Sea Scrolls: The Great Isaiah Scroll",http://dss.collections.imj.org.il/isaiah,2026-11-24
 7,"Joint International Commission for Theological Dialogue between the Catholic Church and the Orthodox Church, Chieti Document (2016)",https://www.christianunity.va/content/unitacristiani/en/dialoghi/sezione-orientale/chiese-ortodosse-di-tradizione-bizantina/commissione-mista-internazionale-per-il-dialogo-teologico-tra-la/documenti-di-dialogo/testo-in-inglese1.html,2026-11-23
 7,"Lausanne Movement, Creation Care and the Gospel: Jamaica Call to Action",https://lausanne.org/statement/creation-care-call-to-action,2026-11-23
@@ -439,6 +453,7 @@ score,title,url,verified
 7,"New Advent, Augustine, City of God, Book XVIII",https://www.newadvent.org/fathers/120118.htm,2026-11-24
 7,"New Advent, Augustine, City of God, Book XX",https://www.newadvent.org/fathers/120120.htm,2026-11-24
 7,"New Advent, Augustine, Exposition on Psalm 86",https://www.newadvent.org/fathers/1801086.htm,2026-11-24
+7,"New Advent, Augustine, Letter 102",https://www.newadvent.org/fathers/1102102.htm,2026-11-24
 7,"New Advent, Augustine, On Care to Be Had for the Dead",https://www.newadvent.org/fathers/1316.htm,2026-11-24
 7,"New Advent, Augustine, The City of God, Book XVII",https://www.newadvent.org/fathers/120117.htm,2026-11-24
 7,"New Advent, Augustine, To Consentius, Against Lying",https://www.newadvent.org/fathers/1313.htm,2026-11-24
@@ -446,6 +461,7 @@ score,title,url,verified
 7,"New Advent, Clement of Rome, Letter to the Corinthians",https://www.newadvent.org/fathers/1010.htm,2026-11-24
 7,"New Advent, Cyril of Jerusalem, Catechetical Lecture 10",https://www.newadvent.org/fathers/310110.htm,2026-11-24
 7,"New Advent, Cyril of Jerusalem, Catechetical Lecture 13",https://www.newadvent.org/fathers/310113.htm,2026-11-24
+7,"New Advent, Cyril of Jerusalem, Catechetical Lecture 14",https://www.newadvent.org/fathers/310114.htm,2026-11-24
 7,"New Advent, Cyril of Jerusalem, Catechetical Lecture 18",https://www.newadvent.org/fathers/310118.htm,2026-11-24
 7,"New Advent, Eusebius, Church History, Book II",https://www.newadvent.org/fathers/250102.htm,2026-11-23
 7,"New Advent, Eusebius, Church History, Book III",https://www.newadvent.org/fathers/250103.htm,2026-11-23
@@ -457,6 +473,7 @@ score,title,url,verified
 7,"New Advent, Irenaeus, Against Heresies, Book III, chapter 1",https://www.newadvent.org/fathers/0103301.htm,2026-11-24
 7,"New Advent, Irenaeus, Against Heresies, Book III, chapter 11",https://www.newadvent.org/fathers/0103311.htm,2026-11-24
 7,"New Advent, Irenaeus, Against Heresies, Book III, chapter 21",https://www.newadvent.org/fathers/0103321.htm,2026-11-24
+7,"New Advent, Irenaeus, Against Heresies, Book IV, Chapter 20",https://www.newadvent.org/fathers/0103420.htm,2026-11-24
 7,"New Advent, Jerome, De Viris Illustribus (Lives of Illustrious Men)",https://www.newadvent.org/fathers/2708.htm,2026-11-24
 7,"New Advent, Jerome, Letter 48: To Pammachius",https://www.newadvent.org/fathers/3001048.htm,2026-11-24
 7,"New Advent, Jerome, Letter 53: To Paulinus",https://www.newadvent.org/fathers/3001053.htm,2026-11-24
@@ -468,11 +485,13 @@ score,title,url,verified
 7,"New Advent, Tertullian, A Treatise on the Soul",https://www.newadvent.org/fathers/0310.htm,2026-11-24
 7,"New Advent, Tertullian, Against Marcion, Book II",https://www.newadvent.org/fathers/03122.htm,2026-11-24
 7,"New Advent, Thomas Aquinas, Summa Theologiae, I-II, Question 103: The duration of the ceremonial precepts",https://www.newadvent.org/summa/2103.htm,2026-11-24
+7,"New Advent, Thomas Aquinas, Summa Theologiae, I-II, Question 94, Article 5: Whether the natural law can be changed",https://www.newadvent.org/summa/2094.htm#article5,2026-11-24
 7,"New Advent, Thomas Aquinas, Summa Theologiae, I-II, Question 99: The precepts of the Old Law",https://www.newadvent.org/summa/2099.htm,2026-11-24
 7,"Open Yale Courses, Christine Hayes, Introduction to the Old Testament (Hebrew Bible) (RLST 145)",https://oyc.yale.edu/religious-studies/rlst-145,2026-11-23
 7,"Open Yale Courses, Christine Hayes, Introduction to the Old Testament, Lecture 13: The Deuteronomistic History: Prophets and Kings (1 and 2 Samuel)",https://oyc.yale.edu/religious-studies/rlst-145/lecture-13,2026-11-24
 7,"Open Yale Courses, Christine Hayes, Introduction to the Old Testament, Lecture 14: The Deuteronomistic History: Response to Catastrophe (1 and 2 Kings)",https://oyc.yale.edu/religious-studies/rlst-145/lecture-14,2026-11-24
 7,"Open Yale Courses, Christine Hayes, Introduction to the Old Testament, Lecture 15: Hebrew Prophecy: The Non-Literary Prophets",https://oyc.yale.edu/religious-studies/rlst-145/lecture-15,2026-11-24
+7,"Open Yale Courses, Christine Hayes, Introduction to the Old Testament, Lecture 16: Literary Prophecy: Amos",https://oyc.yale.edu/religious-studies/rlst-145/lecture-16,2026-11-24
 7,"Open Yale Courses, Christine Hayes, Introduction to the Old Testament, Lecture 17: Literary Prophecy: Hosea and Isaiah",https://oyc.yale.edu/religious-studies/rlst-145/lecture-17,2026-11-24
 7,"Open Yale Courses, Christine Hayes, Introduction to the Old Testament, Lecture 18: Literary Prophecy: Micah, Zephaniah, Nahum and Habbakuk",https://oyc.yale.edu/religious-studies/rlst-145/lecture-18,2026-11-24
 7,"Open Yale Courses, Christine Hayes, Introduction to the Old Testament, Lecture 19: Literary Prophecy: Perspectives on the Exile (Jeremiah, Ezekiel and 2nd Isaiah)",https://oyc.yale.edu/religious-studies/rlst-145/lecture-19,2026-11-24
@@ -486,13 +505,19 @@ score,title,url,verified
 7,"Orthodox Church in America, Ecumenical Patriarch marks the ecclesiastical new year with a statement on the environment (2010)",https://www.oca.org/News/archived/ecumenical-patriarch-marks-the-ecclesiastical-new-year-with-a-statement-on-,2026-11-23
 7,"Orthodox Church in America, Holy Saturday",https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-church-year/holy-saturday,2026-11-24
 7,"Orthodox Church in America, Holy, Glorious Prophet Elijah",https://www.oca.org/saints/lives/2026/07/20/102060-holy-glorious-prophet-elijah,2026-11-24
+7,"Orthodox Church in America, Lives of all saints commemorated on August 14 (Prophet Micah)",https://www.oca.org/saints/all-lives/2026/08/14,2026-11-24
 7,"Orthodox Church in America, Lives of all saints commemorated on December 13 (2026, Sunday of the Forefathers)",https://www.oca.org/saints/all-lives/2026/12/13,2026-11-24
 7,"Orthodox Church in America, Lives of all saints commemorated on December 27 (Holy Righteous David the King)",https://www.oca.org/saints/all-lives/2026/12/27,2026-11-24
+7,"Orthodox Church in America, Lives of all saints commemorated on June 15 (Prophet Amos)",https://www.oca.org/saints/all-lives/2026/06/15,2026-11-24
+7,"Orthodox Church in America, Lives of all saints commemorated on October 17 (Prophet Hosea)",https://www.oca.org/saints/all-lives/2026/10/17,2026-11-24
+7,"Orthodox Church in America, Lives of all saints commemorated on September 22 (Prophet Jonah)",https://www.oca.org/saints/all-lives/2026/09/22,2026-11-24
 7,"Orthodox Church in America, Lives of the Saints: Prophet Elisha",https://www.oca.org/saints/lives/2026/06/14/101718-prophet-elisha,2026-11-24
 7,"Orthodox Church in America, Lives of the Saints: Prophet Ezekiel",https://www.oca.org/saints/lives/2026/07/21/102064-prophet-ezekiel,2026-11-24
 7,"Orthodox Church in America, Lives of the Saints: Prophet Jeremiah",https://www.oca.org/saints/lives/2026/05/01/101254-prophet-jeremiah,2026-11-24
+7,"Orthodox Church in America, Lives of the Saints: Prophet Joel",https://www.oca.org/saints/lives/2026/10/19/102997-prophet-joel,2026-11-24
 7,"Orthodox Church in America, Lives of the Saints: Prophet Nathan",https://www.oca.org/saints/lives/2019/12/15/608-prophet-nathan,2026-11-24
 7,"Orthodox Church in America, Lives of the Saints: Prophet Nehemiah",https://www.oca.org/saints/lives/2026/12/13/609-prophet-nehemiah,2026-11-24
+7,"Orthodox Church in America, Lives of the Saints: Prophet Obadiah (Abdia)",https://www.oca.org/saints/lives/2026/11/19/103326-prophet-obadiah-abdia,2026-11-24
 7,"Orthodox Church in America, Lives of the Saints: Sunday of the Forefathers",https://www.oca.org/saints/lives/2026/12/13/80-sunday-of-the-forefathers,2026-11-24
 7,"Orthodox Church in America, Prevention of Sexual Misconduct",https://www.oca.org/about/sexual-misconduct,2026-11-23
 7,"Orthodox Church in America, Prophet Daniel",https://www.oca.org/saints/lives/2026/12/17/103559-prophet-daniel,2026-11-24
@@ -559,8 +584,11 @@ score,title,url,verified
 7,"Reformed Presbyterian Church of North America, Convictions",https://reformedpresbyterian.org/convictions,2026-11-24
 7,"Russian Orthodox Church, Department for External Church Relations, Bases of the Social Concept, III: Church and state",https://old.mospat.ru/en/documents/social-concepts/iii/,2026-11-23
 7,"Russian Orthodox Church, Department for External Church Relations, Bases of the Social Concept, XII: Problems of bioethics",https://old.mospat.ru/en/documents/social-concepts/xii/,2026-11-23
+7,"Sefaria, Amos",https://www.sefaria.org/Amos,2026-11-24
 7,"Sefaria, Bava Batra 14b:11 (the order of the Writings)",https://www.sefaria.org/Bava_Batra.14b.11,2026-11-24
 7,"Sefaria, Bava Batra 14b:12",https://www.sefaria.org/Bava_Batra.14b.12,2026-11-24
+7,"Sefaria, Bava Batra 14b:8 (the order of the Prophets; Hosea first of four prophets)",https://www.sefaria.org/Bava_Batra.14b.8,2026-11-24
+7,"Sefaria, Bava Batra 14b:9 (the Twelve Prophets written as one book)",https://www.sefaria.org/Bava_Batra.14b.9,2026-11-24
 7,"Sefaria, Bava Batra 15a (Gad and Nathan finished the book of Samuel)",https://www.sefaria.org/Bava_Batra.15a.8,2026-11-24
 7,"Sefaria, Bava Batra 15a:15 (whether Job existed)",https://www.sefaria.org/Bava_Batra.15a.15,2026-11-24
 7,"Sefaria, Bava Batra 15a:2 (Jeremiah wrote the book of Kings)",https://www.sefaria.org/Bava_Batra.15a.2,2026-11-24
@@ -570,6 +598,7 @@ score,title,url,verified
 7,"Sefaria, Esther",https://www.sefaria.org/Esther,2026-11-24
 7,"Sefaria, Ezekiel",https://www.sefaria.org/Ezekiel,2026-11-24
 7,"Sefaria, Ezra",https://www.sefaria.org/Ezra,2026-11-24
+7,"Sefaria, Hosea",https://www.sefaria.org/Hosea,2026-11-24
 7,"Sefaria, I Chronicles",https://www.sefaria.org/I_Chronicles,2026-11-24
 7,"Sefaria, I Kings",https://www.sefaria.org/I_Kings,2026-11-24
 7,"Sefaria, I Samuel",https://www.sefaria.org/I_Samuel,2026-11-24
@@ -579,17 +608,27 @@ score,title,url,verified
 7,"Sefaria, Isaiah",https://www.sefaria.org/Isaiah,2026-11-24
 7,"Sefaria, Jeremiah",https://www.sefaria.org/Jeremiah,2026-11-24
 7,"Sefaria, Job",https://www.sefaria.org/Job,2026-11-24
+7,"Sefaria, Joel",https://www.sefaria.org/Joel,2026-11-24
+7,"Sefaria, Jonah",https://www.sefaria.org/Jonah,2026-11-24
 7,"Sefaria, Joshua",https://www.sefaria.org/Joshua,2026-11-24
 7,"Sefaria, Judges",https://www.sefaria.org/Judges,2026-11-24
 7,"Sefaria, Lamentations",https://www.sefaria.org/Lamentations,2026-11-24
 7,"Sefaria, Leviticus",https://www.sefaria.org/Leviticus,2026-11-24
+7,"Sefaria, Megillah 31a:11 (Jonah read on the afternoon of Yom Kippur)",https://www.sefaria.org/Megillah.31a.11,2026-11-24
+7,"Sefaria, Micah",https://www.sefaria.org/Micah,2026-11-24
 7,"Sefaria, Mishnah Chagigah 2:1",https://www.sefaria.org/Mishnah_Chagigah.2.1,2026-11-24
+7,"Sefaria, Mishnah Ta'anit 2:1",https://www.sefaria.org/Mishnah_Ta%27anit.2.1,2026-11-24
 7,"Sefaria, Mishnah Yadayim 3:5",https://www.sefaria.org/Mishnah_Yadayim.3.5,2026-11-24
 7,"Sefaria, Nehemiah",https://www.sefaria.org/Nehemiah,2026-11-24
 7,"Sefaria, Numbers",https://www.sefaria.org/Numbers,2026-11-24
+7,"Sefaria, Obadiah",https://www.sefaria.org/Obadiah,2026-11-24
+7,"Sefaria, Pesachim 87a:13 (Hosea told to marry a prostitute)",https://www.sefaria.org/Pesachim.87a.13,2026-11-24
+7,"Sefaria, Pesachim 87b:4 (Hosea unable to send his wife away)",https://www.sefaria.org/Pesachim.87b.4,2026-11-24
 7,"Sefaria, Proverbs",https://www.sefaria.org/Proverbs,2026-11-24
 7,"Sefaria, Psalms",https://www.sefaria.org/Psalms,2026-11-24
 7,"Sefaria, Ruth",https://www.sefaria.org/Ruth,2026-11-24
+7,"Sefaria, Sanhedrin 39b:13 (why Obadiah merited prophecy)",https://www.sefaria.org/Sanhedrin.39b.13,2026-11-24
+7,"Sefaria, Sanhedrin 39b:15 (Obadiah an Edomite convert)",https://www.sefaria.org/Sanhedrin.39b.15,2026-11-24
 7,"Sefaria, Sanhedrin 92b:3 (the dead whom Ezekiel revived)",https://www.sefaria.org/Sanhedrin.92b.3,2026-11-24
 7,"Sefaria, Shabbat 13b:8 (Hananiah ben Hezekiah and the book of Ezekiel)",https://www.sefaria.org/Shabbat.13b.8,2026-11-24
 7,"Sefaria, Shabbat 30b:3",https://www.sefaria.org/Shabbat.30b.3,2026-11-24
@@ -687,6 +726,7 @@ score,title,url,verified
 7,"St Andrews Encyclopaedia of Theology, William S. Morrow, Law in the Old Testament, 7.2: Holiness",https://www.saet.ac.uk/Christianity/LawintheOldTestament#section7.2,2026-11-24
 7,"St Andrews Encyclopaedia of Theology, William S. Morrow, Law in the Old Testament, 7: Law in Deuteronomy",https://www.saet.ac.uk/Christianity/LawintheOldTestament#section7,2026-11-24
 7,"St-Takla.org, Pope Shenouda III, The Nature of Christ: The Orthodox Concept regarding the Nature of Christ",https://st-takla.org/books/en/pope-shenouda-iii/nature-of-christ/orthodox-concept.html,2026-11-23
+7,"Stanford University, The Martin Luther King, Jr. Research and Education Institute, I Have a Dream",https://kinginstitute.stanford.edu/i-have-dream,2026-11-24
 7,"Syriac Orthodox Patriarchate of Antioch, History",https://syriacpatriarchate.org/history/,2026-11-23
 7,"The Episcopal Church, LGBTQ+ in the Church",https://www.episcopalchurch.org/who-we-are/ministries/gender-justice/lgbtq-in-the-church/,2026-11-23
 7,"The Lambeth Conference, What is the Anglican Communion?",https://www.lambethconference.org/about/what-is-the-anglican-communion/,2026-11-23
@@ -700,6 +740,7 @@ score,title,url,verified
 7,"United States Conference of Catholic Bishops, Introduction to the Book of Exodus (NABRE)",https://bible.usccb.org/bible/exodus/0,2026-11-24
 7,"United States Conference of Catholic Bishops, Introduction to the Book of Genesis (NABRE)",https://bible.usccb.org/bible/genesis/0,2026-11-24
 7,"United States Conference of Catholic Bishops, Introduction to the Book of Numbers (New American Bible, Revised Edition)",https://bible.usccb.org/bible/numbers/0,2026-11-24
+7,"United States Conference of Catholic Bishops, Introduction to the Book of Obadiah (NABRE)",https://bible.usccb.org/bible/obadiah/0,2026-11-24
 7,"United States Conference of Catholic Bishops, Introduction to the Book of Revelation (NABRE)",https://bible.usccb.org/bible/revelation/0,2026-11-24
 7,"United States Conference of Catholic Bishops, Introduction to the Book of Ruth (NABRE)",https://bible.usccb.org/bible/ruth/0,2026-11-24
 7,"United States Conference of Catholic Bishops, Introduction to the Gospel according to John (New American Bible, Revised Edition)",https://bible.usccb.org/bible/john/0,2026-11-24
@@ -709,6 +750,7 @@ score,title,url,verified
 7,"United States Conference of Catholic Bishops, Liturgy of the Hours",https://www.usccb.org/prayer-and-worship/liturgy-of-the-hours,2026-11-24
 7,"United States Conference of Catholic Bishops, Readings for Monday of the Fourth Week of Advent (21 December 2026)",https://bible.usccb.org/bible/readings/122126.cfm,2026-11-24
 7,"United States Conference of Catholic Bishops, Readings for Saturday of the Third Week of Advent (19 December 2026)",https://bible.usccb.org/bible/readings/121926.cfm,2026-11-24
+7,"United States Conference of Catholic Bishops, Readings for the Fourth Sunday of Advent (22 December 2024)",https://bible.usccb.org/bible/readings/122224.cfm,2026-11-24
 7,"United States Conference of Catholic Bishops, Readings for the Solemnity of Mary, the Holy Mother of God (1 January 2026)",https://bible.usccb.org/bible/readings/010126.cfm,2026-11-24
 7,"United States Conference of Catholic Bishops, Ruth, chapter 3, with notes (NABRE)",https://bible.usccb.org/bible/ruth/3,2026-11-24
 7,"United States Conference of Catholic Bishops, When I Call for Help: A Pastoral Response to Domestic Violence Against Women",https://www.usccb.org/topics/marriage-and-family-life-ministries/when-i-call-help-pastoral-response-domestic-violence,2026-11-23
@@ -719,6 +761,9 @@ score,title,url,verified
 7,"USCCB, 1 John 5 (NABRE)",https://bible.usccb.org/bible/1john/5,2026-11-24
 7,"USCCB, 1 Kings, chapter 22, with notes (NABRE)",https://bible.usccb.org/bible/1kings/22,2026-11-24
 7,"USCCB, 1 Timothy, chapter 2, with notes (New American Bible, Revised Edition)",https://bible.usccb.org/bible/1timothy/2,2026-11-24
+7,"USCCB, Amos, chapter 5, with notes (NABRE)",https://bible.usccb.org/bible/amos/5,2026-11-24
+7,"USCCB, Amos, chapter 7, with notes (NABRE)",https://bible.usccb.org/bible/amos/7,2026-11-24
+7,"USCCB, Amos, chapter 9, with notes (NABRE)",https://bible.usccb.org/bible/amos/9,2026-11-24
 7,"USCCB, Daniel, chapter 12, with notes (NABRE)",https://bible.usccb.org/bible/daniel/12,2026-11-24
 7,"USCCB, Daniel, chapter 2, with notes (NABRE)",https://bible.usccb.org/bible/daniel/2,2026-11-24
 7,"USCCB, Daniel, chapter 3, with notes (NABRE)",https://bible.usccb.org/bible/daniel/3,2026-11-24
@@ -728,19 +773,25 @@ score,title,url,verified
 7,"USCCB, Ezra, chapter 10, with notes (NABRE)",https://bible.usccb.org/bible/ezra/10,2026-11-24
 7,"USCCB, Ezra, chapter 7, with notes (NABRE)",https://bible.usccb.org/bible/ezra/7,2026-11-24
 7,"USCCB, Ezra, chapter 9, with notes (NABRE)",https://bible.usccb.org/bible/ezra/9,2026-11-24
+7,"USCCB, Hosea, chapter 1, with notes (NABRE)",https://bible.usccb.org/bible/hosea/1,2026-11-24
 7,"USCCB, Introduction to the Acts of the Apostles (New American Bible, Revised Edition)",https://bible.usccb.org/bible/acts/0,2026-11-24
+7,"USCCB, Introduction to the Book of Amos (NABRE)",https://bible.usccb.org/bible/amos/0,2026-11-24
 7,"USCCB, Introduction to the Book of Daniel",https://bible.usccb.org/bible/daniel/0,2026-11-24
 7,"USCCB, Introduction to the Book of Ecclesiastes",https://bible.usccb.org/bible/ecclesiastes/0,2026-11-24
 7,"USCCB, Introduction to the Book of Esther",https://bible.usccb.org/bible/esther/0,2026-11-24
 7,"USCCB, Introduction to the Book of Ezekiel (NABRE)",https://bible.usccb.org/bible/ezekiel/0,2026-11-24
 7,"USCCB, Introduction to the Book of Ezra",https://bible.usccb.org/bible/ezra/0,2026-11-24
+7,"USCCB, Introduction to the Book of Hosea (NABRE)",https://bible.usccb.org/bible/hosea/0,2026-11-24
 7,"USCCB, Introduction to the Book of Isaiah",https://bible.usccb.org/bible/isaiah/0,2026-11-24
 7,"USCCB, Introduction to the Book of Jeremiah",https://bible.usccb.org/bible/jeremiah/0,2026-11-24
 7,"USCCB, Introduction to the Book of Job",https://bible.usccb.org/bible/job/0,2026-11-24
+7,"USCCB, Introduction to the Book of Joel (NABRE)",https://bible.usccb.org/bible/joel/0,2026-11-24
+7,"USCCB, Introduction to the Book of Jonah (NABRE)",https://bible.usccb.org/bible/jonah/0,2026-11-24
 7,"USCCB, Introduction to the Book of Joshua",https://bible.usccb.org/bible/joshua/0,2026-11-24
 7,"USCCB, Introduction to the Book of Judges",https://bible.usccb.org/bible/judges/0,2026-11-24
 7,"USCCB, Introduction to the Book of Lamentations (NABRE)",https://bible.usccb.org/bible/lamentations/0,2026-11-24
 7,"USCCB, Introduction to the Book of Leviticus (NABRE)",https://bible.usccb.org/bible/leviticus/0,2026-11-24
+7,"USCCB, Introduction to the Book of Micah (NABRE)",https://bible.usccb.org/bible/micah/0,2026-11-24
 7,"USCCB, Introduction to the Book of Nehemiah (NABRE)",https://bible.usccb.org/bible/nehemiah/0,2026-11-24
 7,"USCCB, Introduction to the Book of Proverbs",https://bible.usccb.org/bible/proverbs/0,2026-11-24
 7,"USCCB, Introduction to the Book of Psalms",https://bible.usccb.org/bible/psalms/0,2026-11-24
@@ -775,10 +826,16 @@ score,title,url,verified
 7,"USCCB, Job, chapter 1, with notes (NABRE)",https://bible.usccb.org/bible/job/1,2026-11-24
 7,"USCCB, Job, chapter 19, with notes (NABRE)",https://bible.usccb.org/bible/job/19,2026-11-24
 7,"USCCB, Job, chapter 42, with notes (NABRE)",https://bible.usccb.org/bible/job/42,2026-11-24
+7,"USCCB, Joel, chapter 2, with notes (NABRE)",https://bible.usccb.org/bible/joel/2,2026-11-24
+7,"USCCB, Jonah, chapter 2, with notes (NABRE)",https://bible.usccb.org/bible/jonah/2,2026-11-24
 7,"USCCB, Joshua, chapter 10, with notes (NABRE)",https://bible.usccb.org/bible/joshua/10,2026-11-24
 7,"USCCB, Lamentations, chapter 5, with notes (NABRE)",https://bible.usccb.org/bible/lamentations/5,2026-11-24
 7,"USCCB, Mark 16, with notes (New American Bible, Revised Edition)",https://bible.usccb.org/bible/mark/16,2026-11-24
 7,"USCCB, Masses for the Dead: Readings from the Old Testament",https://www.usccb.org/prayer-and-worship/sacraments-and-sacramentals/bereavement-and-funerals/old-testament-readings,2026-11-24
+7,"USCCB, Micah, chapter 4, with notes (NABRE)",https://bible.usccb.org/bible/micah/4,2026-11-24
+7,"USCCB, Micah, chapter 5, with notes (NABRE)",https://bible.usccb.org/bible/micah/5,2026-11-24
+7,"USCCB, Micah, chapter 6, with notes (NABRE)",https://bible.usccb.org/bible/micah/6,2026-11-24
+7,"USCCB, Micah, chapter 7, with notes (NABRE)",https://bible.usccb.org/bible/micah/7,2026-11-24
 7,"USCCB, Romans, chapter 16, with notes (New American Bible, Revised Edition)",https://bible.usccb.org/bible/romans/16,2026-11-24
 7,"USCCB, Song of Songs, chapter 8, with notes (NABRE)",https://bible.usccb.org/bible/songofsongs/8,2026-11-24
 7,"Vatican News, Catholics increase worldwide as number of priests edges upward (Fides Catholic Church Statistics 2026)",https://www.vaticannews.va/en/church/news/2026-10/fides-agency-2026-annual-church-statistics.html,2026-11-23
@@ -969,6 +1026,8 @@ score,title,url,verified
 6,"Bible Odyssey, Andrew M. Mbuvi, Use of Apocryphal Writing in Jude",https://www.bibleodyssey.org/articles/use-of-apocryphal-writing-in-jude/,2026-11-24
 6,"Bible Odyssey, Andrew McGowan, Eucharist",https://www.bibleodyssey.org/articles/eucharist/,2026-11-24
 6,"Bible Odyssey, Ann E. Killebrew, Archaeology and Conquest (video)",https://www.bibleodyssey.org/video-gallery/archaeology-and-conquest/,2026-11-24
+6,"Bible Odyssey, Aron Tillema, Humor in the Book of Jonah",https://www.bibleodyssey.org/articles/humor-in-the-book-of-jonah/,2026-11-24
+6,"Bible Odyssey, Aron Tillema, Interpretations of Jonah",https://www.bibleodyssey.org/articles/interpretations-of-jonah/,2026-11-24
 6,"Bible Odyssey, Cameron B. R. Howard, David and Bathsheba (2 Sam 11)",https://www.bibleodyssey.org/articles/david-and-bathsheba/,2026-11-24
 6,"Bible Odyssey, Caroline Johnson Hodge, The Corinthian Letters",https://www.bibleodyssey.org/articles/the-corinthian-letters/,2026-11-24
 6,"Bible Odyssey, Christine Mitchell, Queen of Sheba",https://www.bibleodyssey.org/articles/queen-of-sheba/,2026-11-24
@@ -979,6 +1038,7 @@ score,title,url,verified
 6,"Bible Odyssey, David G. Horrell, Corinth",https://www.bibleodyssey.org/articles/corinth/,2026-11-24
 6,"Bible Odyssey, David L. Petersen, The Primeval History",https://www.bibleodyssey.org/articles/the-primeval-history/,2026-11-24
 6,"Bible Odyssey, David M. Valeta, Daniel in the Lions' Den",https://www.bibleodyssey.org/articles/daniel-in-the-lions-den/,2026-11-24
+6,"Bible Odyssey, Deborah Rooke, The Woman-Adulterer Motif",https://www.bibleodyssey.org/articles/the-woman-adulterer-motif/,2026-11-24
 6,"Bible Odyssey, Elihu (HarperCollins Bible Dictionary)",https://www.bibleodyssey.org/dictionary/elihu/,2026-11-24
 6,"Bible Odyssey, Esther, The Book of (HarperCollins Bible Dictionary)",https://www.bibleodyssey.org/dictionary/esther-the-book-of/,2026-11-24
 6,"Bible Odyssey, F. Scott Spencer, Pentecost in the Book of Acts",https://www.bibleodyssey.org/articles/pentecost-in-the-book-of-acts/,2026-11-24
@@ -987,11 +1047,13 @@ score,title,url,verified
 6,"Bible Odyssey, Gordon Fee, First Corinthians' Love Passage",https://www.bibleodyssey.org/articles/first-corinthians-love-passage/,2026-11-24
 6,"Bible Odyssey, Graham H. Twelftree, The Holy Spirit in Luke-Acts",https://www.bibleodyssey.org/articles/the-holy-spirit-in-luke-acts/,2026-11-24
 6,"Bible Odyssey, Herbert R. Marbury, The Legacy of the Bible in Justifying Slavery",https://www.bibleodyssey.org/articles/the-legacy-of-the-bible-in-justifying-slavery/,2026-11-24
+6,"Bible Odyssey, Hosea (HarperCollins Bible Dictionary)",https://www.bibleodyssey.org/dictionary/hosea/,2026-11-24
 6,"Bible Odyssey, Ian Boxall, Patmos",https://www.bibleodyssey.org/articles/patmos/,2026-11-24
 6,"Bible Odyssey, Isaiah, The Book of (HarperCollins Bible Dictionary)",https://www.bibleodyssey.org/dictionary/isaiah-the-book-of/,2026-11-24
 6,"Bible Odyssey, J. Albert Harrill, Destruction by Fire (2 Peter 3)",https://www.bibleodyssey.org/articles/destruction-by-fire-2-peter-3/,2026-11-24
 6,"Bible Odyssey, Jacqueline Hidalgo, What Is an Apocalypse?",https://www.bibleodyssey.org/articles/what-is-an-apocalypse/,2026-11-24
 6,"Bible Odyssey, James A. Sanders, Psalm 151",https://www.bibleodyssey.org/articles/psalm-151/,2026-11-24
+6,"Bible Odyssey, James D. Nogalski, Day of the Lord in the Hebrew Bible",https://www.bibleodyssey.org/articles/day-of-the-lord-in-the-hebrew-bible/,2026-11-24
 6,"Bible Odyssey, James L. Crenshaw, Theodicy in the Hebrew Bible",https://www.bibleodyssey.org/articles/theodicy-in-the-hebrew-bible/,2026-11-24
 6,"Bible Odyssey, Jeffery Leonard, Torah and Psalms",https://www.bibleodyssey.org/articles/torah-and-psalms/,2026-11-24
 6,"Bible Odyssey, Jeffrey Geoghegan, Two Flood Narratives",https://www.bibleodyssey.org/articles/two-flood-narratives/,2026-11-24
@@ -1001,8 +1063,11 @@ score,title,url,verified
 6,"Bible Odyssey, Joe Price, Hezekiah",https://www.bibleodyssey.org/articles/hezekiah/,2026-11-24
 6,"Bible Odyssey, Joel B. Green, 1 Peter",https://www.bibleodyssey.org/articles/1-peter/,2026-11-24
 6,"Bible Odyssey, Joel M. Hoffman, Was There Really a Virgin Birth in the Bible?",https://www.bibleodyssey.org/articles/was-there-really-a-virgin-birth-in-the-bible/,2026-11-24
+6,"Bible Odyssey, Joel, The Book of (HarperCollins Bible Dictionary)",https://www.bibleodyssey.org/dictionary/joel-the-book-of/,2026-11-24
+6,"Bible Odyssey, Jonah (HarperCollins Bible Dictionary)",https://www.bibleodyssey.org/dictionary/jonah-2/,2026-11-24
 6,"Bible Odyssey, Joshua, The Book of (HarperCollins Bible Dictionary)",https://www.bibleodyssey.org/dictionary/joshua-the-book-of/,2026-11-24
 6,"Bible Odyssey, Josiah (HarperCollins Bible Dictionary)",https://www.bibleodyssey.org/dictionary/josiah/,2026-11-24
+6,"Bible Odyssey, Julia M. O'Brien, Nineveh",https://www.bibleodyssey.org/articles/nineveh/,2026-11-24
 6,"Bible Odyssey, Katy E. Valentine, Slavery in the New Testament",https://www.bibleodyssey.org/articles/slavery-in-the-new-testament/,2026-11-24
 6,"Bible Odyssey, Keith Bodner, Goliath",https://www.bibleodyssey.org/articles/goliath/,2026-11-24
 6,"Bible Odyssey, Kelley Coblentz Bautch, Enoch",https://www.bibleodyssey.org/articles/enoch/,2026-11-24
@@ -1012,8 +1077,11 @@ score,title,url,verified
 6,"Bible Odyssey, M. David Litwa, Theosis/Deification in the New Testament",https://www.bibleodyssey.org/articles/theosis-deification-in-the-new-testament/,2026-11-24
 6,"Bible Odyssey, Martien A. Halvorson-Taylor, David's Downfall",https://www.bibleodyssey.org/articles/davids-downfall/,2026-11-24
 6,"Bible Odyssey, Meghan Henning, Disabilities in the Bible",https://www.bibleodyssey.org/articles/disabilities-in-the-bible/,2026-11-24
+6,"Bible Odyssey, Micah (HarperCollins Bible Dictionary)",https://www.bibleodyssey.org/dictionary/micah/,2026-11-24
 6,"Bible Odyssey, Nehemiah, The Book of (HarperCollins Bible Dictionary)",https://www.bibleodyssey.org/dictionary/nehemiah-the-book-of/,2026-11-24
 6,"Bible Odyssey, Numbers, The Book of (HarperCollins Bible Dictionary)",https://www.bibleodyssey.org/dictionary/numbers-the-book-of/,2026-11-24
+6,"Bible Odyssey, Obadiah (HarperCollins Bible Dictionary)",https://www.bibleodyssey.org/dictionary/obadiah/,2026-11-24
+6,"Bible Odyssey, Obadiah, The Book of (HarperCollins Bible Dictionary)",https://www.bibleodyssey.org/dictionary/obadiah-the-book-of/,2026-11-24
 6,"Bible Odyssey, Paul",https://www.bibleodyssey.org/articles/paul/,2026-11-24
 6,"Bible Odyssey, Paul Anderson, The Johannine Community",https://www.bibleodyssey.org/articles/the-johannine-community/,2026-11-24
 6,"Bible Odyssey, Philippe Guillaume, Naboth's Vineyard",https://www.bibleodyssey.org/articles/naboths-vineyard/,2026-11-24
@@ -1032,6 +1100,7 @@ score,title,url,verified
 6,"Bible Odyssey, The New Perspective on Paul",https://www.bibleodyssey.org/articles/the-new-perspective-on-paul/,2026-11-24
 6,"Bible Odyssey, Tod Linafelt, The Patience of Job",https://www.bibleodyssey.org/articles/the-patience-of-job/,2026-11-24
 6,"Bible Odyssey, Tremper Longman III, Proverbs and Ancient Near Eastern Literature",https://www.bibleodyssey.org/articles/proverbs/,2026-11-24
+6,"Bible Odyssey, Walter J. Houston, Social Justice and the Prophets",https://www.bibleodyssey.org/articles/social-justice-and-the-prophets/,2026-11-24
 6,"Bible Odyssey, Warren Carter, Antioch and the Gospel of Matthew",https://www.bibleodyssey.org/articles/antioch-and-the-gospel-of-matthew/,2026-11-24
 6,"BibleProject, 1 & 2 Chronicles (overview video)",https://bibleproject.com/videos/chronicles/,2026-11-24
 6,"BibleProject, 1 & 2 Kings (overview video)",https://bibleproject.com/videos/kings/,2026-11-24
@@ -1050,6 +1119,7 @@ score,title,url,verified
 6,"BibleProject, Acts 1–12 (overview video)",https://bibleproject.com/videos/acts-1-12/,2026-11-24
 6,"BibleProject, Agape / Love",https://bibleproject.com/videos/agape-love/,2026-11-23
 6,"BibleProject, Ahavah / Love",https://bibleproject.com/videos/ahavah-love/,2026-11-23
+6,"BibleProject, Amos (overview video)",https://bibleproject.com/videos/amos/,2026-11-24
 6,"BibleProject, BibleProject",https://bibleproject.com/,2026-11-23
 6,"BibleProject, Book of Proverbs Summary",https://bibleproject.com/videos/proverbs/,2026-11-23
 6,"BibleProject, Book of Revelation, Part 1",https://bibleproject.com/videos/revelation-1-11/,2026-11-24
@@ -1074,6 +1144,7 @@ score,title,url,verified
 6,"BibleProject, Gospel of Matthew, Part 1 (Matthew 1–13)",https://bibleproject.com/videos/matthew-1-13/,2026-11-24
 6,"BibleProject, Gospel of Matthew, Part 2 (Matthew 14–28)",https://bibleproject.com/videos/matthew-14-28/,2026-11-24
 6,"BibleProject, Hebrews (overview video)",https://bibleproject.com/videos/hebrews/,2026-11-24
+6,"BibleProject, Hosea (overview video)",https://bibleproject.com/videos/hosea/,2026-11-24
 6,"BibleProject, How to Read the Bible (video series)",https://bibleproject.com/videos/collections/how-to-read-the-bible/,2026-11-23
 6,"BibleProject, Image of God",https://bibleproject.com/videos/image-of-god/,2026-11-23
 6,"BibleProject, Isaiah 1–39 (overview video)",https://bibleproject.com/videos/isaiah-1-39/,2026-11-24
@@ -1081,6 +1152,8 @@ score,title,url,verified
 6,"BibleProject, James (overview video)",https://bibleproject.com/videos/james/,2026-11-23
 6,"BibleProject, Jeremiah (overview video)",https://bibleproject.com/videos/jeremiah/,2026-11-24
 6,"BibleProject, Job (overview video)",https://bibleproject.com/videos/job/,2026-11-23
+6,"BibleProject, Joel (overview video)",https://bibleproject.com/videos/joel/,2026-11-24
+6,"BibleProject, Jonah (overview video)",https://bibleproject.com/videos/jonah/,2026-11-24
 6,"BibleProject, Joshua (overview video)",https://bibleproject.com/videos/joshua/,2026-11-24
 6,"BibleProject, Jude (overview video)",https://bibleproject.com/videos/jude/,2026-11-24
 6,"BibleProject, Judges (overview video)",https://bibleproject.com/videos/judges/,2026-11-24
@@ -1090,7 +1163,9 @@ score,title,url,verified
 6,"BibleProject, Luke 10–24 (overview video)",https://bibleproject.com/videos/luke-10-24/,2026-11-24
 6,"BibleProject, Luke 1–9 (overview video)",https://bibleproject.com/videos/luke-1-9/,2026-11-24
 6,"BibleProject, Mark (overview video)",https://bibleproject.com/videos/mark/,2026-11-24
+6,"BibleProject, Micah (overview video)",https://bibleproject.com/videos/micah/,2026-11-24
 6,"BibleProject, Numbers (overview video)",https://bibleproject.com/videos/numbers/,2026-11-24
+6,"BibleProject, Obadiah (overview video)",https://bibleproject.com/videos/obadiah/,2026-11-24
 6,"BibleProject, Philemon (overview video)",https://bibleproject.com/videos/philemon/,2026-11-24
 6,"BibleProject, Philippians (overview video)",https://bibleproject.com/videos/philippians/,2026-11-24
 6,"BibleProject, Psalms (overview video)",https://bibleproject.com/videos/psalms/,2026-11-24
@@ -1116,6 +1191,9 @@ score,title,url,verified
 6,"Christian Classics Ethereal Library, John Calvin, Commentary on Ezekiel 18:23",https://www.ccel.org/ccel/calvin/calcom23.vii.xiv.html,2026-11-24
 6,"Christian Classics Ethereal Library, John Calvin, Commentary on Ezekiel 1:4",https://www.ccel.org/ccel/calvin/calcom22.v.vi.html,2026-11-24
 6,"Christian Classics Ethereal Library, John Calvin, Commentary on Hebrews 11:32–34",https://www.ccel.org/ccel/calvin/calcom44.xvii.x.html,2026-11-24
+6,"Christian Classics Ethereal Library, John Calvin, Commentary on Hosea 11:1",https://www.ccel.org/ccel/calvin/calcom26.xviii.i.html,2026-11-24
+6,"Christian Classics Ethereal Library, John Calvin, Commentary on Hosea 1:2",https://www.ccel.org/ccel/calvin/calcom26.viii.iii.html,2026-11-24
+6,"Christian Classics Ethereal Library, John Calvin, Commentary on Hosea 6:6–7",https://www.ccel.org/ccel/calvin/calcom26.xiii.ix.html,2026-11-24
 6,"Christian Classics Ethereal Library, John Calvin, Commentary on Isaiah 53:1–12",https://www.ccel.org/ccel/calvin/calcom16.vi.i.html,2026-11-24
 6,"Christian Classics Ethereal Library, John Calvin, Commentary on Isaiah 7:1–25",https://www.ccel.org/ccel/calvin/calcom13.xiv.i.html,2026-11-24
 6,"Christian Classics Ethereal Library, John Calvin, Commentary on Jeremiah 11:19",https://www.ccel.org/ccel/calvin/calcom18.iii.xviii.html,2026-11-24
@@ -1124,12 +1202,23 @@ score,title,url,verified
 6,"Christian Classics Ethereal Library, John Calvin, Commentary on Jeremiah 23:5–6",https://www.ccel.org/ccel/calvin/calcom19.vi.v.html,2026-11-24
 6,"Christian Classics Ethereal Library, John Calvin, Commentary on Jeremiah 29:7",https://www.ccel.org/ccel/calvin/calcom19.xii.v.html,2026-11-24
 6,"Christian Classics Ethereal Library, John Calvin, Commentary on Jeremiah 31:31–32",https://www.ccel.org/ccel/calvin/calcom20.iii.xl.html,2026-11-24
+6,"Christian Classics Ethereal Library, John Calvin, Commentary on Joel 1:2–4",https://www.ccel.org/ccel/calvin/calcom27.iii.ii.iv.html,2026-11-24
+6,"Christian Classics Ethereal Library, John Calvin, Commentary on Joel 2:12–13",https://www.ccel.org/ccel/calvin/calcom27.iii.iii.v.html,2026-11-24
+6,"Christian Classics Ethereal Library, John Calvin, Commentary on Joel 2:28",https://www.ccel.org/ccel/calvin/calcom27.iii.iii.xxiii.html,2026-11-24
+6,"Christian Classics Ethereal Library, John Calvin, Commentary on Jonah 1:1–2",https://www.ccel.org/ccel/calvin/calcom28.iii.1.ii.html,2026-11-24
+6,"Christian Classics Ethereal Library, John Calvin, Commentary on Jonah, Lecture 76 (Jonah 1:17)",https://www.ccel.org/ccel/calvin/calcom28.iii.1.xxi.html,2026-11-24
+6,"Christian Classics Ethereal Library, John Calvin, Commentary on Jonah: Preface by the Author",https://www.ccel.org/ccel/calvin/calcom28.iii.i.html,2026-11-24
 6,"Christian Classics Ethereal Library, John Calvin, Commentary on Joshua 10:1–14",https://www.ccel.org/ccel/calvin/calcom07.xiii.i.html,2026-11-24
 6,"Christian Classics Ethereal Library, John Calvin, Commentary on Joshua 2:1–24",https://www.ccel.org/ccel/calvin/calcom07.v.i.html,2026-11-24
 6,"Christian Classics Ethereal Library, John Calvin, Commentary on Joshua 6:20–27",https://www.ccel.org/ccel/calvin/calcom07.ix.ii.html,2026-11-24
 6,"Christian Classics Ethereal Library, John Calvin, Commentary on Joshua: The Argument",https://www.ccel.org/ccel/calvin/calcom07.iii.html,2026-11-24
 6,"Christian Classics Ethereal Library, John Calvin, Commentary on Lamentations 1:12",https://www.ccel.org/ccel/calvin/calcom21.iii.ii.xvii.html,2026-11-24
 6,"Christian Classics Ethereal Library, John Calvin, Commentary on Lamentations: Preface",https://www.ccel.org/ccel/calvin/calcom21.iii.i.html,2026-11-24
+6,"Christian Classics Ethereal Library, John Calvin, Commentary on Micah 6:6–8",https://www.ccel.org/ccel/calvin/calcom28.iv.6.vi.html,2026-11-24
+6,"Christian Classics Ethereal Library, John Calvin, Commentary on Micah, Lecture 91 (Micah 5:2)",https://www.ccel.org/ccel/calvin/calcom28.iv.5.iii.html,2026-11-24
+6,"Christian Classics Ethereal Library, John Calvin, Commentary on Micah, Lecture 94",https://www.ccel.org/ccel/calvin/calcom28.iv.6.viii.html,2026-11-24
+6,"Christian Classics Ethereal Library, John Calvin, Commentary on Obadiah 21",https://www.ccel.org/ccel/calvin/calcom27.v.ii.xviii.html,2026-11-24
+6,"Christian Classics Ethereal Library, John Calvin, Commentary on Obadiah: Preface",https://www.ccel.org/ccel/calvin/calcom27.v.i.html,2026-11-24
 6,"Christian Classics Ethereal Library, John Calvin, Commentary on Psalm 33:1–4",https://www.ccel.org/ccel/calvin/calcom08.xxxix.i.html,2026-11-24
 6,"Christian Classics Ethereal Library, John Calvin, Commentary on Psalms, Volume 1: The Author's Preface",https://www.ccel.org/ccel/calvin/calcom08.vi.html,2026-11-23
 6,"Christian Classics Ethereal Library, John of the Cross, Spiritual Canticle of the Soul and the Bridegroom Christ",https://www.ccel.org/ccel/john_cross/canticle.html,2026-11-24
@@ -1146,6 +1235,8 @@ score,title,url,verified
 6,"Christian Classics Ethereal Library, Matthew Henry, Commentary on the Whole Bible, 2 Kings 2",https://www.ccel.org/ccel/henry/mhc2.iiKi.iii.html,2026-11-24
 6,"Christian Classics Ethereal Library, Matthew Henry, Commentary on the Whole Bible, 2 Kings 22",https://www.ccel.org/ccel/henry/mhc2.iiKi.xxiii.html,2026-11-24
 6,"Christian Classics Ethereal Library, Matthew Henry, Commentary on the Whole Bible, 2 Kings 5",https://www.ccel.org/ccel/henry/mhc2.iiKi.vi.html,2026-11-24
+6,"Christian Classics Ethereal Library, Matthew Henry, Commentary on the Whole Bible, Amos 7",https://www.ccel.org/h/henry/mhc2/MHC30007.HTM,2026-11-24
+6,"Christian Classics Ethereal Library, Matthew Henry, Commentary on the Whole Bible, Amos 9",https://www.ccel.org/h/henry/mhc2/MHC30009.HTM,2026-11-24
 6,"Christian Classics Ethereal Library, Matthew Henry, Commentary on the Whole Bible, Daniel 12",https://www.ccel.org/ccel/henry/mhc4.Dan.xiii.html,2026-11-24
 6,"Christian Classics Ethereal Library, Matthew Henry, Commentary on the Whole Bible, Daniel 2",https://www.ccel.org/ccel/henry/mhc4.Dan.iii.html,2026-11-24
 6,"Christian Classics Ethereal Library, Matthew Henry, Commentary on the Whole Bible, Daniel 7",https://www.ccel.org/ccel/henry/mhc4.Dan.viii.html,2026-11-24
@@ -1166,12 +1257,18 @@ score,title,url,verified
 6,"Christian Classics Ethereal Library, Matthew Henry, Commentary on the Whole Bible, Ezra 10",https://www.ccel.org/ccel/henry/mhc2.Ez.xi.html,2026-11-24
 6,"Christian Classics Ethereal Library, Matthew Henry, Commentary on the Whole Bible, Ezra 7",https://www.ccel.org/ccel/henry/mhc2.Ez.viii.html,2026-11-24
 6,"Christian Classics Ethereal Library, Matthew Henry, Commentary on the Whole Bible, Ezra 9",https://www.ccel.org/ccel/henry/mhc2.Ez.x.html,2026-11-24
+6,"Christian Classics Ethereal Library, Matthew Henry, Commentary on the Whole Bible, Hosea 1",https://www.ccel.org/h/henry/mhc2/MHC28001.HTM,2026-11-24
+6,"Christian Classics Ethereal Library, Matthew Henry, Commentary on the Whole Bible, Hosea 2",https://www.ccel.org/h/henry/mhc2/MHC28002.HTM,2026-11-24
 6,"Christian Classics Ethereal Library, Matthew Henry, Commentary on the Whole Bible, Job 1",https://www.ccel.org/ccel/henry/mhc3.Job.ii.html,2026-11-24
 6,"Christian Classics Ethereal Library, Matthew Henry, Commentary on the Whole Bible, Job 19",https://www.ccel.org/ccel/henry/mhc3.Job.xx.html,2026-11-24
 6,"Christian Classics Ethereal Library, Matthew Henry, Commentary on the Whole Bible, Job: Introduction",https://www.ccel.org/ccel/henry/mhc3.Job.i.html,2026-11-24
+6,"Christian Classics Ethereal Library, Matthew Henry, Commentary on the Whole Bible, Jonah 4",https://www.ccel.org/ccel/henry/mhc4.Jonah.v.html,2026-11-24
+6,"Christian Classics Ethereal Library, Matthew Henry, Commentary on the Whole Bible, Jonah: Introduction",https://www.ccel.org/ccel/henry/mhc4.Jonah.i.html,2026-11-24
 6,"Christian Classics Ethereal Library, Matthew Henry, Commentary on the Whole Bible, Nehemiah 13",https://www.ccel.org/ccel/henry/mhc2.Neh.xiv.html,2026-11-24
 6,"Christian Classics Ethereal Library, Matthew Henry, Commentary on the Whole Bible, Nehemiah 5",https://www.ccel.org/ccel/henry/mhc2.Neh.vi.html,2026-11-24
 6,"Christian Classics Ethereal Library, Matthew Henry, Commentary on the Whole Bible, Nehemiah 8",https://www.ccel.org/ccel/henry/mhc2.Neh.ix.html,2026-11-24
+6,"Christian Classics Ethereal Library, Matthew Henry, Commentary on the Whole Bible, Obadiah 1",https://www.ccel.org/h/henry/mhc2/MHC31001.HTM,2026-11-24
+6,"Christian Classics Ethereal Library, Matthew Henry, Commentary on the Whole Bible, Obadiah: Introduction",https://www.ccel.org/h/henry/mhc2/MHC31000.HTM,2026-11-24
 6,"Christian Classics Ethereal Library, Matthew Henry, Commentary on the Whole Bible, Proverbs 13",https://www.ccel.org/ccel/henry/mhc3.Prov.xiv.html,2026-11-24
 6,"Christian Classics Ethereal Library, Matthew Henry, Commentary on the Whole Bible, Proverbs 22",https://www.ccel.org/ccel/henry/mhc3.Prov.xxiii.html,2026-11-24
 6,"Christian Classics Ethereal Library, Matthew Henry, Commentary on the Whole Bible, Proverbs 8",https://www.ccel.org/ccel/henry/mhc3.Prov.ix.html,2026-11-24
@@ -1192,11 +1289,13 @@ score,title,url,verified
 6,"Church of England, What we believe",https://www.churchofengland.org/faith/what-we-believe,2026-11-23
 6,"Church of the Nazarene, Our History",https://nazarene.org/our-history/,2026-11-23
 6,"ChurchLeaders, Steve Gaines, An Appeal to Rightly Apply 2 Chronicles 7:14",https://churchleaders.com/pastors/pastor-articles/306103-an-appeal-to-rightly-apply-2-chronicles-714-steve-gaines.html,2026-11-24
+6,"Concordia Publishing House, Jonah: An Overview (adapted from the Lutheran Bible Companion)",https://blog.cph.org/study/jonah-an-overview,2026-11-24
 6,"Concordia Publishing House, The Psalter for Individual & Family Devotions with Introductions by Martin Luther (sample pages)",https://s3.amazonaws.com/cph-org-assets/media/pdf/124726.pdf,2026-11-24
 6,"Coptic Orthodox Diocese of the Midlands, UK, Love Your Enemies",https://ukmidcopts.org/resources/spiritual-articles/love-your-enemies/,2026-11-23
 6,"Crossway, ESV Global Study Bible, Introduction to 1–2 Chronicles",https://www.esv.org/resources/esv-global-study-bible/introduction-to-1-2-chronicles/,2026-11-24
 6,"Crossway, ESV Global Study Bible, Introduction to 1–2 Kings",https://www.esv.org/resources/esv-global-study-bible/introduction-to-1-2-kings/,2026-11-24
 6,"Crossway, ESV Global Study Bible, Introduction to 1–2 Samuel",https://www.esv.org/resources/esv-global-study-bible/introduction-to-1-2-samuel/,2026-11-24
+6,"Crossway, ESV Global Study Bible, Introduction to Amos",https://www.esv.org/resources/esv-global-study-bible/introduction-to-amos/,2026-11-24
 6,"Crossway, ESV Global Study Bible, Introduction to Daniel",https://www.esv.org/resources/esv-global-study-bible/introduction-to-daniel/,2026-11-24
 6,"Crossway, ESV Global Study Bible, Introduction to Deuteronomy",https://www.esv.org/resources/esv-global-study-bible/introduction-to-deuteronomy/,2026-11-24
 6,"Crossway, ESV Global Study Bible, Introduction to Ecclesiastes",https://www.esv.org/resources/esv-global-study-bible/introduction-to-ecclesiastes/,2026-11-24
@@ -1204,18 +1303,27 @@ score,title,url,verified
 6,"Crossway, ESV Global Study Bible, Introduction to Exodus",https://www.esv.org/resources/esv-global-study-bible/introduction-to-exodus/,2026-11-24
 6,"Crossway, ESV Global Study Bible, Introduction to Ezekiel",https://www.esv.org/resources/esv-global-study-bible/introduction-to-ezekiel/,2026-11-24
 6,"Crossway, ESV Global Study Bible, Introduction to Ezra",https://www.esv.org/resources/esv-global-study-bible/introduction-to-ezra/,2026-11-24
+6,"Crossway, ESV Global Study Bible, Introduction to Hosea",https://www.esv.org/resources/esv-global-study-bible/introduction-to-hosea/,2026-11-24
 6,"Crossway, ESV Global Study Bible, Introduction to Isaiah",https://www.esv.org/resources/esv-global-study-bible/introduction-to-isaiah/,2026-11-24
 6,"Crossway, ESV Global Study Bible, Introduction to Jeremiah",https://www.esv.org/resources/esv-global-study-bible/introduction-to-jeremiah/,2026-11-24
+6,"Crossway, ESV Global Study Bible, Introduction to Joel",https://www.esv.org/resources/esv-global-study-bible/introduction-to-joel/,2026-11-24
+6,"Crossway, ESV Global Study Bible, Introduction to Jonah",https://www.esv.org/resources/esv-global-study-bible/introduction-to-jonah/,2026-11-24
 6,"Crossway, ESV Global Study Bible, Introduction to Joshua",https://www.esv.org/resources/esv-global-study-bible/introduction-to-joshua/,2026-11-24
 6,"Crossway, ESV Global Study Bible, Introduction to Lamentations",https://www.esv.org/resources/esv-global-study-bible/introduction-to-lamentations/,2026-11-24
+6,"Crossway, ESV Global Study Bible, Introduction to Micah",https://www.esv.org/resources/esv-global-study-bible/introduction-to-micah/,2026-11-24
 6,"Crossway, ESV Global Study Bible, Introduction to Nehemiah",https://www.esv.org/resources/esv-global-study-bible/introduction-to-nehemiah/,2026-11-24
+6,"Crossway, ESV Global Study Bible, Introduction to Obadiah",https://www.esv.org/resources/esv-global-study-bible/introduction-to-obadiah/,2026-11-24
 6,"Crossway, ESV Global Study Bible, Introduction to Proverbs",https://www.esv.org/resources/esv-global-study-bible/introduction-to-proverbs/,2026-11-24
 6,"Crossway, ESV Global Study Bible, Introduction to The Psalms",https://www.esv.org/resources/esv-global-study-bible/introduction-to-the-psalms/,2026-11-24
 6,"Crossway, ESV Global Study Bible, Introduction to The Song of Solomon",https://www.esv.org/resources/esv-global-study-bible/introduction-to-the-song-of-solomon/,2026-11-24
+6,"Crossway, Jay Sklar, Is the Story of Jonah and the Whale a Historical Account or a Parable? (Jonah 1 and 2)",https://www.crossway.org/articles/is-the-story-of-jonah-and-the-whale-a-historical-account-or-a-parable-jonah-1-and-2/,2026-11-24
 6,"Crossway, Matthew S. Harmon, What Does Jeremiah 29:11 Mean?",https://www.crossway.org/articles/what-does-jeremiah-2911-mean/,2026-11-24
 6,"Dallas Theological Seminary, Doctrinal Statement",https://www.dts.edu/why-dts/doctrinal-statement,2026-11-24
 6,"Desiring God, John Piper and Wayne Grudem, 50 Crucial Questions: An Overview of Central Concerns about Manhood and Womanhood",https://document.desiringgod.org/50-crucial-questions-about-manhood-and-womanhood-en.pdf,2026-11-24
 6,"Early Church Texts, Gregory of Nyssa, Homilies on Ecclesiastes, from Homily 4 (on slavery)",https://earlychurchtexts.com/public/gregoryofnyss_ecclesiastes_slavery.htm,2026-11-24
+6,"Enter the Bible, Bible in the World – Jonah",https://enterthebible.org/courses/jonah/lessons/bible-in-the-world-jonah/,2026-11-24
+6,"Enter the Bible, Introductory Issues in Jonah",https://enterthebible.org/courses/jonah/lessons/introductory-issues-in-jonah/,2026-11-24
+6,"Enter the Bible, Theological Themes in Jonah",https://enterthebible.org/courses/jonah/lessons/theological-themes-in-jonah/,2026-11-24
 6,"ESV.org, ESV Global Study Bible, Introduction to Numbers",https://www.esv.org/resources/esv-global-study-bible/introduction-to-numbers/,2026-11-24
 6,"Ethiopian Orthodox Tewahedo Church, Fundamental Dogmas in the Nicaean Creed",https://www.ethiopianorthodox.org/english/dogma/niceancreed.html,2026-11-23
 6,"Ethiopian Orthodox Tewahedo Church, Religious Holidays and Calendar",https://www.ethiopianorthodox.org/english/calendar.html,2026-11-23
@@ -1233,7 +1341,9 @@ score,title,url,verified
 6,"Jacobite Syriac Orthodox Church, Home",https://jacobitesyrianchurch.org/,2026-11-23
 6,"James J. O'Donnell (Georgetown University), Gregory the Great",https://faculty.georgetown.edu/jod/gregory.html,2026-11-24
 6,"James J. O'Donnell (Georgetown University), Gregory the Great, Moralia on Job, Book One (draft translation)",https://faculty.georgetown.edu/jod/texts/moralia1.html,2026-11-24
+6,"Jewish Encyclopedia, Edom, Idumea (1906)",https://jewishencyclopedia.com/articles/5434-edom-idumea,2026-11-24
 6,"Jewish Encyclopedia, Kaufmann Kohler, Lord's Prayer, The (1906)",https://jewishencyclopedia.com/articles/10112-lords-prayer-the,2026-11-24
+6,"Jewish Encyclopedia, Obadiah, Book of (1906)",https://jewishencyclopedia.com/articles/11642-obadiah-book-of,2026-11-24
 6,"Jewish Encyclopedia, Samuel, Books of (1906)",https://jewishencyclopedia.com/articles/13080-samuel-books-of,2026-11-24
 6,"Ligonier Ministries, Gog and Magog (Tabletalk devotional, 2013)",https://learn.ligonier.org/devotionals/gog-and-magog,2026-11-24
 6,"Ligonier Ministries, Iain Duguid, Who Called David's Census—God or Satan?",https://learn.ligonier.org/articles/davids-census,2026-11-24
@@ -1241,13 +1351,17 @@ score,title,url,verified
 6,"Ligonier Ministries, W. Robert Godfrey, What is your view of Proverbs 22:6?",https://learn.ligonier.org/qas/what-is-your-view-of-proverbs-22-6,2026-11-24
 6,"Living Wage Foundation, What is the real Living Wage?",https://www.livingwage.org.uk/what-real-living-wage,2026-11-23
 6,"Luther Seminary, Enter the Bible, 1 Chronicles 21:1–22:1: David's Census",https://enterthebible.org/passage/1-chronicles-211-221-davids-census/,2026-11-24
+6,"Luther Seminary, Enter the Bible, Introductory Issues in Amos",https://enterthebible.org/courses/amos/lessons/introductory-issues-in-amos/,2026-11-24
 6,"Luther Seminary, Enter the Bible, Introductory Issues in Esther",https://enterthebible.org/courses/esther/lessons/introductory-issues-in-esther/,2026-11-24
 6,"Luther Seminary, Enter the Bible, Introductory Issues in Ezekiel",https://enterthebible.org/courses/ezekiel/lessons/introductory-issues-in-ezekiel/,2026-11-24
 6,"Luther Seminary, Enter the Bible, Introductory Issues in Job",https://enterthebible.org/courses/job/lessons/introductory-issues-in-job/,2026-11-24
+6,"Luther Seminary, Enter the Bible, Introductory Issues in Joel",https://enterthebible.org/courses/joel/lessons/introductory-issues-in-joel/,2026-11-24
 6,"Luther Seminary, Enter the Bible, Introductory Issues in Lamentations",https://enterthebible.org/courses/lamentations/lessons/introductory-issues-in-lamentations/,2026-11-24
+6,"Luther Seminary, Enter the Bible, Theological Themes in Amos",https://enterthebible.org/courses/amos/lessons/theological-themes-in-amos/,2026-11-24
 6,"Luther Seminary, Enter the Bible, Theological Themes in Esther",https://enterthebible.org/courses/esther/lessons/theological-themes-in-esther/,2026-11-24
 6,"Luther Seminary, Enter the Bible, Theological Themes in Ezekiel",https://enterthebible.org/courses/ezekiel/lessons/theological-themes-in-ezekiel/,2026-11-24
 6,"Luther Seminary, Enter the Bible, Theological Themes in Job",https://enterthebible.org/courses/job/lessons/theological-themes-in-job/,2026-11-24
+6,"Luther Seminary, Enter the Bible, Theological Themes in Joel",https://enterthebible.org/courses/joel/lessons/theological-themes-in-joel/,2026-11-24
 6,"Luther Seminary, Enter the Bible, Theological Themes in Lamentations",https://enterthebible.org/courses/lamentations/lessons/theological-themes-in-lamentations/,2026-11-24
 6,"Lutheran Church–Missouri Synod, Reporter, Convention confesses: 'God created the world in six natural days' (2019)",https://reporter.lcms.org/2019/convention-confesses-god-created-the-world-in-six-natural-days/,2026-11-23
 6,"Lutheran World Federation, Facts and Figures",https://lutheranworld.org/who-we-are/history-lwf/facts-and-figures,2026-11-23
@@ -1255,24 +1369,32 @@ score,title,url,verified
 6,"Lutheran World Federation, Women and Gender studies",https://lutheranworld.org/what-we-do/theology/women-and-gender-studies,2026-11-23
 6,"Mennonite Central Committee, About MCC",https://mcc.org/about,2026-11-23
 6,"Methodist Church in Britain, The Methodist Church in Great Britain celebrates 50 years of women's ordination as presbyters",https://www.methodist.org.uk/about/news/the-methodist-church-in-great-britain-celebrates-50-years-of-womens-ordination-as-ministers/,2026-11-23
+6,"My Jewish Learning, Danielle Upbin, Tashlich's Origin Story",https://www.myjewishlearning.com/article/tashlichs-origin-story/,2026-11-24
 6,"My Jewish Learning, Irving Greenberg, The Book of Lamentations",https://www.myjewishlearning.com/article/the-book-of-lamentations/,2026-11-24
 6,"My Jewish Learning, Jeffrey Tigay, Deuteronomy 6:4–The Shema",https://www.myjewishlearning.com/article/deuteronomy-64-the-shema/,2026-11-24
 6,"My Jewish Learning, Leila Leah Bronner, Ruth and Lovingkindness",https://www.myjewishlearning.com/article/ruth-and-lovingkindness/,2026-11-24
+6,"My Jewish Learning, Maya Bernstein, Jonah and Yom Kippur",https://www.myjewishlearning.com/article/jonah-yom-kippur/,2026-11-24
 6,"My Jewish Learning, Shawn Aster, Lamentations",https://www.myjewishlearning.com/article/lamentations/,2026-11-24
 6,"My Jewish Learning, The Priestly Blessing",https://www.myjewishlearning.com/article/the-priestly-blessing/,2026-11-24
 6,"My Jewish Learning, What Is Hallel?",https://www.myjewishlearning.com/article/hallel/,2026-11-24
+6,"My Jewish Learning, What Is Shabbat Shuvah?",https://www.myjewishlearning.com/article/shabbat-shuvah/,2026-11-24
 6,"New Advent, Catholic Encyclopedia (1907), Apocrypha: Apocryphal psalms and prayers",https://www.newadvent.org/cathen/01601a.htm#I3,2026-11-24
 6,"New Advent, Catholic Encyclopedia (1908), Canticle of Canticles",https://www.newadvent.org/cathen/03302a.htm,2026-11-24
 6,"New Advent, Catholic Encyclopedia (1908), Daniel, Book of",https://www.newadvent.org/cathen/04621b.htm,2026-11-24
 6,"New Advent, Catholic Encyclopedia (1909), Ezekiel",https://www.newadvent.org/cathen/05737b.htm,2026-11-24
 6,"New Advent, Catholic Encyclopedia (1910), Esdras",https://www.newadvent.org/cathen/05535a.htm,2026-11-24
+6,"New Advent, Catholic Encyclopedia (1910), Improperia",https://www.newadvent.org/cathen/07703a.htm,2026-11-24
 6,"New Advent, Catholic Encyclopedia (1910), Isaias",https://www.newadvent.org/cathen/08179b.htm,2026-11-24
 6,"New Advent, Catholic Encyclopedia (1910), Jeremias",https://www.newadvent.org/cathen/08334a.htm,2026-11-24
 6,"New Advent, Catholic Encyclopedia (1910), Job",https://www.newadvent.org/cathen/08413a.htm,2026-11-24
+6,"New Advent, Catholic Encyclopedia (1910), Joel",https://www.newadvent.org/cathen/08419a.htm,2026-11-24
+6,"New Advent, Catholic Encyclopedia (1910), Jonah",https://www.newadvent.org/cathen/08497b.htm,2026-11-24
 6,"New Advent, Catholic Encyclopedia (1910), Judges, The Book of",https://www.newadvent.org/cathen/08547a.htm,2026-11-24
+6,"New Advent, Catholic Encyclopedia (1911), Book of Micheas",https://www.newadvent.org/cathen/10278a.htm,2026-11-24
 6,"New Advent, Catholic Encyclopedia (1911), Relics",https://www.newadvent.org/cathen/12734a.htm,2026-11-24
 6,"New Advent, Catholic Encyclopedia (1911), Walter Drum, Psalms",https://www.newadvent.org/cathen/12533a.htm,2026-11-24
 6,"New Advent, Catholic Encyclopedia (1912), Tenebrae",https://www.newadvent.org/cathen/14506a.htm,2026-11-24
+6,"Northeast American Diocese, Malankara Orthodox Syrian Church, Nineveh Fast",https://www.neamericandiocese.org/feasts/feasts_details/23,2026-11-24
 6,"Order of Carmelites, Nine Themes in Carmelite Spirituality, 7: Carmel is Elijan",https://www.ocarm.org/en/item/2287,2026-11-24
 6,"OrthoChristian, The Lamentations Service for Holy Saturday Matins",https://orthochristian.com/78602.html,2026-11-24
 6,"Orthodox Church in America, Archdiocese of Canada, Great Compline with the Canon of St Andrew of Crete",https://www.archdiocese.ca/sites/default/files/liturgical-music/6-lent/02%20Compline%20with%20Canon%20of%20St.Andrew%20of%20Crete/Great%20Compline%20served%20with%20the%20Canon%20of%20St%20Andrew.pdf,2026-11-24
@@ -1280,9 +1402,11 @@ score,title,url,verified
 6,"Orthodox Church in America, Questions and Answers: Book of Revelation",https://www.oca.org/questions/scripture/book-of-revelation,2026-11-24
 6,"Orthodox Church in America, Questions and Answers: Ordination of Women",https://www.oca.org/questions/priesthoodmonasticism/ordination-of-women,2026-11-24
 6,"Orthodox Church in America, Scripture Readings for 10 April 2026 (Great and Holy Friday)",https://www.oca.org/readings/daily/2026/04/10,2026-11-24
+6,"Orthodox Church in America, Scripture Readings for 11 April 2026 (Great and Holy Saturday)",https://www.oca.org/readings/daily/2026/04/11,2026-11-24
 6,"Orthodox Church in America, Scripture Readings for 13 September 2026 (Founding of the Church of the Resurrection)",https://www.oca.org/readings/daily/2026/09/13,2026-11-24
 6,"Orthodox Church in America, Scripture Readings for 15 August 2026 (Dormition of the Theotokos)",https://www.oca.org/readings/daily/2026/08/15,2026-11-24
 6,"Orthodox Church in America, Scripture Readings for 24 December 2026 (Eve of the Nativity of Christ)",https://www.oca.org/readings/daily/2026/12/24,2026-11-24
+6,"Orthodox Church in America, Scripture Readings for 31 May 2026 (Pentecost)",https://www.oca.org/readings/daily/2026/05/31,2026-11-24
 6,"Orthodox Church in America, Scripture Readings for 5 January 2026 (Eve of Theophany)",https://www.oca.org/readings/daily/2026/01/05,2026-11-24
 6,"Orthodox Church in America, Scripture Readings for 8 September 2026 (Nativity of the Theotokos)",https://www.oca.org/readings/daily/2026/09/08,2026-11-24
 6,"Orthodox Church in America, The Division of the Psalter into Kathismas",https://www.oca.org/liturgics/outlines/the-division-of-the-psalter-into-kathismas,2026-11-24
@@ -1301,7 +1425,9 @@ score,title,url,verified
 6,"Sefaria, Rashi on Isaiah 53:3",https://www.sefaria.org/Rashi_on_Isaiah.53.3,2026-11-24
 6,"Sefaria, Rashi on Isaiah 7:14",https://www.sefaria.org/Rashi_on_Isaiah.7.14,2026-11-24
 6,"Sefaria, Rashi on Lamentations 5:22",https://www.sefaria.org/Rashi_on_Lamentations.5.22.2,2026-11-24
+6,"Sefaria, Rashi on Micah 5:1",https://www.sefaria.org/Rashi_on_Micah.5.1.3,2026-11-24
 6,"St Jonah Orthodox Church, Akathist Canon",https://saintjonah.org/akathists-canons-and-services/akathist-for-lent/akathist-canon/,2026-11-24
+6,"Syriac Orthodox Archdiocese of the Western United States, The Fast of Nineveh",https://www.soc-wus.org/2011News/21420119111.htm,2026-11-24
 6,"Tertullian.org, Jerome, Commentary on Daniel (translated by Gleason L. Archer, 1958)",https://www.tertullian.org/fathers/jerome_daniel_02_text.htm,2026-11-24
 6,"The Gospel Coalition, Philip Ryken, How Many Israelites Exited Egypt?",https://www.thegospelcoalition.org/article/how-many-israelites-exited-egypt/,2026-11-24
 6,"The Gospel Coalition, Steve Bateman, Does God Promise to Bless America? How to Apply 2 Chronicles 7:14",https://www.thegospelcoalition.org/article/god-promise-bless-america/,2026-11-24
@@ -1316,15 +1442,22 @@ score,title,url,verified
 6,"United Reformed Church, Readings for Funeral Services",https://urc.org.uk/wp-content/uploads/2026/04/Worship_book_-2026-Readings-for-Funeral.pdf,2026-11-24
 6,"United Reformed Church, What is the URC?",https://urc.org.uk/who-we-are/what-is-the-urc/,2026-11-23
 6,"United States Conference of Catholic Bishops, Readings for 22 August 2025",https://bible.usccb.org/bible/readings/082225.cfm,2026-11-24
+6,"United States Conference of Catholic Bishops, Readings for Ash Wednesday (18 February 2026)",https://bible.usccb.org/bible/readings/021826.cfm,2026-11-24
+6,"United States Conference of Catholic Bishops, Readings for Monday of the Sixteenth Week in Ordinary Time (20 July 2026)",https://bible.usccb.org/bible/readings/072026.cfm,2026-11-24
 6,"United States Conference of Catholic Bishops, Readings for Monday of the Third Week of Lent (9 March 2026)",https://bible.usccb.org/bible/readings/030926.cfm,2026-11-24
 6,"United States Conference of Catholic Bishops, Readings for Saturday of the Fourth Week of Lent (21 March 2026)",https://bible.usccb.org/bible/readings/032126.cfm,2026-11-24
 6,"United States Conference of Catholic Bishops, Readings for Saturday of the Twentieth Week in Ordinary Time (23 August 2025)",https://bible.usccb.org/bible/readings/082325.cfm,2026-11-24
 6,"United States Conference of Catholic Bishops, Readings for the Feast of Saint Mary Magdalene (22 July 2026)",https://bible.usccb.org/bible/readings/072226.cfm,2026-11-24
 6,"United States Conference of Catholic Bishops, Readings for the First Sunday of Advent (1 December 2024)",https://bible.usccb.org/bible/readings/120124.cfm,2026-11-24
 6,"United States Conference of Catholic Bishops, Readings for the Solemnity of the Most Holy Trinity (15 June 2025)",https://bible.usccb.org/bible/readings/061525.cfm,2026-11-24
+6,"United States Conference of Catholic Bishops, Readings for the Solemnity of the Most Sacred Heart of Jesus (7 June 2024)",https://bible.usccb.org/bible/readings/060724.cfm,2026-11-24
 6,"United States Conference of Catholic Bishops, Readings for the Third Sunday in Ordinary Time (26 January 2025)",https://bible.usccb.org/bible/readings/012625.cfm,2026-11-24
 6,"United States Conference of Catholic Bishops, Readings for the Twentieth Sunday in Ordinary Time (18 August 2024)",https://bible.usccb.org/bible/readings/081824.cfm,2026-11-24
+6,"United States Conference of Catholic Bishops, Readings for the Twenty-fifth Sunday in Ordinary Time (21 September 2025)",https://bible.usccb.org/bible/readings/092125.cfm,2026-11-24
+6,"United States Conference of Catholic Bishops, Readings for the Twenty-sixth Sunday in Ordinary Time (28 September 2025)",https://bible.usccb.org/bible/readings/092825.cfm,2026-11-24
+6,"United States Conference of Catholic Bishops, Readings for Wednesday of the First Week in Lent (25 February 2026)",https://bible.usccb.org/bible/readings/022526.cfm,2026-11-24
 6,"University of Fribourg, Institute for Ecumenical Studies, For the Life of the World: Toward a Social Ethos of the Orthodox Church",https://www.unifr.ch/iso/en/news/news/24780/next,2026-11-23
+6,"University of Pennsylvania African Studies Center, Martin Luther King Jr., Letter from a Birmingham Jail (1963)",https://www.africa.upenn.edu/Articles_Gen/Letter_Birmingham.html,2026-11-24
 6,"USCCB, 1 Kings, chapter 5 (NABRE)",https://bible.usccb.org/bible/1kings/5,2026-11-24
 6,"USCCB, 2 Chronicles, chapter 14 (NABRE)",https://bible.usccb.org/bible/2chronicles/14,2026-11-24
 6,"USCCB, 2 Chronicles, chapter 2 (NABRE)",https://bible.usccb.org/bible/2chronicles/2,2026-11-24
@@ -1335,7 +1468,12 @@ score,title,url,verified
 6,"USCCB, Ecclesiastes, chapter 4 (NABRE)",https://bible.usccb.org/bible/ecclesiastes/4,2026-11-24
 6,"USCCB, Ezekiel, chapter 21 (NABRE)",https://bible.usccb.org/bible/ezekiel/21,2026-11-24
 6,"USCCB, For Your Marriage, Old Testament Readings",https://www.foryourmarriage.org/old-testament-readings/,2026-11-24
+6,"USCCB, Hosea, chapter 11, with notes (NABRE)",https://bible.usccb.org/bible/hosea/11,2026-11-24
+6,"USCCB, Hosea, chapter 14, with notes (NABRE)",https://bible.usccb.org/bible/hosea/14,2026-11-24
+6,"USCCB, Hosea, chapter 2, with notes (NABRE)",https://bible.usccb.org/bible/hosea/2,2026-11-24
 6,"USCCB, Jeremiah, chapter 9 (NABRE)",https://bible.usccb.org/bible/jeremiah/9,2026-11-24
+6,"USCCB, Joel, chapter 3, with notes (NABRE)",https://bible.usccb.org/bible/joel/3,2026-11-24
+6,"USCCB, Joel, chapter 4, with notes (NABRE)",https://bible.usccb.org/bible/joel/4,2026-11-24
 6,"USCCB, Lamentations, chapter 2, with notes (NABRE)",https://bible.usccb.org/bible/lamentations/2,2026-11-24
 6,"USCCB, Luke, chapter 11, with notes (NABRE)",https://bible.usccb.org/bible/luke/11,2026-11-24
 6,"USCCB, Nehemiah, chapter 10 (NABRE)",https://bible.usccb.org/bible/nehemiah/10,2026-11-24
@@ -1360,7 +1498,9 @@ score,title,url,verified
 6,"Vanderbilt Divinity Library, Revised Common Lectionary: Holy Week 2026",https://lectionary.library.vanderbilt.edu/calendar/2025-26/?season=holy_week,2026-11-24
 6,"Vanderbilt Divinity Library, Revised Common Lectionary: Sunday citations",https://lectionary.library.vanderbilt.edu/sunday-citations/,2026-11-24
 6,"Vanderbilt Divinity Library, Revised Common Lectionary: Third Sunday after the Epiphany, Year C",https://lectionary.library.vanderbilt.edu/texts/?y=19342&z=e&d=15,2026-11-24
+6,"Vatican Museums, The Good Shepherd and Jonah",https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/museo-pio-cristiano/buon-pastore-e-giona/buon-pastore-e-giona.html,2026-11-24
 6,"Vatican News, Russian Orthodox Church breaks Eucharistic communion with Patriarchate of Constantinople",https://www.vaticannews.va/en/world/news/2018-10/russian-orthodox-break-communion-with-ecumenical-patriarch.html,2026-11-23
+6,"Vatican, Pope Francis, The Jonah Syndrome (morning meditation, 14 October 2013)",https://www.vatican.va/content/francesco/en/cotidie/2013/documents/papa-francesco-cotidie_20131014_jonah-syndrome.html,2026-11-24
 6,"Vatican, Pope Francis, The prayer of praise (morning meditation, 28 January 2014)",https://www.vatican.va/content/francesco/en/cotidie/2014/documents/papa-francesco-cotidie_20140128_prayer-praise.html,2026-11-24
 6,"World Council of Churches, Racism, Discrimination and Xenophobia",https://www.oikoumene.org/what-we-do/racism-discrimination-and-xenophobia,2026-11-23
 6,"World Council of Churches, WCC extends congratulations to H.E. Abune Basliyos upon enthronement as 6th Patriarch of the Eritrean Orthodox Tewahedo Church (2025)",https://www.oikoumene.org/news/wcc-extends-congratulations-to-he-abune-basliyos-upon-enthronement-as-6th-patriarch-of-the-eritrean-orthodox-tewahedo-church,2026-11-23
