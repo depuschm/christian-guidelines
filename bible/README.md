@@ -150,28 +150,28 @@ Every book, in the order of the canon, with the number of its chapters in the WE
 
 ### New Testament
 
-27 books, 1 with a guide page so far.
+27 books, 7 with a guide page so far.
 
 #### Gospels
 
 | Book | Chapters | Guide | Text |
 | --- | --- | --- | --- |
-| Matthew | 28 | Not written yet | [Matthew](https://ebible.org/eng-webbe/MAT.htm) |
-| Mark | 16 | Not written yet | [Mark](https://ebible.org/eng-webbe/MRK.htm) |
-| Luke | 24 | Not written yet | [Luke](https://ebible.org/eng-webbe/LUK.htm) |
-| John | 21 | Not written yet | [John](https://ebible.org/eng-webbe/JHN.htm) |
+| Matthew | 28 | [Matthew](new-testament/matthew.md) | [Matthew](https://ebible.org/eng-webbe/MAT.htm) |
+| Mark | 16 | [Mark](new-testament/mark.md) | [Mark](https://ebible.org/eng-webbe/MRK.htm) |
+| Luke | 24 | [Luke](new-testament/luke.md) | [Luke](https://ebible.org/eng-webbe/LUK.htm) |
+| John | 21 | [John](new-testament/john.md) | [John](https://ebible.org/eng-webbe/JHN.htm) |
 
 #### Acts
 
 | Book | Chapters | Guide | Text |
 | --- | --- | --- | --- |
-| Acts | 28 | Not written yet | [Acts](https://ebible.org/eng-webbe/ACT.htm) |
+| Acts | 28 | [Acts](new-testament/acts.md) | [Acts](https://ebible.org/eng-webbe/ACT.htm) |
 
 #### Letters of Paul
 
 | Book | Chapters | Guide | Text |
 | --- | --- | --- | --- |
-| Romans | 16 | Not written yet | [Romans](https://ebible.org/eng-webbe/ROM.htm) |
+| Romans | 16 | [Romans](new-testament/romans.md) | [Romans](https://ebible.org/eng-webbe/ROM.htm) |
 | 1 Corinthians | 16 | Not written yet | [1 Corinthians](https://ebible.org/eng-webbe/1CO.htm) |
 | 2 Corinthians | 13 | Not written yet | [2 Corinthians](https://ebible.org/eng-webbe/2CO.htm) |
 | Galatians | 6 | Not written yet | [Galatians](https://ebible.org/eng-webbe/GAL.htm) |

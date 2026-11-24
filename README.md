@@ -78,7 +78,7 @@ The [Bible section](bible/README.md) explains which books each church reads, rec
 
 [Old Testament](bible/README.md#old-testament) · [Deuterocanon](bible/README.md#deuterocanon) · [New Testament](bible/README.md#new-testament)
 
-The first book page is [James](bible/new-testament/james.md). The New Testament comes next, then the Old Testament, then the deuterocanon.
+Book pages so far: [Matthew](bible/new-testament/matthew.md) · [Mark](bible/new-testament/mark.md) · [Luke](bible/new-testament/luke.md) · [John](bible/new-testament/john.md) · [Acts](bible/new-testament/acts.md) · [Romans](bible/new-testament/romans.md) · [James](bible/new-testament/james.md). The rest of the New Testament comes next, then the Old Testament, then the deuterocanon.
 
 ## Areas of life
 
@@ -133,7 +133,7 @@ Tools that read [`AGENTS.md`](AGENTS.md) or support Agent Skills can use the `sk
 
 1. **Foundations** (done): the repository's decisions, scoring criteria, templates, checks and website, the Bible reference tooling, and one page of each kind to prove the format: [Love of God and neighbour](general/love.md) and [James](bible/new-testament/james.md).
 2. **General topics and church pages** (done): eighteen topics, from the creeds to discernment, with 106 rules, a reading list, and ten church pages (Catholic, Eastern Orthodox, Oriental Orthodox, Lutheran, Reformed, Anglican, Methodist, Baptist, Pentecostal, Anabaptist).
-3. **Bible book pages**: the New Testament, then the Old Testament, then the deuterocanon.
+3. **Bible book pages** (in progress): done so far are the four Gospels, Acts, Romans and James. Next: the rest of the New Testament, then the Old Testament, then the deuterocanon.
 4. **Areas of life, more skills and evals.**
 
 ## Contributing
