@@ -48,17 +48,17 @@ Every book, in the order of the canon, with the number of its chapters in the WE
 
 ### Old Testament
 
-39 books, 0 with a guide page so far.
+39 books, 5 with a guide page so far.
 
 #### Law (Pentateuch)
 
 | Book | Chapters | Guide | Text |
 | --- | --- | --- | --- |
-| Genesis | 50 | Not written yet | [Genesis](https://ebible.org/eng-webbe/GEN.htm) |
-| Exodus | 40 | Not written yet | [Exodus](https://ebible.org/eng-webbe/EXO.htm) |
-| Leviticus | 27 | Not written yet | [Leviticus](https://ebible.org/eng-webbe/LEV.htm) |
-| Numbers | 36 | Not written yet | [Numbers](https://ebible.org/eng-webbe/NUM.htm) |
-| Deuteronomy | 34 | Not written yet | [Deuteronomy](https://ebible.org/eng-webbe/DEU.htm) |
+| Genesis | 50 | [Genesis](old-testament/genesis.md) | [Genesis](https://ebible.org/eng-webbe/GEN.htm) |
+| Exodus | 40 | [Exodus](old-testament/exodus.md) | [Exodus](https://ebible.org/eng-webbe/EXO.htm) |
+| Leviticus | 27 | [Leviticus](old-testament/leviticus.md) | [Leviticus](https://ebible.org/eng-webbe/LEV.htm) |
+| Numbers | 36 | [Numbers](old-testament/numbers.md) | [Numbers](https://ebible.org/eng-webbe/NUM.htm) |
+| Deuteronomy | 34 | [Deuteronomy](old-testament/deuteronomy.md) | [Deuteronomy](https://ebible.org/eng-webbe/DEU.htm) |
 
 #### History
 
