@@ -62,6 +62,7 @@ score,title,url,verified
 8,"St Andrews Encyclopaedia of Theology, Dries Bosschaert, History of the Second Vatican Council",https://www.saet.ac.uk/Christianity/VaticanII,2026-11-23
 8,"St Andrews Encyclopaedia of Theology, Ecotheology (Ernst Conradie)",https://www.saet.ac.uk/Christianity/Ecotheology,2026-11-23
 8,"St Andrews Encyclopaedia of Theology, Hope (Olli-Pekka Vainio)",https://www.saet.ac.uk/Christianity/Hope,2026-11-23
+8,"St Andrews Encyclopaedia of Theology, Jayne Svenungsson, Millenarianism",https://www.saet.ac.uk/Christianity/Millenarianism,2026-11-24
 8,"St Andrews Encyclopaedia of Theology, John Stephenson, Sacrifice and the Eucharist",https://www.saet.ac.uk/Christianity/SacrificeandtheEucharist,2026-11-23
 8,"St Andrews Encyclopaedia of Theology, Justification (Matthew J. Thomas)",https://www.saet.ac.uk/Christianity/Justification,2026-11-23
 8,"St Andrews Encyclopaedia of Theology, Love in Christian Ethics",https://www.saet.ac.uk/Christianity/LoveinChristianEthics,2026-11-23
@@ -122,28 +123,45 @@ score,title,url,verified
 7,"Baptist World Alliance, Resolution 2004.4: Withdrawal of the Southern Baptist Convention from the Family of the Baptist World Alliance",https://baptistworld.org/bwa-resolutions/withdrawal-of-the-southern-baptist-convention-from-the-family-of-the-baptist-world-alliance/,2026-11-23
 7,"Bible Gateway, 1 Corinthians 1 (NRSVUE)",https://www.biblegateway.com/passage/?search=1%20Corinthians%201&version=NRSVUE,2026-11-24
 7,"Bible Gateway, 1 Corinthians 14 (NRSVUE), with notes",https://www.biblegateway.com/passage/?search=1%20Corinthians%2014&version=NRSVUE,2026-11-24
+7,"Bible Gateway, 1 John 1–5 (NRSVUE)",https://www.biblegateway.com/passage/?search=1%20John%201-5&version=NRSVUE,2026-11-24
+7,"Bible Gateway, 1 John 5:7–8 (KJV)",https://www.biblegateway.com/passage/?search=1%20John%205%3A7-8&version=KJV,2026-11-24
+7,"Bible Gateway, 1 Peter 1–5 (NRSVUE)",https://www.biblegateway.com/passage/?search=1%20Peter%201-5&version=NRSVUE,2026-11-24
 7,"Bible Gateway, 1 Thessalonians 1–5 (NRSVUE)",https://www.biblegateway.com/passage/?search=1%20Thessalonians%201-5&version=NRSVUE,2026-11-24
+7,"Bible Gateway, 1 Timothy 1–6 (NRSVUE)",https://www.biblegateway.com/passage/?search=1%20Timothy%201-6&version=NRSVUE,2026-11-24
 7,"Bible Gateway, 2 Corinthians 1 (NRSVUE)",https://www.biblegateway.com/passage/?search=2%20Corinthians%201&version=NRSVUE,2026-11-24
+7,"Bible Gateway, 2 John 1 (NRSVUE)",https://www.biblegateway.com/passage/?search=2%20John%201&version=NRSVUE,2026-11-24
+7,"Bible Gateway, 2 Peter 1–3 (NRSVUE)",https://www.biblegateway.com/passage/?search=2%20Peter%201-3&version=NRSVUE,2026-11-24
 7,"Bible Gateway, 2 Thessalonians 1–3 (NRSVUE)",https://www.biblegateway.com/passage/?search=2%20Thessalonians%201-3&version=NRSVUE,2026-11-24
+7,"Bible Gateway, 2 Timothy 1–4 (NRSVUE)",https://www.biblegateway.com/passage/?search=2%20Timothy%201-4&version=NRSVUE,2026-11-24
+7,"Bible Gateway, 3 John 1 (NRSVUE)",https://www.biblegateway.com/passage/?search=3%20John%201&version=NRSVUE,2026-11-24
 7,"Bible Gateway, Acts 1–28 (NRSVUE)",https://www.biblegateway.com/passage/?search=Acts%201-28&version=NRSVUE,2026-11-24
 7,"Bible Gateway, Colossians 1–4 (NRSVUE)",https://www.biblegateway.com/passage/?search=Colossians%201-4&version=NRSVUE,2026-11-24
 7,"Bible Gateway, Ephesians 1–6 (NRSVUE)",https://www.biblegateway.com/passage/?search=Ephesians%201-6&version=NRSVUE,2026-11-24
 7,"Bible Gateway, Galatians 1–6 (NRSVUE)",https://www.biblegateway.com/passage/?search=Galatians%201-6&version=NRSVUE,2026-11-24
+7,"Bible Gateway, Hebrews 1–13 (NRSVUE)",https://www.biblegateway.com/passage/?search=Hebrews%201-13&version=NRSVUE,2026-11-24
 7,"Bible Gateway, James 1–5 (NRSVUE)",https://www.biblegateway.com/passage/?search=James%201-5&version=NRSVUE,2026-11-23
 7,"Bible Gateway, John 1–21 (NRSVUE)",https://www.biblegateway.com/passage/?search=John%201-21&version=NRSVUE,2026-11-24
+7,"Bible Gateway, Jude (NRSVUE)",https://www.biblegateway.com/passage/?search=Jude%201&version=NRSVUE,2026-11-24
 7,"Bible Gateway, Luke 1 (NRSVUE)",https://www.biblegateway.com/passage/?search=Luke%201&version=NRSVUE,2026-11-24
 7,"Bible Gateway, Mark 1 (NRSVUE)",https://www.biblegateway.com/passage/?search=Mark%201&version=NRSVUE,2026-11-24
 7,"Bible Gateway, Mark 16, with notes (NRSVUE)",https://www.biblegateway.com/passage/?search=Mark%2016&version=NRSVUE,2026-11-24
 7,"Bible Gateway, Matthew 1 (NRSVUE)",https://www.biblegateway.com/passage/?search=Matthew%201&version=NRSVUE,2026-11-24
 7,"Bible Gateway, New International Version (NIV)",https://www.biblegateway.com/versions/New-International-Version-NIV-Bible/,2026-11-23
+7,"Bible Gateway, Philemon (NRSVUE)",https://www.biblegateway.com/passage/?search=Philemon%201&version=NRSVUE,2026-11-24
 7,"Bible Gateway, Philippians 1–4 (NRSVUE)",https://www.biblegateway.com/passage/?search=Philippians%201-4&version=NRSVUE,2026-11-24
+7,"Bible Gateway, Revelation 1–22 (NRSVUE)",https://www.biblegateway.com/passage/?search=Revelation%201-22&version=NRSVUE,2026-11-24
 7,"Bible Gateway, Romans 1–16 (NRSVUE)",https://www.biblegateway.com/passage/?search=Romans%201-16&version=NRSVUE,2026-11-24
 7,"Bible Gateway, SBL Greek New Testament (SBLGNT)",https://www.biblegateway.com/versions/SBL-Greek-New-Testament-SBLGNT/,2026-11-23
+7,"Bible Gateway, Titus 1–3 (NRSVUE)",https://www.biblegateway.com/passage/?search=Titus%201-3&version=NRSVUE,2026-11-24
 7,"Bible Odyssey, A. Andrew Das, Romans and the Fate of Israel",https://www.bibleodyssey.org/articles/romans-and-the-fate-of-israel/,2026-11-24
 7,"Bible Odyssey, Chris Keith, The Manuscript History of John 8",https://www.bibleodyssey.org/articles/the-manuscript-history-of-john-8/,2026-11-24
 7,"Bible Odyssey, Christopher W. Skinner, The Beloved Disciple",https://www.bibleodyssey.org/articles/the-beloved-disciple/,2026-11-24
+7,"Bible Odyssey, David A. deSilva, The Sign of the Beast",https://www.bibleodyssey.org/articles/the-sign-of-the-beast/,2026-11-24
+7,"Bible Odyssey, Demetrius K. Williams, Onesimus",https://www.bibleodyssey.org/articles/onesimus/,2026-11-24
 7,"Bible Odyssey, Did the Authors of the Canonical Gospels Know Each Other?",https://www.bibleodyssey.org/articles/did-the-authors-of-the-canonical-gospels-know-each-other/,2026-11-24
+7,"Bible Odyssey, James F. McGrath, Which John? The Elder, the Seer, and the Apostle",https://www.bibleodyssey.org/articles/which-john-the-elder-the-seer-and-the-apostle/,2026-11-24
 7,"Bible Odyssey, Jamie Davies, Antichrist",https://www.bibleodyssey.org/articles/antichrist/,2026-11-24
+7,"Bible Odyssey, Lynn R. Huber, Millennium",https://www.bibleodyssey.org/articles/millennium/,2026-11-24
 7,"Bible Odyssey, Meredith J. C. Warren, Eating Jesus's Flesh (John 6)",https://www.bibleodyssey.org/articles/eating-jesuss-flesh-john-6/,2026-11-24
 7,"Bible Odyssey, Olivia Stewart Lester, Thessalonica",https://www.bibleodyssey.org/articles/thessalonica/,2026-11-24
 7,"Bible Odyssey, Shelly Matthews, Baptism's Effect on Social Relationships",https://www.bibleodyssey.org/articles/baptisms-effect-on-social-relationships/,2026-11-24
@@ -160,6 +178,7 @@ score,title,url,verified
 7,"BookOfConcord.org, Augsburg Confession, Article X: Of the Lord's Supper",https://bookofconcord.org/augsburg-confession/of-the-lords-supper/,2026-11-23
 7,"BookOfConcord.org, Augsburg Confession, Article XI: Of Confession",https://bookofconcord.org/augsburg-confession/of-confession/,2026-11-23
 7,"BookOfConcord.org, Augsburg Confession, Article XII: Of Repentance",https://bookofconcord.org/augsburg-confession/of-repentance/,2026-11-23
+7,"BookOfConcord.org, Augsburg Confession, Article XIV: Of Ecclesiastical Order",https://bookofconcord.org/augsburg-confession/of-ecclesiastical-order/,2026-11-24
 7,"BookOfConcord.org, Augsburg Confession, Article XVI: Of Civil Affairs",https://bookofconcord.org/augsburg-confession/of-civil-affairs/,2026-11-23
 7,"BookOfConcord.org, Augsburg Confession, Article XVII: Of Christ's Return to Judgment",https://bookofconcord.org/augsburg-confession/of-christs-return-to-judgment/,2026-11-23
 7,"BookOfConcord.org, Augsburg Confession, Article XX: Of Good Works",https://bookofconcord.org/augsburg-confession/of-good-works/,2026-11-23
@@ -168,6 +187,7 @@ score,title,url,verified
 7,"BookOfConcord.org, Augsburg Confession, Article XXVI: Of the Distinction of Meats",https://bookofconcord.org/augsburg-confession/of-the-distinction-of-meats/,2026-11-23
 7,"BookOfConcord.org, Augsburg Confession, Article XXVIII: Of Ecclesiastical Power",https://bookofconcord.org/augsburg-confession/of-ecclesiastical-power/,2026-11-23
 7,"BookOfConcord.org, Augsburg Confession, XXVII: Of Monastic Vows",https://bookofconcord.org/augsburg-confession/of-monastic-vows/,2026-11-24
+7,"BookOfConcord.org, Formula of Concord, Epitome, IX: The Descent of Christ into Hell",https://bookofconcord.org/epitome/descent-of-christ-into-hell/,2026-11-24
 7,"BookOfConcord.org, Formula of Concord, Epitome, VI: The Third Use of the Law",https://bookofconcord.org/epitome/third-use-of-the-law/,2026-11-24
 7,"BookOfConcord.org, Formula of Concord, Epitome, VIII: The Person of Christ",https://bookofconcord.org/epitome/person-of-christ/,2026-11-24
 7,"BookOfConcord.org, Formula of Concord, Epitome, X: Church Rites",https://bookofconcord.org/epitome/church-rites/,2026-11-23
@@ -184,6 +204,7 @@ score,title,url,verified
 7,"BookOfConcord.org, Luther's Small Catechism: The Ten Commandments",https://bookofconcord.org/small-catechism/ten-commandments/,2026-11-23
 7,"BookOfConcord.org, The Ecumenical Creeds",https://bookofconcord.org/ecumenical-creeds/,2026-11-23
 7,"BookOfConcord.org, Treatise on the Power and Primacy of the Pope",https://bookofconcord.org/power-and-primacy/treatise-compiled-at-smalcald/,2026-11-24
+7,"BookOfConcord.org, Treatise on the Power and Primacy of the Pope: Of the Power and Jurisdiction of Bishops",https://bookofconcord.org/power-and-primacy/power-and-jurisdiction-of-bishops/,2026-11-24
 7,"Britain Yearly Meeting, Quaker faith & practice, 1.02: Advices and queries",https://qfp.quaker.org.uk/passage/1-02/,2026-11-23
 7,"Britain Yearly Meeting, Quaker faith & practice, 12.23: Meetings for clearness",https://qfp.quaker.org.uk/passage/12-23/,2026-11-23
 7,"Britain Yearly Meeting, Quaker faith & practice, 12.24: Meetings for clearness",https://qfp.quaker.org.uk/passage/12-24/,2026-11-23
@@ -223,6 +244,7 @@ score,title,url,verified
 7,"Church of England, Articles of Religion, XXV: Of the Sacraments",https://www.churchofengland.org/liturgy/book-of-common-prayer/articles-religion#XXV,2026-11-23
 7,"Church of England, Articles of Religion, XXVII: Of Baptism",https://www.churchofengland.org/liturgy/book-of-common-prayer/articles-religion#XXVII,2026-11-23
 7,"Church of England, Articles of Religion, XXVIII: Of the Lord's Supper",https://www.churchofengland.org/liturgy/book-of-common-prayer/articles-religion#XXVIII,2026-11-23
+7,"Church of England, Articles of Religion, XXXI: Of the one Oblation of Christ finished upon the Cross",https://www.churchofengland.org/liturgy/book-of-common-prayer/articles-religion#XXXI,2026-11-24
 7,"Church of England, Articles of Religion, XXXVIII: Of Christian men's Goods, which are not common",https://www.churchofengland.org/liturgy/book-of-common-prayer/articles-religion#XXXVIII,2026-11-24
 7,"Church of England, Book of Common Prayer, A Catechism",https://www.churchofengland.org/liturgy/book-of-common-prayer/catechism,2026-11-23
 7,"Church of England, Book of Common Prayer, Concerning the Service of the Church",https://www.churchofengland.org/liturgy/book-of-common-prayer/concerning-service-church,2026-11-23
@@ -237,6 +259,9 @@ score,title,url,verified
 7,"Church of England, Canons of the Church of England, Section A",https://www.churchofengland.org/resources/legal/canons-church-england/section-a,2026-11-23
 7,"Church of England, Church and State",https://www.churchofengland.org/about/church-and-state,2026-11-23
 7,"Church of England, Common Worship",https://www.churchofengland.org/liturgy/common-worship,2026-11-23
+7,"Church of England, Common Worship: Canticle 71, Great and Wonderful",https://www.churchofengland.org/liturgy/common-worship/daily-prayer/canticles-daily-prayer/71-great-and-wonderful,2026-11-24
+7,"Church of England, Common Worship: Canticle 73, A Song of the Holy City",https://www.churchofengland.org/liturgy/common-worship/daily-prayer/canticles-daily-prayer/73-song-holy-city,2026-11-24
+7,"Church of England, Common Worship: Canticles (Daily Prayer)",https://www.churchofengland.org/liturgy/common-worship/daily-prayer/canticles-daily-prayer,2026-11-24
 7,"Church of England, Common Worship: The Liturgy of Maundy Thursday",https://www.churchofengland.org/liturgy/common-worship/seasonal-material/passiontide/liturgy-maundy-thursday,2026-11-24
 7,"Church of England, Common Worship: Wholeness and Healing",https://www.churchofengland.org/liturgy/common-worship/book/pastoral-services/wholeness-and-healing,2026-11-23
 7,"Church of England, Digital Charter",https://www.churchofengland.org/national-bodies/central-services/communications-team/digital-charter,2026-11-23
@@ -262,6 +287,7 @@ score,title,url,verified
 7,"Evangelical Church in Germany, The Barmen Declaration (history)",https://www.ekd.de/en/The-Barmen-Declaration-133.htm,2026-11-23
 7,"Evangelical Lutheran Church in America, The Death Penalty (1991 social statement)",https://www.elca.org/social-teachings/1991-the-death-penalty-theological-discernment-social-statements,2026-11-23
 7,"Evangelical Lutheran Church in America, Theology: Scriptures, Creeds and Confessions",https://www.elca.org/about-the-elca/who-we-are/beliefs/theology,2026-11-23
+7,"Fortress Press, Demetrius K. Williams, ""No Longer as a Slave"": Reading the Interpretation History of Paul's Epistle to Philemon (Onesimus Our Brother, 2012, sample chapter)",https://ms.augsburgfortress.org/downloads/9780800663414Chapter1.pdf,2026-11-24
 7,"GAFCON, The Jerusalem Statement",https://gafcon.org/about/the-jerusalem-statement/,2026-11-23
 7,"Hanover Historical Texts Project, Council of Trent, Session IV: Decree concerning the Canonical Scriptures",https://history.hanover.edu/texts/trent/ct04.html,2026-11-23
 7,"Holy and Great Council of the Orthodox Church, Relations of the Orthodox Church with the Rest of the Christian World",https://www.holycouncil.org/rest-of-christian-world,2026-11-23
@@ -307,14 +333,19 @@ score,title,url,verified
 7,"New Advent, Eusebius, Church History, Book II",https://www.newadvent.org/fathers/250102.htm,2026-11-23
 7,"New Advent, Eusebius, Church History, Book III",https://www.newadvent.org/fathers/250103.htm,2026-11-23
 7,"New Advent, Eusebius, Church History, Book V",https://www.newadvent.org/fathers/250105.htm,2026-11-24
+7,"New Advent, Eusebius, Church History, Book VI",https://www.newadvent.org/fathers/250106.htm,2026-11-24
+7,"New Advent, Eusebius, Church History, Book VII",https://www.newadvent.org/fathers/250107.htm,2026-11-24
 7,"New Advent, Irenaeus, Against Heresies, Book III, chapter 1",https://www.newadvent.org/fathers/0103301.htm,2026-11-24
+7,"New Advent, Jerome, De Viris Illustribus (Lives of Illustrious Men)",https://www.newadvent.org/fathers/2708.htm,2026-11-24
 7,"Open Yale Courses, Christine Hayes, Introduction to the Old Testament (Hebrew Bible) (RLST 145)",https://oyc.yale.edu/religious-studies/rlst-145,2026-11-23
 7,"Open Yale Courses, Dale B. Martin, Introduction to the New Testament History and Literature (RLST 152)",https://oyc.yale.edu/religious-studies/rlst-152,2026-11-23
 7,"Orthodox Church in America, Ecumenical Patriarch marks the ecclesiastical new year with a statement on the environment (2010)",https://www.oca.org/News/archived/ecumenical-patriarch-marks-the-ecclesiastical-new-year-with-a-statement-on-,2026-11-23
+7,"Orthodox Church in America, Holy Saturday",https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-church-year/holy-saturday,2026-11-24
 7,"Orthodox Church in America, Prevention of Sexual Misconduct",https://www.oca.org/about/sexual-misconduct,2026-11-23
 7,"Orthodox Church in America, The Creed: The Symbol of Faith",https://www.oca.org/orthodoxy/prayers/symbol-of-faith,2026-11-23
 7,"Orthodox Church in America, The Orthodox Faith: Almsgiving",https://www.oca.org/orthodoxy/the-orthodox-faith/spirituality/prayer-fasting-and-almsgiving/almsgiving,2026-11-23
 7,"Orthodox Church in America, The Orthodox Faith: Baptism",https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-sacraments/baptism,2026-11-23
+7,"Orthodox Church in America, The Orthodox Faith: Book of Revelation",https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/new-testament/book-of-revelation,2026-11-24
 7,"Orthodox Church in America, The Orthodox Faith: Chrismation",https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-sacraments/chrismation,2026-11-24
 7,"Orthodox Church in America, The Orthodox Faith: Christ (Orthodox Spirituality)",https://www.oca.org/orthodoxy/the-orthodox-faith/spirituality/orthodox-spirituality/christ,2026-11-23
 7,"Orthodox Church in America, The Orthodox Faith: Church",https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/the-symbol-of-faith/church,2026-11-23
@@ -324,6 +355,7 @@ score,title,url,verified
 7,"Orthodox Church in America, The Orthodox Faith: Fasting",https://www.oca.org/orthodoxy/the-orthodox-faith/spirituality/prayer-fasting-and-almsgiving/fasting,2026-11-23
 7,"Orthodox Church in America, The Orthodox Faith: Great Lent",https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-church-year/great-lent,2026-11-23
 7,"Orthodox Church in America, The Orthodox Faith: Holy Eucharist",https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-sacraments/holy-eucharist,2026-11-23
+7,"Orthodox Church in America, The Orthodox Faith: Holy Orders",https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-sacraments/holy-orders,2026-11-24
 7,"Orthodox Church in America, The Orthodox Faith: Holy Spirit",https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/the-symbol-of-faith/holy-spirit,2026-11-23
 7,"Orthodox Church in America, The Orthodox Faith: Holy Unction",https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-sacraments/holy-unction,2026-11-23
 7,"Orthodox Church in America, The Orthodox Faith: Intercessory Prayer",https://www.oca.org/orthodoxy/the-orthodox-faith/spirituality/prayer-fasting-and-almsgiving/intercessory-prayer,2026-11-23
@@ -456,6 +488,7 @@ score,title,url,verified
 7,"United Pentecostal Church International, Our Beliefs",https://upci.org/our-beliefs/,2026-11-23
 7,"United States Conference of Catholic Bishops, 2 Corinthians, chapter 12, with notes (NABRE)",https://bible.usccb.org/bible/2corinthians/12,2026-11-24
 7,"United States Conference of Catholic Bishops, 2 Corinthians, chapter 2, with notes (NABRE)",https://bible.usccb.org/bible/2corinthians/2,2026-11-24
+7,"United States Conference of Catholic Bishops, Introduction to the Book of Revelation (NABRE)",https://bible.usccb.org/bible/revelation/0,2026-11-24
 7,"United States Conference of Catholic Bishops, Introduction to the Gospel according to John (New American Bible, Revised Edition)",https://bible.usccb.org/bible/john/0,2026-11-24
 7,"United States Conference of Catholic Bishops, Introduction to the Letter to the Colossians (New American Bible, Revised Edition)",https://bible.usccb.org/bible/colossians/0,2026-11-24
 7,"United States Conference of Catholic Bishops, Introduction to the Letter to the Philippians (New American Bible, Revised Edition)",https://bible.usccb.org/bible/philippians/0,2026-11-24
@@ -465,16 +498,29 @@ score,title,url,verified
 7,"University of Washington, The Schleitheim Confession of Faith, 1527 (trans. J. C. Wenger)",https://courses.washington.edu/hist112/SCHLEITHEIM%20CONFESSION%20OF%20FAITH.htm,2026-11-23
 7,"USCCB, 1 Corinthians, chapter 14, with notes (New American Bible, Revised Edition)",https://bible.usccb.org/bible/1corinthians/14,2026-11-24
 7,"USCCB, 1 Corinthians, chapter 15, with notes (New American Bible, Revised Edition)",https://bible.usccb.org/bible/1corinthians/15,2026-11-24
+7,"USCCB, 1 John 5 (NABRE)",https://bible.usccb.org/bible/1john/5,2026-11-24
+7,"USCCB, 1 Timothy, chapter 2, with notes (New American Bible, Revised Edition)",https://bible.usccb.org/bible/1timothy/2,2026-11-24
 7,"USCCB, Introduction to the Acts of the Apostles (New American Bible, Revised Edition)",https://bible.usccb.org/bible/acts/0,2026-11-24
+7,"USCCB, Introduction to the First Letter of John",https://bible.usccb.org/bible/1john/0,2026-11-24
+7,"USCCB, Introduction to the First Letter of Peter (New American Bible, Revised Edition)",https://bible.usccb.org/bible/1peter/0,2026-11-24
 7,"USCCB, Introduction to the First Letter to the Corinthians (New American Bible, Revised Edition)",https://bible.usccb.org/bible/1corinthians/0,2026-11-24
 7,"USCCB, Introduction to the First Letter to the Thessalonians (New American Bible, Revised Edition)",https://bible.usccb.org/bible/1thessalonians/0,2026-11-24
+7,"USCCB, Introduction to the First Letter to Timothy (New American Bible, Revised Edition)",https://bible.usccb.org/bible/1timothy/0,2026-11-24
 7,"USCCB, Introduction to the Gospel according to Luke (New American Bible, Revised Edition)",https://bible.usccb.org/bible/luke/0,2026-11-24
 7,"USCCB, Introduction to the Gospel according to Mark (New American Bible, Revised Edition)",https://bible.usccb.org/bible/mark/0,2026-11-24
 7,"USCCB, Introduction to the Gospel according to Matthew (New American Bible, Revised Edition)",https://bible.usccb.org/bible/matthew/0,2026-11-24
 7,"USCCB, Introduction to the Letter of James (New American Bible, Revised Edition)",https://bible.usccb.org/bible/james/0,2026-11-23
+7,"USCCB, Introduction to the Letter of Jude (New American Bible, Revised Edition)",https://bible.usccb.org/bible/jude/0,2026-11-24
+7,"USCCB, Introduction to the Letter to Philemon (New American Bible, Revised Edition)",https://bible.usccb.org/bible/philemon/0,2026-11-24
 7,"USCCB, Introduction to the Letter to the Ephesians (New American Bible, Revised Edition)",https://bible.usccb.org/bible/ephesians/0,2026-11-24
 7,"USCCB, Introduction to the Letter to the Galatians (New American Bible, Revised Edition)",https://bible.usccb.org/bible/galatians/0,2026-11-24
+7,"USCCB, Introduction to the Letter to the Hebrews (New American Bible, Revised Edition)",https://bible.usccb.org/bible/hebrews/0,2026-11-24
 7,"USCCB, Introduction to the Letter to the Romans (New American Bible, Revised Edition)",https://bible.usccb.org/bible/romans/0,2026-11-24
+7,"USCCB, Introduction to the Letter to Titus (New American Bible, Revised Edition)",https://bible.usccb.org/bible/titus/0,2026-11-24
+7,"USCCB, Introduction to the Second Letter of John",https://bible.usccb.org/bible/2john/0,2026-11-24
+7,"USCCB, Introduction to the Second Letter of Peter (New American Bible, Revised Edition)",https://bible.usccb.org/bible/2peter/0,2026-11-24
+7,"USCCB, Introduction to the Second Letter to Timothy (New American Bible, Revised Edition)",https://bible.usccb.org/bible/2timothy/0,2026-11-24
+7,"USCCB, Introduction to the Third Letter of John",https://bible.usccb.org/bible/3john/0,2026-11-24
 7,"USCCB, Mark 16, with notes (New American Bible, Revised Edition)",https://bible.usccb.org/bible/mark/16,2026-11-24
 7,"USCCB, Romans, chapter 16, with notes (New American Bible, Revised Edition)",https://bible.usccb.org/bible/romans/16,2026-11-24
 7,"Vatican News, Catholics increase worldwide as number of priests edges upward (Fides Catholic Church Statistics 2026)",https://www.vaticannews.va/en/church/news/2026-10/fides-agency-2026-annual-church-statistics.html,2026-11-23
@@ -509,6 +555,7 @@ score,title,url,verified
 7,"Vatican, Catechism of the Catholic Church, 1480–1484",https://www.vatican.va/archive/ENG0015/__P4H.HTM,2026-11-23
 7,"Vatican, Catechism of the Catholic Church, 1510–1513",https://www.vatican.va/archive/ENG0015/__P4K.HTM,2026-11-23
 7,"Vatican, Catechism of the Catholic Church, 1514–1516",https://www.vatican.va/archive/ENG0015/__P4L.HTM,2026-11-23
+7,"Vatican, Catechism of the Catholic Church, 1539–1553",https://www.vatican.va/archive/ENG0015/__P4T.HTM,2026-11-24
 7,"Vatican, Catechism of the Catholic Church, 153–165",https://www.vatican.va/archive/ENG0015/__PX.HTM,2026-11-23
 7,"Vatican, Catechism of the Catholic Church, 1554–1571",https://www.vatican.va/archive/ENG0015/__P4U.HTM,2026-11-24
 7,"Vatican, Catechism of the Catholic Church, 1577–1580",https://www.vatican.va/archive/ENG0015/__P4X.HTM,2026-11-23
@@ -522,6 +569,8 @@ score,title,url,verified
 7,"Vatican, Catechism of the Catholic Church, 1790–1794: Erroneous judgment",https://www.vatican.va/archive/ENG0015/__P62.HTM,2026-11-23
 7,"Vatican, Catechism of the Catholic Church, 1812–1829",https://www.vatican.va/archive/ENG0015/__P66.HTM,2026-11-23
 7,"Vatican, Catechism of the Catholic Church, 1830–1832: The gifts and fruits of the Holy Spirit",https://www.vatican.va/archive/ENG0015/__P67.HTM,2026-11-23
+7,"Vatican, Catechism of the Catholic Church, 1846–1848",https://www.vatican.va/archive/ENG0015/__P69.HTM,2026-11-24
+7,"Vatican, Catechism of the Catholic Church, 1854–1864",https://www.vatican.va/archive/ENG0015/__P6C.HTM,2026-11-24
 7,"Vatican, Catechism of the Catholic Church, 1878–1885: The communal character of the human vocation",https://www.vatican.va/archive/ENG0015/__P6G.HTM,2026-11-23
 7,"Vatican, Catechism of the Catholic Church, 1905–1912: The common good",https://www.vatican.va/archive/ENG0015/__P6K.HTM,2026-11-23
 7,"Vatican, Catechism of the Catholic Church, 1929–1933",https://www.vatican.va/archive/ENG0015/__P6O.HTM,2026-11-23
@@ -580,6 +629,7 @@ score,title,url,verified
 7,"Vatican, Catechism of the Catholic Church, 484–511",https://www.vatican.va/archive/ENG0015/__P1K.HTM,2026-11-23
 7,"Vatican, Catechism of the Catholic Church, 512–560",https://www.vatican.va/archive/ENG0015/__P1L.HTM,2026-11-24
 7,"Vatican, Catechism of the Catholic Church, 595–623",https://www.vatican.va/archive/ENG0015/__P1O.HTM,2026-11-23
+7,"Vatican, Catechism of the Catholic Church, 632–637",https://www.vatican.va/archive/ENG0015/__P1R.HTM,2026-11-24
 7,"Vatican, Catechism of the Catholic Church, 638–658",https://www.vatican.va/archive/ENG0015/__P1S.HTM,2026-11-23
 7,"Vatican, Catechism of the Catholic Church, 659–664",https://www.vatican.va/archive/ENG0015/__P1T.HTM,2026-11-23
 7,"Vatican, Catechism of the Catholic Church, 65–67: Christ Jesus, mediator and fullness of all Revelation",https://www.vatican.va/archive/ENG0015/__PH.HTM,2026-11-23
@@ -630,31 +680,51 @@ score,title,url,verified
 6,"Baptist Union of Great Britain, Project Violet",https://www.baptist.org.uk/Groups/363245/Project_Violet.aspx,2026-11-23
 6,"Baptist Union of Great Britain, Who are Baptists?",https://www.baptist.org.uk/Groups/437957/Who_are_Baptists.aspx,2026-11-23
 6,"Bar and Bench, Church dispute: Supreme Court asks Jacobites to obey 2017 verdict, hand over churches to Orthodox faction (3 December 2024)",https://www.barandbench.com/news/church-dispute-supreme-court-jacobites-2017-verdict-hand-over-churches-orthodox,2026-11-23
+6,"Bible Odyssey, Andrew M. Mbuvi, Use of Apocryphal Writing in Jude",https://www.bibleodyssey.org/articles/use-of-apocryphal-writing-in-jude/,2026-11-24
 6,"Bible Odyssey, Andrew McGowan, Eucharist",https://www.bibleodyssey.org/articles/eucharist/,2026-11-24
 6,"Bible Odyssey, Caroline Johnson Hodge, The Corinthian Letters",https://www.bibleodyssey.org/articles/the-corinthian-letters/,2026-11-24
+6,"Bible Odyssey, David Frankfurter, The Seven Cities of Revelation",https://www.bibleodyssey.org/articles/the-seven-cities-of-revelation/,2026-11-24
 6,"Bible Odyssey, David G. Horrell, Corinth",https://www.bibleodyssey.org/articles/corinth/,2026-11-24
 6,"Bible Odyssey, F. Scott Spencer, Pentecost in the Book of Acts",https://www.bibleodyssey.org/articles/pentecost-in-the-book-of-acts/,2026-11-24
 6,"Bible Odyssey, Gordon Fee, First Corinthians' Love Passage",https://www.bibleodyssey.org/articles/first-corinthians-love-passage/,2026-11-24
 6,"Bible Odyssey, Graham H. Twelftree, The Holy Spirit in Luke-Acts",https://www.bibleodyssey.org/articles/the-holy-spirit-in-luke-acts/,2026-11-24
+6,"Bible Odyssey, Herbert R. Marbury, The Legacy of the Bible in Justifying Slavery",https://www.bibleodyssey.org/articles/the-legacy-of-the-bible-in-justifying-slavery/,2026-11-24
+6,"Bible Odyssey, Ian Boxall, Patmos",https://www.bibleodyssey.org/articles/patmos/,2026-11-24
+6,"Bible Odyssey, J. Albert Harrill, Destruction by Fire (2 Peter 3)",https://www.bibleodyssey.org/articles/destruction-by-fire-2-peter-3/,2026-11-24
+6,"Bible Odyssey, Jacqueline Hidalgo, What Is an Apocalypse?",https://www.bibleodyssey.org/articles/what-is-an-apocalypse/,2026-11-24
+6,"Bible Odyssey, Jeremy F. Hultin, 2 Peter",https://www.bibleodyssey.org/articles/2-peter/,2026-11-24
+6,"Bible Odyssey, Joel B. Green, 1 Peter",https://www.bibleodyssey.org/articles/1-peter/,2026-11-24
+6,"Bible Odyssey, Katy E. Valentine, Slavery in the New Testament",https://www.bibleodyssey.org/articles/slavery-in-the-new-testament/,2026-11-24
+6,"Bible Odyssey, Kelley Coblentz Bautch, Enoch",https://www.bibleodyssey.org/articles/enoch/,2026-11-24
 6,"Bible Odyssey, Lee Martin McDonald, The New Testament Canon",https://www.bibleodyssey.org/articles/the-new-testament-canon/,2026-11-23
+6,"Bible Odyssey, Lorenzo DiTommaso, Apocalyptic Thought after Revelation",https://www.bibleodyssey.org/articles/apocalyptic-thought-after-revelation/,2026-11-24
+6,"Bible Odyssey, M. David Litwa, Theosis/Deification in the New Testament",https://www.bibleodyssey.org/articles/theosis-deification-in-the-new-testament/,2026-11-24
 6,"Bible Odyssey, Meghan Henning, Disabilities in the Bible",https://www.bibleodyssey.org/articles/disabilities-in-the-bible/,2026-11-24
 6,"Bible Odyssey, Paul",https://www.bibleodyssey.org/articles/paul/,2026-11-24
 6,"Bible Odyssey, Paul Anderson, The Johannine Community",https://www.bibleodyssey.org/articles/the-johannine-community/,2026-11-24
 6,"Bible Odyssey, Pseudepigraphy",https://www.bibleodyssey.org/articles/pseudepigraphy/,2026-11-24
+6,"Bible Odyssey, Revelation to John, The (HarperCollins Bible Dictionary)",https://www.bibleodyssey.org/dictionary/revelation-to-john-the/,2026-11-24
 6,"Bible Odyssey, Robert C. Tannehill, The Magnificat",https://www.bibleodyssey.org/articles/the-magnificat/,2026-11-24
 6,"Bible Odyssey, The Apostle Matthew",https://www.bibleodyssey.org/articles/the-apostle-matthew/,2026-11-24
 6,"Bible Odyssey, The New Perspective on Paul",https://www.bibleodyssey.org/articles/the-new-perspective-on-paul/,2026-11-24
 6,"Bible Odyssey, Warren Carter, Antioch and the Gospel of Matthew",https://www.bibleodyssey.org/articles/antioch-and-the-gospel-of-matthew/,2026-11-24
 6,"BibleProject, 1 Corinthians (overview video)",https://bibleproject.com/videos/1-corinthians/,2026-11-24
+6,"BibleProject, 1 Peter (overview video)",https://bibleproject.com/videos/1-peter/,2026-11-24
 6,"BibleProject, 1 Thessalonians (overview video)",https://bibleproject.com/videos/1-thessalonians/,2026-11-24
+6,"BibleProject, 1 Timothy (overview video)",https://bibleproject.com/videos/1-timothy/,2026-11-24
+6,"BibleProject, 1–3 John",https://bibleproject.com/videos/1-3-john/,2026-11-24
 6,"BibleProject, 2 Corinthians (overview video)",https://bibleproject.com/videos/2-corinthians/,2026-11-24
+6,"BibleProject, 2 Peter (overview video)",https://bibleproject.com/videos/2-peter/,2026-11-24
 6,"BibleProject, 2 Thessalonians (overview video)",https://bibleproject.com/videos/2-thessalonians/,2026-11-24
+6,"BibleProject, 2 Timothy (overview video)",https://bibleproject.com/videos/2-timothy/,2026-11-24
 6,"BibleProject, Acts 13–28 (overview video)",https://bibleproject.com/videos/acts-13-28/,2026-11-24
 6,"BibleProject, Acts 1–12 (overview video)",https://bibleproject.com/videos/acts-1-12/,2026-11-24
 6,"BibleProject, Agape / Love",https://bibleproject.com/videos/agape-love/,2026-11-23
 6,"BibleProject, Ahavah / Love",https://bibleproject.com/videos/ahavah-love/,2026-11-23
 6,"BibleProject, BibleProject",https://bibleproject.com/,2026-11-23
 6,"BibleProject, Book of Proverbs Summary",https://bibleproject.com/videos/proverbs/,2026-11-23
+6,"BibleProject, Book of Revelation, Part 1",https://bibleproject.com/videos/revelation-1-11/,2026-11-24
+6,"BibleProject, Book of Revelation, Part 2",https://bibleproject.com/videos/revelation-12-22/,2026-11-24
 6,"BibleProject, Colossians (overview video)",https://bibleproject.com/videos/colossians/,2026-11-24
 6,"BibleProject, Ephesians (overview video)",https://bibleproject.com/videos/ephesians/,2026-11-24
 6,"BibleProject, Galatians (overview video)",https://bibleproject.com/videos/galatians/,2026-11-24
@@ -663,14 +733,17 @@ score,title,url,verified
 6,"BibleProject, Gospel of John (Part 2)",https://bibleproject.com/videos/john-13-21/,2026-11-24
 6,"BibleProject, Gospel of Matthew, Part 1 (Matthew 1–13)",https://bibleproject.com/videos/matthew-1-13/,2026-11-24
 6,"BibleProject, Gospel of Matthew, Part 2 (Matthew 14–28)",https://bibleproject.com/videos/matthew-14-28/,2026-11-24
+6,"BibleProject, Hebrews (overview video)",https://bibleproject.com/videos/hebrews/,2026-11-24
 6,"BibleProject, How to Read the Bible (video series)",https://bibleproject.com/videos/collections/how-to-read-the-bible/,2026-11-23
 6,"BibleProject, Image of God",https://bibleproject.com/videos/image-of-god/,2026-11-23
 6,"BibleProject, James (overview video)",https://bibleproject.com/videos/james/,2026-11-23
 6,"BibleProject, Job (overview video)",https://bibleproject.com/videos/job/,2026-11-23
+6,"BibleProject, Jude (overview video)",https://bibleproject.com/videos/jude/,2026-11-24
 6,"BibleProject, Justice",https://bibleproject.com/videos/justice/,2026-11-23
 6,"BibleProject, Luke 10–24 (overview video)",https://bibleproject.com/videos/luke-10-24/,2026-11-24
 6,"BibleProject, Luke 1–9 (overview video)",https://bibleproject.com/videos/luke-1-9/,2026-11-24
 6,"BibleProject, Mark (overview video)",https://bibleproject.com/videos/mark/,2026-11-24
+6,"BibleProject, Philemon (overview video)",https://bibleproject.com/videos/philemon/,2026-11-24
 6,"BibleProject, Philippians (overview video)",https://bibleproject.com/videos/philippians/,2026-11-24
 6,"BibleProject, Romans 1–4 (overview video)",https://bibleproject.com/videos/romans-1-4/,2026-11-24
 6,"BibleProject, Romans 5–16 (overview video)",https://bibleproject.com/videos/romans-5-16/,2026-11-24
@@ -678,10 +751,12 @@ score,title,url,verified
 6,"BibleProject, The Deuterocanon / Apocrypha",https://bibleproject.com/videos/deuterocanon-apocrypha-overview/,2026-11-23
 6,"BibleProject, The Holy Spirit",https://bibleproject.com/videos/holy-spirit/,2026-11-23
 6,"BibleProject, The Lord's Prayer",https://bibleproject.com/videos/lords-prayer/,2026-11-23
+6,"BibleProject, Titus (overview video)",https://bibleproject.com/videos/titus/,2026-11-24
 6,"BibleProject, Who is God?",https://bibleproject.com/videos/god-video/,2026-11-23
 6,"BookOfConcord.org, About the Translation",https://bookofconcord.org/about-the-translation/,2026-11-23
 6,"BookOfConcord.org, The Lutheran Confessions: What Are They?",https://bookofconcord.org/other-resources/what-are-the-confessions/,2026-11-23
 6,"Brethren in Christ U.S., Our History",https://bicus.org/about/history/,2026-11-23
+6,"Christian Classics Ethereal Library, John Calvin, Commentaries on the Catholic Epistles: 2 Peter 1:1–4",https://www.ccel.org/ccel/calvin/calcom45.vii.ii.i.html,2026-11-24
 6,"Christian Classics Ethereal Library, John Calvin, Commentary on Psalms, Volume 1: The Author's Preface",https://www.ccel.org/ccel/calvin/calcom08.vi.html,2026-11-23
 6,"Christian Reformed Church in North America, Confessions",https://www.crcna.org/welcome/beliefs/confessions,2026-11-23
 6,"Christian Reformed Church in North America, Introduction to the Reformed Confessions Translation (2011)",https://www.crcna.org/welcome/beliefs/introduction-reformed-confessions-translation-2011,2026-11-23
@@ -695,6 +770,7 @@ score,title,url,verified
 6,"Coptic Orthodox Diocese of the Midlands, UK, Love Your Enemies",https://ukmidcopts.org/resources/spiritual-articles/love-your-enemies/,2026-11-23
 6,"Ethiopian Orthodox Tewahedo Church, Fundamental Dogmas in the Nicaean Creed",https://www.ethiopianorthodox.org/english/dogma/niceancreed.html,2026-11-23
 6,"Ethiopian Orthodox Tewahedo Church, Religious Holidays and Calendar",https://www.ethiopianorthodox.org/english/calendar.html,2026-11-23
+6,"Galaxie Software, Michael J. Kruger, The Authenticity of 2 Peter (Journal of the Evangelical Theological Society 42:4, 1999, opening pages)",https://www.galaxie.com/article/jets42-4-04,2026-11-24
 6,"Global Methodist Church, Our Beliefs & Governance",https://www.globalmethodist.org/our-beliefs---governance,2026-11-23
 6,"Holy and Great Council of the Orthodox Church, Churches",https://www.holycouncil.org/churches,2026-11-23
 6,"IgnatianSpirituality.com, An Approach to Good Choices",https://www.ignatianspirituality.com/making-good-decisions/an-approach-to-good-choices/,2026-11-23
@@ -709,6 +785,7 @@ score,title,url,verified
 6,"Lutheran World Federation, Women and Gender studies",https://lutheranworld.org/what-we-do/theology/women-and-gender-studies,2026-11-23
 6,"Mennonite Central Committee, About MCC",https://mcc.org/about,2026-11-23
 6,"Methodist Church in Britain, The Methodist Church in Great Britain celebrates 50 years of women's ordination as presbyters",https://www.methodist.org.uk/about/news/the-methodist-church-in-great-britain-celebrates-50-years-of-womens-ordination-as-ministers/,2026-11-23
+6,"Orthodox Church in America, Questions and Answers: Book of Revelation",https://www.oca.org/questions/scripture/book-of-revelation,2026-11-24
 6,"Orthodox Church in America, Questions and Answers: Ordination of Women",https://www.oca.org/questions/priesthoodmonasticism/ordination-of-women,2026-11-24
 6,"Orthodox Church in America, The Orthodox Faith: Old Testament, Wisdom",https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/old-testament/wisdom,2026-11-23
 6,"Orthodox Presbyterian Church, Confession and Catechisms",https://www.opc.org/confessions.html,2026-11-23
