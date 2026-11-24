@@ -19,7 +19,7 @@ The USCCB introduction divides the letter into an address, the crisis between Pa
 
 | Passage | Contents |
 | --- | --- |
-| [2 Corinthians 1:1–11](https://ebible.org/eng-webbe/2CO01.htm#V1) | Greeting, and praise of "the God of all comfort" for rescue in affliction. |
+| [2 Corinthians 1:1–11](https://ebible.org/eng-webbe/2CO01.htm#V1) | Greeting, and praise of the "God of all comfort" for rescue in affliction. |
 | [2 Corinthians 1:12–2:13](https://ebible.org/eng-webbe/2CO01.htm#V12) | Past relations: Paul's change of travel plans, the letter written "with many tears", and forgiving the offender. |
 | [2 Corinthians 2:14–4:6](https://ebible.org/eng-webbe/2CO02.htm#V14) | A ministry of glory: the new covenant, "not of the letter but of the Spirit". |
 | [2 Corinthians 4:7–5:10](https://ebible.org/eng-webbe/2CO04.htm#V7) | A ministry of life: treasure in clay vessels, and the hope of a dwelling from God. |
@@ -38,7 +38,7 @@ What the book teaches about God, faith and life, in the order the book develops 
 
 | Theme | What the book says | Related rules | Passages |
 | --- | --- | --- | --- |
-| Comfort in affliction | Paul blesses "the God of all comfort, who comforts us in all our affliction, that we may be able to comfort those who are in any affliction". | `HOPE-1`, `HOPE-2` | [2 Corinthians 1:3–7](https://ebible.org/eng-webbe/2CO01.htm#V3) |
+| Comfort in affliction | Paul blesses God, "the Father of mercies and God of all comfort, who comforts us in all our affliction, that we may be able to comfort those who are in any affliction". | `HOPE-1`, `HOPE-2` | [2 Corinthians 1:3–7](https://ebible.org/eng-webbe/2CO01.htm#V3) |
 | Forgiving and restoring the offender | After the church has punished someone who caused pain, Paul asks them to "forgive him and comfort him", so that he is not "swallowed up with his excessive sorrow", and to confirm their love for him. | `FORG-1`, `FORG-6` | [2 Corinthians 2:5–11](https://ebible.org/eng-webbe/2CO02.htm#V5) |
 | The new covenant | Paul calls himself a servant "of a new covenant, not of the letter but of the Spirit. For the letter kills, but the Spirit gives life." | | [2 Corinthians 3:4–18](https://ebible.org/eng-webbe/2CO03.htm#V4) |
 | Ministry without deception | Paul says he refuses to walk "in craftiness" or handle "the word of God deceitfully": "we don't preach ourselves, but Christ Jesus as Lord, and ourselves as your servants". | `MISS-2`, `MISS-3` | [2 Corinthians 4:1–6](https://ebible.org/eng-webbe/2CO04.htm#V1) |
