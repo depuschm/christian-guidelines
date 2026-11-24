@@ -48,7 +48,7 @@ Every book, in the order of the canon, with the number of its chapters in the WE
 
 ### Old Testament
 
-39 books, 33 with a guide page so far.
+39 books, 39 with a guide page so far.
 
 #### Law (Pentateuch)
 
@@ -107,12 +107,12 @@ Every book, in the order of the canon, with the number of its chapters in the WE
 | Obadiah | 1 | [Obadiah](old-testament/obadiah.md) | [Obadiah](https://ebible.org/eng-webbe/OBA.htm) |
 | Jonah | 4 | [Jonah](old-testament/jonah.md) | [Jonah](https://ebible.org/eng-webbe/JON.htm) |
 | Micah | 7 | [Micah](old-testament/micah.md) | [Micah](https://ebible.org/eng-webbe/MIC.htm) |
-| Nahum | 3 | Not written yet | [Nahum](https://ebible.org/eng-webbe/NAM.htm) |
-| Habakkuk | 3 | Not written yet | [Habakkuk](https://ebible.org/eng-webbe/HAB.htm) |
-| Zephaniah | 3 | Not written yet | [Zephaniah](https://ebible.org/eng-webbe/ZEP.htm) |
-| Haggai | 2 | Not written yet | [Haggai](https://ebible.org/eng-webbe/HAG.htm) |
-| Zechariah | 14 | Not written yet | [Zechariah](https://ebible.org/eng-webbe/ZEC.htm) |
-| Malachi | 4 | Not written yet | [Malachi](https://ebible.org/eng-webbe/MAL.htm) |
+| Nahum | 3 | [Nahum](old-testament/nahum.md) | [Nahum](https://ebible.org/eng-webbe/NAM.htm) |
+| Habakkuk | 3 | [Habakkuk](old-testament/habakkuk.md) | [Habakkuk](https://ebible.org/eng-webbe/HAB.htm) |
+| Zephaniah | 3 | [Zephaniah](old-testament/zephaniah.md) | [Zephaniah](https://ebible.org/eng-webbe/ZEP.htm) |
+| Haggai | 2 | [Haggai](old-testament/haggai.md) | [Haggai](https://ebible.org/eng-webbe/HAG.htm) |
+| Zechariah | 14 | [Zechariah](old-testament/zechariah.md) | [Zechariah](https://ebible.org/eng-webbe/ZEC.htm) |
+| Malachi | 4 | [Malachi](old-testament/malachi.md) | [Malachi](https://ebible.org/eng-webbe/MAL.htm) |
 
 ### Deuterocanon
 
