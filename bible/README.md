@@ -48,7 +48,7 @@ Every book, in the order of the canon, with the number of its chapters in the WE
 
 ### Old Testament
 
-39 books, 22 with a guide page so far.
+39 books, 27 with a guide page so far.
 
 #### Law (Pentateuch)
 
@@ -91,11 +91,11 @@ Every book, in the order of the canon, with the number of its chapters in the WE
 
 | Book | Chapters | Guide | Text |
 | --- | --- | --- | --- |
-| Isaiah | 66 | Not written yet | [Isaiah](https://ebible.org/eng-webbe/ISA.htm) |
-| Jeremiah | 52 | Not written yet | [Jeremiah](https://ebible.org/eng-webbe/JER.htm) |
-| Lamentations | 5 | Not written yet | [Lamentations](https://ebible.org/eng-webbe/LAM.htm) |
-| Ezekiel | 48 | Not written yet | [Ezekiel](https://ebible.org/eng-webbe/EZK.htm) |
-| Daniel | 12 | Not written yet | [Daniel](https://ebible.org/eng-webbe/DAN.htm) |
+| Isaiah | 66 | [Isaiah](old-testament/isaiah.md) | [Isaiah](https://ebible.org/eng-webbe/ISA.htm) |
+| Jeremiah | 52 | [Jeremiah](old-testament/jeremiah.md) | [Jeremiah](https://ebible.org/eng-webbe/JER.htm) |
+| Lamentations | 5 | [Lamentations](old-testament/lamentations.md) | [Lamentations](https://ebible.org/eng-webbe/LAM.htm) |
+| Ezekiel | 48 | [Ezekiel](old-testament/ezekiel.md) | [Ezekiel](https://ebible.org/eng-webbe/EZK.htm) |
+| Daniel | 12 | [Daniel](old-testament/daniel.md) | [Daniel](https://ebible.org/eng-webbe/DAN.htm) |
 
 #### Minor prophets
 
