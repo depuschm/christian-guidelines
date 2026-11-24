@@ -150,7 +150,7 @@ Every book, in the order of the canon, with the number of its chapters in the WE
 
 ### New Testament
 
-27 books, 7 with a guide page so far.
+27 books, 15 with a guide page so far.
 
 #### Gospels
 
@@ -172,14 +172,14 @@ Every book, in the order of the canon, with the number of its chapters in the WE
 | Book | Chapters | Guide | Text |
 | --- | --- | --- | --- |
 | Romans | 16 | [Romans](new-testament/romans.md) | [Romans](https://ebible.org/eng-webbe/ROM.htm) |
-| 1 Corinthians | 16 | Not written yet | [1 Corinthians](https://ebible.org/eng-webbe/1CO.htm) |
-| 2 Corinthians | 13 | Not written yet | [2 Corinthians](https://ebible.org/eng-webbe/2CO.htm) |
-| Galatians | 6 | Not written yet | [Galatians](https://ebible.org/eng-webbe/GAL.htm) |
-| Ephesians | 6 | Not written yet | [Ephesians](https://ebible.org/eng-webbe/EPH.htm) |
-| Philippians | 4 | Not written yet | [Philippians](https://ebible.org/eng-webbe/PHP.htm) |
-| Colossians | 4 | Not written yet | [Colossians](https://ebible.org/eng-webbe/COL.htm) |
-| 1 Thessalonians | 5 | Not written yet | [1 Thessalonians](https://ebible.org/eng-webbe/1TH.htm) |
-| 2 Thessalonians | 3 | Not written yet | [2 Thessalonians](https://ebible.org/eng-webbe/2TH.htm) |
+| 1 Corinthians | 16 | [1 Corinthians](new-testament/1-corinthians.md) | [1 Corinthians](https://ebible.org/eng-webbe/1CO.htm) |
+| 2 Corinthians | 13 | [2 Corinthians](new-testament/2-corinthians.md) | [2 Corinthians](https://ebible.org/eng-webbe/2CO.htm) |
+| Galatians | 6 | [Galatians](new-testament/galatians.md) | [Galatians](https://ebible.org/eng-webbe/GAL.htm) |
+| Ephesians | 6 | [Ephesians](new-testament/ephesians.md) | [Ephesians](https://ebible.org/eng-webbe/EPH.htm) |
+| Philippians | 4 | [Philippians](new-testament/philippians.md) | [Philippians](https://ebible.org/eng-webbe/PHP.htm) |
+| Colossians | 4 | [Colossians](new-testament/colossians.md) | [Colossians](https://ebible.org/eng-webbe/COL.htm) |
+| 1 Thessalonians | 5 | [1 Thessalonians](new-testament/1-thessalonians.md) | [1 Thessalonians](https://ebible.org/eng-webbe/1TH.htm) |
+| 2 Thessalonians | 3 | [2 Thessalonians](new-testament/2-thessalonians.md) | [2 Thessalonians](https://ebible.org/eng-webbe/2TH.htm) |
 | 1 Timothy | 6 | Not written yet | [1 Timothy](https://ebible.org/eng-webbe/1TI.htm) |
 | 2 Timothy | 4 | Not written yet | [2 Timothy](https://ebible.org/eng-webbe/2TI.htm) |
 | Titus | 3 | Not written yet | [Titus](https://ebible.org/eng-webbe/TIT.htm) |
