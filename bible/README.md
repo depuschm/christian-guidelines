@@ -48,7 +48,7 @@ Every book, in the order of the canon, with the number of its chapters in the WE
 
 ### Old Testament
 
-39 books, 10 with a guide page so far.
+39 books, 17 with a guide page so far.
 
 #### Law (Pentateuch)
 
@@ -69,13 +69,13 @@ Every book, in the order of the canon, with the number of its chapters in the WE
 | Ruth | 4 | [Ruth](old-testament/ruth.md) | [Ruth](https://ebible.org/eng-webbe/RUT.htm) |
 | 1 Samuel | 31 | [1 Samuel](old-testament/1-samuel.md) | [1 Samuel](https://ebible.org/eng-webbe/1SA.htm) |
 | 2 Samuel | 24 | [2 Samuel](old-testament/2-samuel.md) | [2 Samuel](https://ebible.org/eng-webbe/2SA.htm) |
-| 1 Kings | 22 | Not written yet | [1 Kings](https://ebible.org/eng-webbe/1KI.htm) |
-| 2 Kings | 25 | Not written yet | [2 Kings](https://ebible.org/eng-webbe/2KI.htm) |
-| 1 Chronicles | 29 | Not written yet | [1 Chronicles](https://ebible.org/eng-webbe/1CH.htm) |
-| 2 Chronicles | 36 | Not written yet | [2 Chronicles](https://ebible.org/eng-webbe/2CH.htm) |
-| Ezra | 10 | Not written yet | [Ezra](https://ebible.org/eng-webbe/EZR.htm) |
-| Nehemiah | 13 | Not written yet | [Nehemiah](https://ebible.org/eng-webbe/NEH.htm) |
-| Esther | 10 | Not written yet | [Esther](https://ebible.org/eng-webbe/EST.htm) |
+| 1 Kings | 22 | [1 Kings](old-testament/1-kings.md) | [1 Kings](https://ebible.org/eng-webbe/1KI.htm) |
+| 2 Kings | 25 | [2 Kings](old-testament/2-kings.md) | [2 Kings](https://ebible.org/eng-webbe/2KI.htm) |
+| 1 Chronicles | 29 | [1 Chronicles](old-testament/1-chronicles.md) | [1 Chronicles](https://ebible.org/eng-webbe/1CH.htm) |
+| 2 Chronicles | 36 | [2 Chronicles](old-testament/2-chronicles.md) | [2 Chronicles](https://ebible.org/eng-webbe/2CH.htm) |
+| Ezra | 10 | [Ezra](old-testament/ezra.md) | [Ezra](https://ebible.org/eng-webbe/EZR.htm) |
+| Nehemiah | 13 | [Nehemiah](old-testament/nehemiah.md) | [Nehemiah](https://ebible.org/eng-webbe/NEH.htm) |
+| Esther | 10 | [Esther](old-testament/esther.md) | [Esther](https://ebible.org/eng-webbe/EST.htm) |
 
 #### Wisdom and poetry
 
