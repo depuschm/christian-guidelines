@@ -150,7 +150,7 @@ Every book, in the order of the canon, with the number of its chapters in the WE
 
 ### New Testament
 
-27 books, 15 with a guide page so far.
+27 books, 27 with a guide page so far.
 
 #### Gospels
 
@@ -180,28 +180,28 @@ Every book, in the order of the canon, with the number of its chapters in the WE
 | Colossians | 4 | [Colossians](new-testament/colossians.md) | [Colossians](https://ebible.org/eng-webbe/COL.htm) |
 | 1 Thessalonians | 5 | [1 Thessalonians](new-testament/1-thessalonians.md) | [1 Thessalonians](https://ebible.org/eng-webbe/1TH.htm) |
 | 2 Thessalonians | 3 | [2 Thessalonians](new-testament/2-thessalonians.md) | [2 Thessalonians](https://ebible.org/eng-webbe/2TH.htm) |
-| 1 Timothy | 6 | Not written yet | [1 Timothy](https://ebible.org/eng-webbe/1TI.htm) |
-| 2 Timothy | 4 | Not written yet | [2 Timothy](https://ebible.org/eng-webbe/2TI.htm) |
-| Titus | 3 | Not written yet | [Titus](https://ebible.org/eng-webbe/TIT.htm) |
-| Philemon | 1 | Not written yet | [Philemon](https://ebible.org/eng-webbe/PHM.htm) |
+| 1 Timothy | 6 | [1 Timothy](new-testament/1-timothy.md) | [1 Timothy](https://ebible.org/eng-webbe/1TI.htm) |
+| 2 Timothy | 4 | [2 Timothy](new-testament/2-timothy.md) | [2 Timothy](https://ebible.org/eng-webbe/2TI.htm) |
+| Titus | 3 | [Titus](new-testament/titus.md) | [Titus](https://ebible.org/eng-webbe/TIT.htm) |
+| Philemon | 1 | [Philemon](new-testament/philemon.md) | [Philemon](https://ebible.org/eng-webbe/PHM.htm) |
 
 #### Hebrews and the general letters
 
 | Book | Chapters | Guide | Text |
 | --- | --- | --- | --- |
-| Hebrews | 13 | Not written yet | [Hebrews](https://ebible.org/eng-webbe/HEB.htm) |
+| Hebrews | 13 | [Hebrews](new-testament/hebrews.md) | [Hebrews](https://ebible.org/eng-webbe/HEB.htm) |
 | James | 5 | [James](new-testament/james.md) | [James](https://ebible.org/eng-webbe/JAS.htm) |
-| 1 Peter | 5 | Not written yet | [1 Peter](https://ebible.org/eng-webbe/1PE.htm) |
-| 2 Peter | 3 | Not written yet | [2 Peter](https://ebible.org/eng-webbe/2PE.htm) |
-| 1 John | 5 | Not written yet | [1 John](https://ebible.org/eng-webbe/1JN.htm) |
-| 2 John | 1 | Not written yet | [2 John](https://ebible.org/eng-webbe/2JN.htm) |
-| 3 John | 1 | Not written yet | [3 John](https://ebible.org/eng-webbe/3JN.htm) |
-| Jude | 1 | Not written yet | [Jude](https://ebible.org/eng-webbe/JUD.htm) |
+| 1 Peter | 5 | [1 Peter](new-testament/1-peter.md) | [1 Peter](https://ebible.org/eng-webbe/1PE.htm) |
+| 2 Peter | 3 | [2 Peter](new-testament/2-peter.md) | [2 Peter](https://ebible.org/eng-webbe/2PE.htm) |
+| 1 John | 5 | [1 John](new-testament/1-john.md) | [1 John](https://ebible.org/eng-webbe/1JN.htm) |
+| 2 John | 1 | [2 John](new-testament/2-john.md) | [2 John](https://ebible.org/eng-webbe/2JN.htm) |
+| 3 John | 1 | [3 John](new-testament/3-john.md) | [3 John](https://ebible.org/eng-webbe/3JN.htm) |
+| Jude | 1 | [Jude](new-testament/jude.md) | [Jude](https://ebible.org/eng-webbe/JUD.htm) |
 
 #### Revelation
 
 | Book | Chapters | Guide | Text |
 | --- | --- | --- | --- |
-| Revelation | 22 | Not written yet | [Revelation](https://ebible.org/eng-webbe/REV.htm) |
+| Revelation | 22 | [Revelation](new-testament/revelation.md) | [Revelation](https://ebible.org/eng-webbe/REV.htm) |
 
 <!-- books:end -->
