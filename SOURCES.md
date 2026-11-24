@@ -1138,7 +1138,7 @@ Each counts as a source with score 7, and `python3 scripts/bible_refs.py check` 
 
 ## Further reading (1–5)
 
-7 sources.
+6 sources.
 
 | Score | Source | Used in | Verified |
 | --- | --- | --- | --- |
@@ -1147,5 +1147,4 @@ Each counts as a source with score 7, and `python3 scripts/bible_refs.py check` 
 | 5 | [Kairos Prison Ministry International, About Kairos Prison Ministry](https://kairosprisonministry.org/about-us/) | [general/justice](general/justice.md) | 2026-11-23 |
 | 5 | [Lombard Mennonite Peace Center, Home](https://www.lmpeacecenter.org/) | [general/public-life](general/public-life.md) | 2026-11-23 |
 | 5 | [Lutheran Church–Missouri Synod, Michigan District, Harry C. Henneman, Whose Blessing is it?](https://www.michigandistrict.org/resources/blog/whose-blessing) | [bible/old-testament/numbers](bible/old-testament/numbers.md) | 2026-11-24 |
-| 5 | [The Christian Post, Shane Idleman, Why 2 Chronicles 7:14 applies to modern America](https://www.christianpost.com/voices/why-2-chronicles-714-applies-to-modern-america.html) | [bible/old-testament/2-chronicles](bible/old-testament/2-chronicles.md) | 2026-11-24 |
 | 5 | [Utrecht University, A Brief History of the Reformed Orthodox Calendar](https://webspace.science.uu.nl/~gent0113/easter/easter_text5d.htm) | [traditions/eastern-orthodox](traditions/eastern-orthodox.md) | 2026-11-23 |
