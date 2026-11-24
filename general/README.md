@@ -37,6 +37,13 @@ If you only read three sources beyond the Bible, read these:
 - [Justice and the poor](justice.md): defending the poor and the stranger, equal dignity, honest justice, welcoming migrants, just structures, and care for prisoners.
 - [Care for creation](creation.md): caring for the earth, simple living, pollution and the natural world, animals, praise for creation, and fair shares for future generations.
 
-### Planned
+### Hope, witness and public life
 
-More topics will follow, each with its own rule prefix: suffering and hope, sharing the faith, public life, and discernment. A reading list will gather books, courses and complete guides.
+- [Suffering, death and hope](suffering.md): trusting God in suffering, comforting the grieving, caring for the sick and dying, grieving with hope, preparing for death, and taking thoughts of suicide seriously.
+- [Sharing the faith](mission.md): sharing the good news in word and deed, without pressure or manipulation, living what you say, respecting other faiths, serving without strings, and supporting mission.
+- [Public life and citizenship](public-life.md): respect and prayer for those in authority, just laws and taxes, obeying God first, peacemaking, religious freedom for all, and taking part in public life.
+- [Discernment and decisions](discernment.md): praying for wisdom, testing choices against Scripture and church teaching, forming and following conscience, seeking advice, looking at the fruit, and caring for those affected.
+
+### Further reading
+
+- [Reading list](reading-list.md): the churches' complete guides, introductions to the Bible, free courses, classics of Christian writing, and church history.
