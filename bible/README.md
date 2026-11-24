@@ -48,7 +48,7 @@ Every book, in the order of the canon, with the number of its chapters in the WE
 
 ### Old Testament
 
-39 books, 27 with a guide page so far.
+39 books, 33 with a guide page so far.
 
 #### Law (Pentateuch)
 
@@ -101,12 +101,12 @@ Every book, in the order of the canon, with the number of its chapters in the WE
 
 | Book | Chapters | Guide | Text |
 | --- | --- | --- | --- |
-| Hosea | 14 | Not written yet | [Hosea](https://ebible.org/eng-webbe/HOS.htm) |
-| Joel | 3 | Not written yet | [Joel](https://ebible.org/eng-webbe/JOL.htm) |
-| Amos | 9 | Not written yet | [Amos](https://ebible.org/eng-webbe/AMO.htm) |
-| Obadiah | 1 | Not written yet | [Obadiah](https://ebible.org/eng-webbe/OBA.htm) |
-| Jonah | 4 | Not written yet | [Jonah](https://ebible.org/eng-webbe/JON.htm) |
-| Micah | 7 | Not written yet | [Micah](https://ebible.org/eng-webbe/MIC.htm) |
+| Hosea | 14 | [Hosea](old-testament/hosea.md) | [Hosea](https://ebible.org/eng-webbe/HOS.htm) |
+| Joel | 3 | [Joel](old-testament/joel.md) | [Joel](https://ebible.org/eng-webbe/JOL.htm) |
+| Amos | 9 | [Amos](old-testament/amos.md) | [Amos](https://ebible.org/eng-webbe/AMO.htm) |
+| Obadiah | 1 | [Obadiah](old-testament/obadiah.md) | [Obadiah](https://ebible.org/eng-webbe/OBA.htm) |
+| Jonah | 4 | [Jonah](old-testament/jonah.md) | [Jonah](https://ebible.org/eng-webbe/JON.htm) |
+| Micah | 7 | [Micah](old-testament/micah.md) | [Micah](https://ebible.org/eng-webbe/MIC.htm) |
 | Nahum | 3 | Not written yet | [Nahum](https://ebible.org/eng-webbe/NAM.htm) |
 | Habakkuk | 3 | Not written yet | [Habakkuk](https://ebible.org/eng-webbe/HAB.htm) |
 | Zephaniah | 3 | Not written yet | [Zephaniah](https://ebible.org/eng-webbe/ZEP.htm) |
