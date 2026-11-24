@@ -60,4 +60,4 @@ Questions on which the churches or scholars disagree. These guidelines don't pic
 
 ## Tutorials and further reading
 
-- `6` [BibleProject, Philippians](https://bibleproject.com/videos/philippians/): an animated overview of the letter's structure and themes.
+- `6` [BibleProject, Philippians](https://bibleproject.com/videos/philippians/): an animated overview of the letter, which shows living as a Christian as an expression of Jesus' own story.
