@@ -48,7 +48,7 @@ Every book, in the order of the canon, with the number of its chapters in the WE
 
 ### Old Testament
 
-39 books, 17 with a guide page so far.
+39 books, 22 with a guide page so far.
 
 #### Law (Pentateuch)
 
@@ -81,11 +81,11 @@ Every book, in the order of the canon, with the number of its chapters in the WE
 
 | Book | Chapters | Guide | Text |
 | --- | --- | --- | --- |
-| Job | 42 | Not written yet | [Job](https://ebible.org/eng-webbe/JOB.htm) |
-| Psalms | 150 | Not written yet | [Psalms](https://ebible.org/eng-webbe/PSA.htm) |
-| Proverbs | 31 | Not written yet | [Proverbs](https://ebible.org/eng-webbe/PRO.htm) |
-| Ecclesiastes | 12 | Not written yet | [Ecclesiastes](https://ebible.org/eng-webbe/ECC.htm) |
-| Song of Songs | 8 | Not written yet | [Song of Songs](https://ebible.org/eng-webbe/SNG.htm) |
+| Job | 42 | [Job](old-testament/job.md) | [Job](https://ebible.org/eng-webbe/JOB.htm) |
+| Psalms | 150 | [Psalms](old-testament/psalms.md) | [Psalms](https://ebible.org/eng-webbe/PSA.htm) |
+| Proverbs | 31 | [Proverbs](old-testament/proverbs.md) | [Proverbs](https://ebible.org/eng-webbe/PRO.htm) |
+| Ecclesiastes | 12 | [Ecclesiastes](old-testament/ecclesiastes.md) | [Ecclesiastes](https://ebible.org/eng-webbe/ECC.htm) |
+| Song of Songs | 8 | [Song of Songs](old-testament/song-of-songs.md) | [Song of Songs](https://ebible.org/eng-webbe/SNG.htm) |
 
 #### Major prophets
 
