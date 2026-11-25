@@ -6,6 +6,7 @@ When a page introduces an abbreviation that readers may not know, add a row here
 
 | Abbreviation | Meaning | See |
 | --- | --- | --- |
+| ACT | ACT Alliance (Action by Churches Together), a global alliance of churches and church-related organisations working in humanitarian aid, development and advocacy | [Mission abroad and development](specific/missions/README.md) |
 | ADR | Architecture decision record: a short document that records one decision about this repository, with its reasons | [Decisions](docs/decisions/README.md) |
 | CHARIS | Catholic Charismatic Renewal International Service, the body the Holy See established to serve the charismatic renewal in the Catholic Church | [The Pentecostal and charismatic churches](traditions/pentecostal.md) |
 | CI | Continuous integration: the checks that run automatically on every change to this repository | [Contributing](CONTRIBUTING.md) |
