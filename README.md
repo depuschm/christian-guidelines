@@ -111,8 +111,11 @@ The [`skills/`](skills) folder uses the [Agent Skills](https://agentskills.io/sp
 | Skill | Use it to |
 | --- | --- |
 | [`ask-guidelines`](skills/ask-guidelines/SKILL.md) | Answer "what does the Bible say about X?", "what is this book about?" or "what do the churches teach?" with rule IDs, Bible references and sources, and each church's position where they differ |
-
-Planned: `bible-study` (study a passage in its context, with how the churches read it), `reading-plan` (plans for reading the whole Bible or part of it), `discernment-record` (work through a decision with Scripture, tradition, reason and experience), `rule-of-life` (build a personal or small-group rule of life, labelled with rule IDs) and `church-review` (review a church's safeguarding, finance and governance against the guidelines).
+| [`bible-study`](skills/bible-study/SKILL.md) | Prepare a study of a passage, for yourself or a group: its context, what it says, how the churches read it, the rules it bears on, and questions for discussion and prayer |
+| [`reading-plan`](skills/reading-plan/SKILL.md) | Make a plan for reading the whole Bible or part of it, in your church's canon, with even daily readings linked to the WEBBE (made by [`plan.py`](skills/reading-plan/plan.py)) |
+| [`discernment-record`](skills/discernment-record/SKILL.md) | Work through a decision prayerfully with the discernment rules and the churches' practices, and record it in a discernment record |
+| [`rule-of-life`](skills/rule-of-life/SKILL.md) | Write a realistic rule of life for a person, family or group, for a season or for ordinary time, each commitment labelled with its rule ID |
+| [`church-review`](skills/church-review/SKILL.md) | Review a church's safeguarding, leadership, money and accountability against the guidelines, in a findings report that cites each rule and its source |
 
 The skills come with [evals](evals/README.md) that compare runs with and without the plugin. They haven't been run against real models yet: start the **Skill evals** workflow once the repository has an `ANTHROPIC_API_KEY` secret.
 
@@ -133,14 +136,14 @@ The plugin has no fixed version, so every commit to `main` is a new release. To 
 
 ### Use with other agents
 
-Tools that read [`AGENTS.md`](AGENTS.md) or support Agent Skills can use the `skills/` folders directly. The skills find the guideline files relative to their own location (`../../general`, `../../bible`, `../../traditions`), so keep the repo layout intact.
+Tools that read [`AGENTS.md`](AGENTS.md) or support Agent Skills can use the `skills/` folders directly. The skills find the guideline files relative to their own location (`../../general`, `../../specific`, `../../bible`, `../../traditions`), so keep the repo layout intact.
 
 ## Roadmap
 
 1. **Foundations** (done): the repository's decisions, scoring criteria, templates, checks and website, the Bible reference tooling, and one page of each kind to prove the format: [Love of God and neighbour](general/love.md) and [James](bible/new-testament/james.md).
 2. **General topics and church pages** (done): eighteen topics, from the creeds to discernment, with 106 rules, a reading list, and ten church pages (Catholic, Eastern Orthodox, Oriental Orthodox, Lutheran, Reformed, Anglican, Methodist, Baptist, Pentecostal, Anabaptist).
 3. **Bible book pages** (done): a page for every book of the Bible, 81 in all: the 39 books of the Old Testament, the 27 of the New Testament and the 15 books and additions of the deuterocanon.
-4. **Areas of life, more skills and evals** (in progress): eight areas are written, from church leadership and safeguarding to healthcare and politics. Next: the planned skills and their evals, and the remaining areas (education, the arts, and mission abroad).
+4. **Areas of life, more skills and evals** (in progress): eight areas are written, from church leadership and safeguarding to healthcare and politics, and six skills with their evals. Next: the remaining areas (education, the arts, and mission abroad).
 
 ## Contributing
 

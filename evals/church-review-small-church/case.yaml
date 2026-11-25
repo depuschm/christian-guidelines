@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: church-review-small-church
+description: Reviewing a small church's handbook with planted safeguarding, finance and accountability gaps finds them, puts the safeguarding reporting gap first, and cites SAFE and LEAD rule IDs with sources.
+tags: [church-review, safeguarding]
+context:
+  scaffold_script: fixture.sh
