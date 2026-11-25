@@ -116,7 +116,7 @@ Every book, in the order of the canon, with the number of its chapters in the WE
 
 ### Deuterocanon
 
-15 books, 5 with a guide page so far.
+15 books, 10 with a guide page so far.
 
 #### In Catholic and Orthodox Bibles
 
@@ -124,20 +124,20 @@ Every book, in the order of the canon, with the number of its chapters in the WE
 | --- | --- | --- | --- |
 | Tobit | 14 | [Tobit](deuterocanon/tobit.md) | [Tobit](https://ebible.org/eng-webbe/TOB.htm) |
 | Judith | 16 | [Judith](deuterocanon/judith.md) | [Judith](https://ebible.org/eng-webbe/JDT.htm) |
-| Esther (Greek) | 10 | Not written yet | [Esther (Greek)](https://ebible.org/eng-webbe/ESG.htm) |
+| Esther (Greek) | 10 | [Esther (Greek)](deuterocanon/esther-greek.md) | [Esther (Greek)](https://ebible.org/eng-webbe/ESG.htm) |
 | Wisdom of Solomon | 19 | [Wisdom of Solomon](deuterocanon/wisdom-of-solomon.md) | [Wisdom of Solomon](https://ebible.org/eng-webbe/WIS.htm) |
 | Sirach | 51 | [Sirach](deuterocanon/sirach.md) | [Sirach](https://ebible.org/eng-webbe/SIR.htm) |
 | Baruch | 6 | [Baruch](deuterocanon/baruch.md) | [Baruch](https://ebible.org/eng-webbe/BAR.htm) |
-| 1 Maccabees | 16 | Not written yet | [1 Maccabees](https://ebible.org/eng-webbe/1MA.htm) |
-| 2 Maccabees | 15 | Not written yet | [2 Maccabees](https://ebible.org/eng-webbe/2MA.htm) |
-| Daniel (Greek) | 14 | Not written yet | [Daniel (Greek)](https://ebible.org/eng-webbe/DAG.htm) |
+| 1 Maccabees | 16 | [1 Maccabees](deuterocanon/1-maccabees.md) | [1 Maccabees](https://ebible.org/eng-webbe/1MA.htm) |
+| 2 Maccabees | 15 | [2 Maccabees](deuterocanon/2-maccabees.md) | [2 Maccabees](https://ebible.org/eng-webbe/2MA.htm) |
+| Daniel (Greek) | 14 | [Daniel (Greek)](deuterocanon/daniel-greek.md) | [Daniel (Greek)](https://ebible.org/eng-webbe/DAG.htm) |
 
 #### In Orthodox Bibles
 
 | Book | Chapters | Guide | Text |
 | --- | --- | --- | --- |
 | 1 Esdras | 9 | Not written yet | [1 Esdras](https://ebible.org/eng-webbe/1ES.htm) |
-| Prayer of Manasseh | 1 | Not written yet | [Prayer of Manasseh](https://ebible.org/eng-webbe/MAN.htm) |
+| Prayer of Manasseh | 1 | [Prayer of Manasseh](deuterocanon/prayer-of-manasseh.md) | [Prayer of Manasseh](https://ebible.org/eng-webbe/MAN.htm) |
 | Psalm 151 | 1 | Not written yet | [Psalm 151](https://ebible.org/eng-webbe/PS2.htm) |
 | 3 Maccabees | 7 | Not written yet | [3 Maccabees](https://ebible.org/eng-webbe/3MA.htm) |
 
