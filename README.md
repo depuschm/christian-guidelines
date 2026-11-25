@@ -78,7 +78,7 @@ The [Bible section](bible/README.md) explains which books each church reads, rec
 
 [Old Testament](bible/README.md#old-testament) · [Deuterocanon](bible/README.md#deuterocanon) · [New Testament](bible/README.md#new-testament)
 
-The New Testament is complete: all 27 books have a page, listed in the [table of books](bible/README.md#new-testament). The Old Testament is under way: every book from Genesis to Daniel has a page, and so do the first six minor prophets, Hosea to Micah. The last six, Nahum to Malachi, come next, then the deuterocanon.
+The Old Testament and the New Testament are complete: all 66 books have a page, listed in the [table of books](bible/README.md#books). The 15 books and additions of the deuterocanon come next.
 
 ## Areas of life
 
@@ -133,7 +133,7 @@ Tools that read [`AGENTS.md`](AGENTS.md) or support Agent Skills can use the `sk
 
 1. **Foundations** (done): the repository's decisions, scoring criteria, templates, checks and website, the Bible reference tooling, and one page of each kind to prove the format: [Love of God and neighbour](general/love.md) and [James](bible/new-testament/james.md).
 2. **General topics and church pages** (done): eighteen topics, from the creeds to discernment, with 106 rules, a reading list, and ten church pages (Catholic, Eastern Orthodox, Oriental Orthodox, Lutheran, Reformed, Anglican, Methodist, Baptist, Pentecostal, Anabaptist).
-3. **Bible book pages** (in progress): the New Testament is done, all 27 books, and the Old Testament has every book from Genesis to Micah. Next: the last six minor prophets, Nahum to Malachi, then the deuterocanon.
+3. **Bible book pages** (in progress): the Old Testament and the New Testament are done, all 66 books. Next: the deuterocanon.
 4. **Areas of life, more skills and evals.**
 
 ## Contributing
