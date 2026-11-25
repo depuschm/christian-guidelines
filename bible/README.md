@@ -116,18 +116,18 @@ Every book, in the order of the canon, with the number of its chapters in the WE
 
 ### Deuterocanon
 
-15 books, 0 with a guide page so far.
+15 books, 5 with a guide page so far.
 
 #### In Catholic and Orthodox Bibles
 
 | Book | Chapters | Guide | Text |
 | --- | --- | --- | --- |
-| Tobit | 14 | Not written yet | [Tobit](https://ebible.org/eng-webbe/TOB.htm) |
-| Judith | 16 | Not written yet | [Judith](https://ebible.org/eng-webbe/JDT.htm) |
+| Tobit | 14 | [Tobit](deuterocanon/tobit.md) | [Tobit](https://ebible.org/eng-webbe/TOB.htm) |
+| Judith | 16 | [Judith](deuterocanon/judith.md) | [Judith](https://ebible.org/eng-webbe/JDT.htm) |
 | Esther (Greek) | 10 | Not written yet | [Esther (Greek)](https://ebible.org/eng-webbe/ESG.htm) |
-| Wisdom of Solomon | 19 | Not written yet | [Wisdom of Solomon](https://ebible.org/eng-webbe/WIS.htm) |
-| Sirach | 51 | Not written yet | [Sirach](https://ebible.org/eng-webbe/SIR.htm) |
-| Baruch | 6 | Not written yet | [Baruch](https://ebible.org/eng-webbe/BAR.htm) |
+| Wisdom of Solomon | 19 | [Wisdom of Solomon](deuterocanon/wisdom-of-solomon.md) | [Wisdom of Solomon](https://ebible.org/eng-webbe/WIS.htm) |
+| Sirach | 51 | [Sirach](deuterocanon/sirach.md) | [Sirach](https://ebible.org/eng-webbe/SIR.htm) |
+| Baruch | 6 | [Baruch](deuterocanon/baruch.md) | [Baruch](https://ebible.org/eng-webbe/BAR.htm) |
 | 1 Maccabees | 16 | Not written yet | [1 Maccabees](https://ebible.org/eng-webbe/1MA.htm) |
 | 2 Maccabees | 15 | Not written yet | [2 Maccabees](https://ebible.org/eng-webbe/2MA.htm) |
 | Daniel (Greek) | 14 | Not written yet | [Daniel (Greek)](https://ebible.org/eng-webbe/DAG.htm) |
