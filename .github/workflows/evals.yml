@@ -43,10 +43,10 @@ jobs:
           MODEL: ${{ inputs.model }}
           JUDGE_MODEL: ${{ inputs.judge_model }}
         run: >
-          claude plugin eval . --trust-plugin --scaffold --allow-tools Write Edit
+          claude plugin eval . --trust-plugin --scaffold --allow-tools Write Edit "Bash(python3:*)"
           --runs "$RUNS" --threshold 0.8
           --model "$MODEL" --judge-model "$JUDGE_MODEL"
-          --no-publish --max-cost-usd 10 --json results.json
+          --no-publish --max-cost-usd 20 --json results.json
       - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
         if: always() && env.ANTHROPIC_API_KEY != ''
         with:

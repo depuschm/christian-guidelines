@@ -2,7 +2,7 @@
 status: discerning
 date: YYYY-MM-DD
 decided-by: <name, couple, or body such as the church council>
-consulted: <people whose counsel was sought: pastor, priest, spiritual director, friends>
+consulted: <people whose counsel was sought, such as a pastor, priest, spiritual director or friends>
 look-back: YYYY-MM-DD
 ---
 

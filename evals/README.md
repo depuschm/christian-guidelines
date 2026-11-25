@@ -6,6 +6,11 @@ Test cases for the plugin's skills, run with [`claude plugin eval`](https://code
 | --- | --- |
 | `ask-guidelines-enemies` | A personal question about loving a hostile colleague is answered with the real rule (`LOVE-5`), its Bible references to the WEBBE and its sources, pastorally, and with no invented IDs |
 | `ask-james-faith-works` | A question about faith and works in James and Paul is answered from the James page, with Catholic and Lutheran readings attributed, the Joint Declaration on the Doctrine of Justification, and no side taken |
+| `bible-study-peter-rock` | A small-group study of Matthew 16:13–20 is prepared from the Matthew page, with the passage in context, the Catholic and another church's reading of "on this rock" attributed, and open discussion questions |
+| `reading-plan-catholic-year` | A Catholic's plan to read the whole Bible in 2027 includes the deuterocanonical books, has dated daily readings linked to the WEBBE, and is saved to a file |
+| `discernment-record-ordination` | A man discerning a call to ordination training is helped with prayer and the discernment rules, his family's situation is weighed, the decision is left to him, and a discernment record is written |
+| `rule-of-life-lent-group` | A busy Anglican house group gets a short, realistic Lenten rule of life, with each commitment labelled with a real rule ID |
+| `church-review-small-church` | Reviewing a small church's handbook with planted safeguarding, finance and accountability gaps finds them, puts the safeguarding reporting gap first, and cites `SAFE` and `LEAD` rule IDs (fixture project) |
 | `no-trigger-unrelated` | An unrelated coding request doesn't fire any of the plugin's skills |
 
 ## Run them
@@ -13,17 +18,18 @@ Test cases for the plugin's skills, run with [`claude plugin eval`](https://code
 From the repository root:
 
 ```bash
-claude plugin eval . --allow-tools Write Edit
+claude plugin eval . --scaffold --allow-tools Write Edit "Bash(python3:*)"
 ```
 
+- `--scaffold` runs the fixture script of `church-review-small-church`, and `Bash(python3:*)` lets the skills run the repository's Python scripts, such as the reading plan script.
 - Add `--runs 1 --ablation none` for a quick, cheaper check while iterating.
 
-Every run is a real model call that counts against your usage. A full run with three runs per case and both arms costs a few dollars at list prices.
+Every run is a real model call that counts against your usage. A full run of the eight cases, with three runs per case and both arms, costs several dollars at list prices; the CI workflow stops at 20 dollars.
 
 In CI, the **Skill evals** workflow runs the suite when started by hand from the Actions tab. It needs an `ANTHROPIC_API_KEY` repository secret.
 
 ## Maintenance
 
-- `ask-guidelines-enemies/graders/no-invented-ids.md` encodes the valid rule IDs (`LOVE-1` to `LOVE-9`, `SCRIP-1` to `SCRIP-6`, `PRAY-1` to `PRAY-7`, `WOR-1` to `WOR-6`, `FORG-1` to `FORG-6`, `DISC-1` to `DISC-6`, `CHURCH-1` to `CHURCH-6`, `SPEECH-1` to `SPEECH-6`, `FAM-1` to `FAM-6`, `MONEY-1` to `MONEY-6`, `WORK-1` to `WORK-6`, `JUST-1` to `JUST-6`, `CREAT-1` to `CREAT-6`, `HOPE-1` to `HOPE-6`, `MISS-1` to `MISS-6`, `CIV-1` to `CIV-6`, `DISCERN-1` to `DISCERN-6`). Update it when rules or files are added.
+- `ask-guidelines-enemies/graders/no-invented-ids.md` encodes the valid rule IDs, prefix by prefix, and `rule-of-life-lent-group/graders/realistic.md` the ranges of the prefixes a rule of life uses. Update both when rules or files are added.
 - When a case fails, run it alone with `--case <name> --runs 1 --ablation none --keep-temp` and read the kept trace.
 - Add a case for each new skill, and a fixture project (`fixture.sh`, run with `--scaffold`) for skills that work on files.

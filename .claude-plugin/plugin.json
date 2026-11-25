@@ -1,7 +1,7 @@
 {
   "name": "christian-guidelines",
   "displayName": "Christian Guidelines",
-  "description": "Source-linked, ecumenical guidelines for Christian faith and life: rules where the churches agree, a guide to every book of the Bible including the deuterocanon, and what each church tradition teaches. With a skill for asking what the Bible and the churches teach, with rule IDs, Bible references and sources.",
+  "description": "Source-linked, ecumenical guidelines for Christian faith and life: rules where the churches agree, areas of life, a guide to every book of the Bible including the deuterocanon, and what each church tradition teaches. With skills to ask what the Bible and the churches teach, study a passage, make a reading plan, discern a decision, write a rule of life and review a church's safeguarding and governance.",
   "author": {
     "name": "depuschm",
     "url": "https://github.com/depuschm"
