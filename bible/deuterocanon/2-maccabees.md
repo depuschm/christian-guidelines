@@ -84,7 +84,7 @@ Questions on which the churches or scholars disagree, for example about the book
 
 ## Tutorials and further reading
 
+- `7` [Bible Odyssey, Chris Seeman, Hanukkah](https://www.bibleodyssey.org/articles/hanukkah/): the Jewish feast that grew out of the purification of the temple, from 1 and 2 Maccabees to the Talmud and today.
 - `6` [BibleProject, 2 Maccabees (overview video)](https://bibleproject.com/videos/2-maccabees/): an overview video of the book's major themes, and of how its authors drew on the Hebrew Scriptures, from BibleProject's series on the deuterocanon and Apocrypha.
 - `6` [Bible Odyssey, Naomi Janowitz, Martyrdom in Maccabees](https://www.bibleodyssey.org/articles/martyrdom-in-maccabees/): why the books of Maccabees tell stories of people who die rather than give up their faith, and what those stories did for their readers.
 - `6` [New Advent, Catholic Encyclopedia (1910), The Books of Machabees](https://www.newadvent.org/cathen/09495a.htm) (Florentine Bechtel): an older Catholic introduction to the four books of Maccabees, with the contents, original language, historicity, author and date of 2 Maccabees.
-- `6` [Bible Odyssey, Chris Seeman, Hanukkah](https://www.bibleodyssey.org/articles/hanukkah/): the Jewish feast that grew out of the purification of the temple, from 1 and 2 Maccabees to the Talmud and today.
