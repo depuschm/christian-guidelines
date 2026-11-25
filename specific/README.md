@@ -20,8 +20,9 @@ The areas are grouped in three parts: church life, home and family, and work and
 - [Online life and technology](online/README.md): speaking online as face to face, checking before you share, privacy, time away from screens, and using artificial intelligence honestly and with people at the heart of care and decisions.
 - [Healthcare and the end of life](healthcare/README.md): for patients, families, health workers and chaplains: palliative care, refusing burdensome treatment, the church's ministry to the sick, truth-telling, planning ahead, conscience, and respect for the dead and organ donation.
 - [Politics and public service](politics/README.md): for those who hold or seek public office or serve the public: integrity, the common good, truth in politics, respect for opponents, conscience, and how churches speak into politics without becoming a party.
-
-Planned: education, the arts, and mission abroad.
+- [Education and schools](education/README.md): for teachers, schools, catechists and universities: a good education for every pupil, faith offered freely and never pressed, teaching other faiths fairly, working with parents, teaching as a calling, and honest pursuit of the truth.
+- [The arts and culture](arts/README.md): for artists, musicians and those who care for church art: gifts used for God and neighbour, truth and dignity in art, credit and fair pay for creative work, worship that serves the whole congregation, the art of every culture, and the church's heritage.
+- [Mission abroad and development](missions/README.md): for missionaries, mission agencies, short-term teams and relief and development agencies: partnership with local churches, learning the culture, family care for children, accountable giving without dependence, and telling people's stories with dignity.
 
 ## Adding an area
 
