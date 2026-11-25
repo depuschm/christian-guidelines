@@ -2,7 +2,7 @@
 
 One folder per role, stage of life or field of work, such as leading a church, raising children, working, or using technology. Each folder adopts the guidance the churches have published for that area where it exists, such as safeguarding standards, and adds short, sourced rules only where needed. The [general guidelines](../general/README.md) still apply.
 
-The areas are grouped in three parts. The first four, on church life and on home and family, are written.
+The areas are grouped in three parts: church life, home and family, and work and public life.
 
 ### Church life
 
@@ -14,7 +14,14 @@ The areas are grouped in three parts. The first four, on church life and on home
 - [Marriage](marriage/README.md): free consent, preparation, keeping your promises, intimacy, honest communication and forgiveness, praying together, and how churches can support married couples.
 - [Parents and children](parents-and-children/README.md): handing on the faith at home, praying together, correcting children with patience and love, respecting them as persons, and welcoming children who need a family.
 
-Planned: a third group, **Work and public life**, will cover the workplace and business, online life and technology, artificial intelligence, healthcare and the end of life, education, the arts, politics and public life, and mission abroad.
+### Work and public life
+
+- [Work and business](workplace/README.md): for employers, managers, investors, employees and the self-employed: honest dealing and fair prices, no forced labour in supply chains, safe work and a voice for workers, fair hiring, business for the common good, and responsible investment.
+- [Online life and technology](online/README.md): speaking online as face to face, checking before you share, privacy, time away from screens, and using artificial intelligence honestly and with people at the heart of care and decisions.
+- [Healthcare and the end of life](healthcare/README.md): for patients, families, health workers and chaplains: palliative care, refusing burdensome treatment, the church's ministry to the sick, truth-telling, planning ahead, conscience, and respect for the dead and organ donation.
+- [Politics and public service](politics/README.md): for those who hold or seek public office or serve the public: integrity, the common good, truth in politics, respect for opponents, conscience, and how churches speak into politics without becoming a party.
+
+Planned: education, the arts, and mission abroad.
 
 ## Adding an area
 

@@ -86,8 +86,9 @@ Guidance for particular roles and stages of life, which adopts the churches' pub
 
 - **Church life**: [Leading a church and pastoral care](specific/church-leadership/README.md) (`LEAD`) · [Safeguarding children and vulnerable adults](specific/safeguarding/README.md) (`SAFE`)
 - **Home and family**: [Marriage](specific/marriage/README.md) (`MARR`) · [Parents and children](specific/parents-and-children/README.md) (`PAR`)
+- **Work and public life**: [Work and business](specific/workplace/README.md) (`BIZ`) · [Online life and technology](specific/online/README.md) (`TECH`) · [Healthcare and the end of life](specific/healthcare/README.md) (`HEALTH`) · [Politics and public service](specific/politics/README.md) (`POL`)
 
-Planned: work and business, online life and technology, healthcare and the end of life, politics and public life.
+Planned: education, the arts, and mission abroad.
 
 ## Church traditions
 
@@ -139,7 +140,7 @@ Tools that read [`AGENTS.md`](AGENTS.md) or support Agent Skills can use the `sk
 1. **Foundations** (done): the repository's decisions, scoring criteria, templates, checks and website, the Bible reference tooling, and one page of each kind to prove the format: [Love of God and neighbour](general/love.md) and [James](bible/new-testament/james.md).
 2. **General topics and church pages** (done): eighteen topics, from the creeds to discernment, with 106 rules, a reading list, and ten church pages (Catholic, Eastern Orthodox, Oriental Orthodox, Lutheran, Reformed, Anglican, Methodist, Baptist, Pentecostal, Anabaptist).
 3. **Bible book pages** (done): a page for every book of the Bible, 81 in all: the 39 books of the Old Testament, the 27 of the New Testament and the 15 books and additions of the deuterocanon.
-4. **Areas of life, more skills and evals** (in progress): church leadership, safeguarding, marriage, and parents and children are written. Next: work and public life, then the planned skills and their evals.
+4. **Areas of life, more skills and evals** (in progress): eight areas are written, from church leadership and safeguarding to healthcare and politics. Next: the planned skills and their evals, and the remaining areas (education, the arts, and mission abroad).
 
 ## Contributing
 
