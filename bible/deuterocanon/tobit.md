@@ -86,3 +86,4 @@ Questions on which the churches or scholars disagree. These guidelines don't pic
 - `6` [Michael Gilmour, Tobit's Dog](https://www.bibleodyssey.org/articles/tobits-dog/) (Bible Odyssey): why a dog walks into the story twice, and what it may mean.
 - `6` [Catholic Encyclopedia (1912), Tobias](https://www.newadvent.org/cathen/14749c.htm) (New Advent): an older Catholic introduction to the book, its texts, its use by the Fathers and the debate about its history.
 - `6` [Bible Odyssey, Tobit (HarperCollins Bible Dictionary)](https://www.bibleodyssey.org/dictionary/tobit/): a short entry on the book and its place among the Apocrypha and the deuterocanonical books.
+- `6` [BibleProject, Tobit (overview video)](https://bibleproject.com/videos/tobit/): an overview video of the story and its major themes, and of how its authors drew on the Hebrew Scriptures.
