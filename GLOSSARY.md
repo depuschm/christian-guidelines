@@ -12,6 +12,7 @@ When a page introduces an abbreviation that readers may not know, add a row here
 | ELCA | Evangelical Lutheran Church in America, a Lutheran church in the United States | [Justice and the poor](general/justice.md) |
 | ESV | English Standard Version (2001), a widely used evangelical translation of the Bible | [Decision 0009](docs/decisions/0009-quote-and-link-one-public-domain-translation.md) |
 | GAFCON | Global Anglican Future Conference, a movement of Anglicans formed in 2008 around the Jerusalem Statement | [The Anglican churches](traditions/anglican.md) |
+| LCMS | Lutheran Church–Missouri Synod, a confessional Lutheran church in the United States | [Lutheran churches](traditions/lutheran.md) |
 | MADR | Markdown Architectural Decision Records, the template the decision records follow | [Decisions](docs/decisions/README.md) |
 | MCC | Mennonite Central Committee, formed in 1920, which works for relief, development and peacebuilding around the world | [The Anabaptist churches](traditions/anabaptist.md) |
 | NABRE | New American Bible, Revised Edition (2011), the Catholic translation published by the United States Conference of Catholic Bishops | [The Bible](bible/README.md) |
