@@ -78,7 +78,7 @@ The [Bible section](bible/README.md) explains which books each church reads, rec
 
 [Old Testament](bible/README.md#old-testament) · [Deuterocanon](bible/README.md#deuterocanon) · [New Testament](bible/README.md#new-testament)
 
-The Old Testament and the New Testament are complete: all 66 books have a page, listed in the [table of books](bible/README.md#books). The deuterocanon is under way: Tobit, Judith, the Wisdom of Solomon, Sirach, Baruch, 1 and 2 Maccabees, the Greek additions to Esther and Daniel, and the Prayer of Manasseh have a page. The last five, 1 Esdras, Psalm 151, 3 Maccabees, 2 Esdras and 4 Maccabees, come next.
+Every book has a page: the 39 books of the Old Testament, the 27 of the New Testament and the 15 books and additions of the deuterocanon, listed in the [table of books](bible/README.md#books).
 
 ## Areas of life
 
@@ -133,7 +133,7 @@ Tools that read [`AGENTS.md`](AGENTS.md) or support Agent Skills can use the `sk
 
 1. **Foundations** (done): the repository's decisions, scoring criteria, templates, checks and website, the Bible reference tooling, and one page of each kind to prove the format: [Love of God and neighbour](general/love.md) and [James](bible/new-testament/james.md).
 2. **General topics and church pages** (done): eighteen topics, from the creeds to discernment, with 106 rules, a reading list, and ten church pages (Catholic, Eastern Orthodox, Oriental Orthodox, Lutheran, Reformed, Anglican, Methodist, Baptist, Pentecostal, Anabaptist).
-3. **Bible book pages** (in progress): the Old Testament and the New Testament are done, all 66 books, and the deuterocanon has ten of its fifteen books and additions. Next: 1 Esdras, Psalm 151, 3 Maccabees, 2 Esdras and 4 Maccabees.
+3. **Bible book pages** (done): a page for every book of the Bible, 81 in all: the 39 books of the Old Testament, the 27 of the New Testament and the 15 books and additions of the deuterocanon.
 4. **Areas of life, more skills and evals.**
 
 ## Contributing

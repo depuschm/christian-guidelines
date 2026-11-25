@@ -116,7 +116,7 @@ Every book, in the order of the canon, with the number of its chapters in the WE
 
 ### Deuterocanon
 
-15 books, 10 with a guide page so far.
+15 books, 15 with a guide page so far.
 
 #### In Catholic and Orthodox Bibles
 
@@ -136,17 +136,17 @@ Every book, in the order of the canon, with the number of its chapters in the WE
 
 | Book | Chapters | Guide | Text |
 | --- | --- | --- | --- |
-| 1 Esdras | 9 | Not written yet | [1 Esdras](https://ebible.org/eng-webbe/1ES.htm) |
+| 1 Esdras | 9 | [1 Esdras](deuterocanon/1-esdras.md) | [1 Esdras](https://ebible.org/eng-webbe/1ES.htm) |
 | Prayer of Manasseh | 1 | [Prayer of Manasseh](deuterocanon/prayer-of-manasseh.md) | [Prayer of Manasseh](https://ebible.org/eng-webbe/MAN.htm) |
-| Psalm 151 | 1 | Not written yet | [Psalm 151](https://ebible.org/eng-webbe/PS2.htm) |
-| 3 Maccabees | 7 | Not written yet | [3 Maccabees](https://ebible.org/eng-webbe/3MA.htm) |
+| Psalm 151 | 1 | [Psalm 151](deuterocanon/psalm-151.md) | [Psalm 151](https://ebible.org/eng-webbe/PS2.htm) |
+| 3 Maccabees | 7 | [3 Maccabees](deuterocanon/3-maccabees.md) | [3 Maccabees](https://ebible.org/eng-webbe/3MA.htm) |
 
 #### In some Orthodox Bibles
 
 | Book | Chapters | Guide | Text |
 | --- | --- | --- | --- |
-| 2 Esdras | 16 | Not written yet | [2 Esdras](https://ebible.org/eng-webbe/2ES.htm) |
-| 4 Maccabees | 18 | Not written yet | [4 Maccabees](https://ebible.org/eng-webbe/4MA.htm) |
+| 2 Esdras | 16 | [2 Esdras](deuterocanon/2-esdras.md) | [2 Esdras](https://ebible.org/eng-webbe/2ES.htm) |
+| 4 Maccabees | 18 | [4 Maccabees](deuterocanon/4-maccabees.md) | [4 Maccabees](https://ebible.org/eng-webbe/4MA.htm) |
 
 ### New Testament
 
