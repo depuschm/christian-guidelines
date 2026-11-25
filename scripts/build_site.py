@@ -84,7 +84,7 @@ NAV_ICONS = {
     "general/reading-list.md": "lucide/library",
     "church-leadership": "lucide/church",
     "safeguarding": "lucide/shield",
-    "parents": "lucide/baby",
+    "parents-and-children": "lucide/baby",
     "marriage": "lucide/heart-handshake",
     "workplace": "lucide/briefcase",
     "online": "lucide/message-circle",

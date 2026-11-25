@@ -18,6 +18,7 @@ When a page introduces an abbreviation that readers may not know, add a row here
 | NETS | A New English Translation of the Septuagint, a scholarly translation of the Greek Old Testament | [The Bible](bible/README.md) |
 | NIV | New International Version, the most widely used evangelical translation of the Bible | [The Bible](bible/README.md) |
 | NRSVUE | New Revised Standard Version Updated Edition (2021), an ecumenical scholarly translation of the Bible that includes the deuterocanon | [The Bible](bible/README.md) |
+| NSPCC | National Society for the Prevention of Cruelty to Children, a UK children's charity that runs a helpline for anyone worried about a child | [Safeguarding](specific/safeguarding/README.md) |
 | SBL | Society of Biblical Literature, the largest scholarly society for the study of the Bible | [The Bible](bible/README.md) |
 | SBLGNT | SBL Greek New Testament, a free critical edition of the New Testament in Greek | [The Bible](bible/README.md) |
 | URC | United Reformed Church, a church in the United Kingdom formed in 1972 from Presbyterian and Congregational churches | [The Reformed and Presbyterian churches](traditions/reformed.md) |
